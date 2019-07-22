@@ -1,0 +1,11 @@
+<header>
+	<nav>
+		<a href="/">Mike Thomas</a>
+		{%- for nav in collections.nav | reverse -%}
+			<a class="{% if nav.url == page.url %}current{% endif %}" href="{{ nav.url | url }}">{{ nav.data.navtitle }}</a>
+		{%- endfor -%}
+	</nav>
+</header>
+
+
+

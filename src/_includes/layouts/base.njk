@@ -1,0 +1,43 @@
+<!doctype html>
+<html {% if theme %}theme="{{ theme }}"{% endif %}>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Multi-disciplinary designer and Londoner, with a love of great coffee, old book smells, looking out for others, and perfect dropshots.">
+	<meta name="theme-color" content="#010101" id="theme-color">
+
+	<title>Mike Thomas: multi-disciplinary designer.</title>
+
+	<link href="https://fonts.googleapis.com/css?family=PT+Sans+Serif:400,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700" rel="stylesheet">
+  <link rel="shortcut icon" href="favicon.ico" />
+  <link rel="stylesheet" href="/_assets/css/styles.css" />
+
+</head>
+
+<body>
+
+  {% include "header.njk" %}
+
+  <main {% if layoutClass %}class="{{ layoutClass }}"{% endif %}>
+
+  <h1>{{ title }}</h1>
+  
+  {{ content | safe }}
+
+  </main>
+  
+  {% include "footer.njk" %}
+
+  {% set js %}
+    {% include "js/core.js" %}
+    {% include "js/hello.js" %}
+  {% endset %}
+  <script>{{ js | jsmin | safe }}</script>
+
+</body>
+
+</html>
+
+
+

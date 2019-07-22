@@ -47,18 +47,19 @@ img {
 
 
 :root {
-  --bg-color: #FFF;
-  --text-color: #010101;
-  --accent-color:blue;
-  --body-text: 'PT Serif', Georgia, serif;
-  --display-text: 'Poppins', Arial, sans-serif;
-  --spacer: 1.5rem;
+  --bg-color:         #FFF;
+  --text-color:       #010101;
+  --alt-text-color:   #6a6a6a;
+  --accent-color:     blue;
+  --body-text:          'PT Serif', Georgia, serif;
+  --display-text:       'Poppins', Arial, sans-serif;
+  --spacer:             1.5rem;
 }
 
 :root[theme='dark'] {
-  --bg-color: #000;
-  --text-color: #eee;
-  --accent-color: #dbe2ef;
+  --bg-color:         #000;
+  --text-color:       #eee;
+  --accent-color:     #dbe2ef;
 }
 
 /* ------------------- */
@@ -142,7 +143,7 @@ img {
 
 
 figcaption {
-  color: #6a6a6a;
+  color: var(--alt-text-color);
 }
 
 /* ------------------- */
@@ -185,6 +186,7 @@ footer p,
 footer p:first-of-type {
   font-size: 100%;
   font-family:var(--body-text);
+  color: var(--alt-text-color);
 }
 
 

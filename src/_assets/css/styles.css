@@ -179,7 +179,6 @@ nav > a.current {
 /* ------------------- */
 
 footer {
-  display: grid;
 }
 
 footer p,
@@ -187,6 +186,12 @@ footer p:first-of-type {
   font-size: 100%;
   font-family:var(--body-text);
   color: var(--alt-text-color);
+}
+
+footer a,
+footer a:visited {
+  color: inherit;
+  border-bottom-color: inherit;
 }
 
 

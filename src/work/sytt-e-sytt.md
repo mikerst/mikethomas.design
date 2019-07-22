@@ -37,4 +37,9 @@ Rather than use a separate stand-alone logotype, the S is dropped to avoid creat
 
 Honestly, I wish I could say that there are lots of moodboards and iterations to show, but we landed on something fairly quickly, and sometimes that’s OK.  The logo consists of a couple of different weights, to allow for differing label sizes and to accommodate different fabric types and thread weights. 
 
+<figure>
+	<img src="/_assets/img/case-study__sytt__photos.jpg" />
+	<figcaption>In the wild.</figcaption>
+</figure>
+
 Sometimes small, fun, unpaid projects are a delight to work on and it’s particular satisfying to see your work on something physical.

@@ -4,7 +4,6 @@
 # build artefacts
 /public
 
-
 # secrets and errors
 .env
 /yarn-error.log

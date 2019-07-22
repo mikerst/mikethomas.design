@@ -185,7 +185,6 @@ footer p,
 footer p:first-of-type {
   font-size: 100%;
   font-family:var(--body-text);
-  text-align: center;
 }
 
 
@@ -333,5 +332,5 @@ screen view. */
     }
     main.case-study > *, main.basic > * {
       grid-column: 1 / 4;
-    } 
+    }
 }

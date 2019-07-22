@@ -324,7 +324,7 @@ screen view. */
 
 @media screen and (max-width: 480px) {
     :root {
-      font-size: 70%;
+      font-size: 90%;
     }
     main, header, footer {
       padding: 2rem;

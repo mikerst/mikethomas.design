@@ -19,7 +19,7 @@ The email touchpoints in our CRM programme were well thought out and effective, 
     <li>Very few people in the business were able to create new emails leading to bottlenecks and resource crunches.</li>
 </ol>
 
-## Thinking in outcomes
+## Outcomes
 
 Before diving in to the solutions, it felt important to try and express the problems in terms of desirable outcomes. In this instance, there were some fairly clear-cut things we needed, namely:
 
@@ -29,13 +29,20 @@ Before diving in to the solutions, it felt important to try and express the prob
     <li>Engineering colleagues be able to access all email .html in a way that suits engineering workflows.</li>
 </ol>
 
-## One eye on the future
+### Side-goals
 
 At the time the work was commencing, we were aware that a company rebrand was on the horizon, and so the project provided an opportunity to audit and slim down our email ecosystem with a view to more easily rolling out a brand refresh at a later date.
 
-## Asking the right questions
-With three outcomes established, a set of question arose around how we might actually set about achieving these. &#9660;
+### Keeping things pragmatic
+
+With three broad outcomes, a lot of questions arose around what sorts of solutions would work best, spawning a whole bunch of sub questions about execution, implementation, knowledge sharing and so on. It was really tempting to spend a lot of time researching and exploring lots of different options, to try them out and see what fits best, however we needed to get moving quickly, and so a few quick decisions were made to help things along.
+
+## Outcome 1 
+
+> Design colleagues should have a set of robust, easy-to-use assets to work from.
+
+The team was already using Sketch, and so we took the decision right away to focus our efforts here on producing a library file containing all of our emails broken down in to their various elements, based loosely upon atomic design principles.
 
 <figure>
-    <img src="/_assets/img/case-study__email__questions.jpg" />
+  <img src="/_assets/img/case-study__email__stylekit.jpg" />
 </figure>

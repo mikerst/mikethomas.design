@@ -146,6 +146,16 @@ figcaption {
   color: var(--alt-text-color);
 }
 
+blockquote {
+  margin: 0;
+  padding: 0 5ch;
+}
+blockquote > p {
+  font-style: italic;
+  padding:0;
+  margin:0;
+}
+
 /* ------------------- */
 /* Navigation          */
 /* ------------------- */

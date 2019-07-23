@@ -8,9 +8,10 @@ tags:
 navtitle: About
 ---
 
-I recently concluded a six year stint at TotallyMoney, a FinTech scale-up near Silicon Roundabout, where I've worked across Brand, Marketing and Product teams, helping to grow the business from zero to over 1.5 million customers
 
-Throughout this time, and prior, I've had the good fortune to work with clients and organisations such as the NHS, DB Schenker, Cognita Schools, Capital One, MBNA, Barclaycard, and Zeal to name but a few.
+I recently concluded a six year stint at TotallyMoney, a FinTech scale-up near Silicon Roundabout, where I've worked across Brand, Marketing and Product teams, helping to grow the business from zero to over 1.5 million customers.
+
+Throughout this time, and prior, I've had the good fortune to work with clients and organisations such as the NHS, DB Schenker, Cognita Schools,Capital One, MBNA, Barclaycard, and Zeal to name but a few.
 
 Right now, I'm on a planned career break, and am looking for new opportunities to commence over the summer. 
 

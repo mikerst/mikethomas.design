@@ -37,12 +37,17 @@ At the time the work was commencing, we were aware that a company rebrand was on
 
 With three broad outcomes, a lot of questions arose around what sorts of solutions would work best, spawning a whole bunch of sub questions about execution, implementation, knowledge sharing and so on. It was really tempting to spend a lot of time researching and exploring lots of different options, to try them out and see what fits best, however we needed to get moving quickly, and so a few quick decisions were made to help things along.
 
-## Outcome 1 
-
-> Design colleagues should have a set of robust, easy-to-use assets to work from.
+## Easy-to-use assets
 
 The team was already using Sketch, and so we took the decision right away to focus our efforts here on producing a library file containing all of our emails broken down in to their various elements, based loosely upon atomic design principles.
 
 <figure>
   <img src="/_assets/img/case-study__email__stylekit.jpg" />
+</figure>
+
+One of the key things to consider when producing any design asset or library that will be used by others is to ensure the usability of your files. A lot of time was spent naming things correctly and ensuring the structure of the document, while not perfect out of the gate, made sense and was easily navigable by the team.
+
+<figure>
+  <img src="/_assets/img/case-study__email__symbols.jpg" />
+  <figcaption>Clearly not perfect, by a sensible starting point.</figcaption>
 </figure>

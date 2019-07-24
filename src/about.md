@@ -95,11 +95,10 @@ Right now, I'm on a planned career break, and am looking for new opportunities t
     </li>
 </ul>
 
+
 ## Misc
 
 <ul>
-    <li>
-        <span>Europe:</span> <span>IN</span></li>
     <li>
         <span>Specs:</span> <span><a title="Herbrand by Cubitts" target="_blank" href="https://www.cubitts.co.uk/glasses/herbrand?color=dark-turtle">Herbrand by Cubitts</a></span>
     </li>

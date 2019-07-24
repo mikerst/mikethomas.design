@@ -58,3 +58,17 @@ Spinning up a new email design from one of the base templates takes mere seconds
   <source src="/_assets/mov/case-study__email__template.mp4" type="video/mp4">
   <p>This browser does not support the video element.</p>
 </video>
+
+## Empowering Colleagues
+
+
+## More accessible codebase
+
+XXXX XXXX
+
+<figure>
+  <img src="/_assets/img/case-study__email__repo.jpg" />
+  <figcaption>Clean, simple codebase, with installation/orientation README for newcomers.</figcaption>
+</figure>
+
+

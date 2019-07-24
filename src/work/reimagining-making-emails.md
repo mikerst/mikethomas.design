@@ -47,12 +47,12 @@ The team was already using Sketch, and so we took the decision right away to foc
 
 One of the key things to consider when producing any design asset or library that will be used by others is to ensure the usability of your files. A lot of time was spent naming things correctly and ensuring the structure of the document, while not perfect out of the gate, made sense and was easily navigable by the team.
 
-So much so, that spinning up a new email design from one of the base templates takes mere seconds.
-
 <figure>
   <img src="/_assets/img/case-study__email__symbols.jpg" />
   <figcaption>Clearly not perfect, by a sensible starting point.</figcaption>
 </figure>
+
+Spinning up a new email design from one of the base templates takes mere seconds, whereas previously it would need to have been located in a job folder on the company server.
 
 <video controls autoplay loop>
   <source src="/_assets/mov/case-study__email__template.mp4" type="video/mp4">

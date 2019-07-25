@@ -43,13 +43,24 @@ The team was already using Sketch, and so we took the decision right away to foc
 
 <figure>
   <img src="/_assets/img/case-study__email__stylekit.jpg" />
+  <figcaption>High-level view of the library, showing a clear cascade from core styles through to full templates.</figcaption>
+</figure>
+
+<figure>
+  <img src="/_assets/img/case-study__email__colour.jpg" />
+  <figcaption>Primary brand colours, as well as some utility and marketing colours.</figcaption>
+</figure>
+
+<figure>
+  <img src="/_assets/img/case-study__email__type.jpg" />
+  <figcaption>Very simple set of type styles for use on across small and large sizing breakpoints.</figcaption>
 </figure>
 
 One of the key things to consider when producing any design asset or library that will be used by others is to ensure the usability of your files—the primary users for a Sketch library are going to be other designers after all. A lot of time was spent naming things in a common sense manner and ensuring a logical structure of the document.
 
 <figure>
   <img src="/_assets/img/case-study__email__symbols.jpg" />
-  <figcaption>Sensible, usable naming conventions.</figcaption>
+  <figcaption>Sensible, usable naming conventions.  </figcaption>
 </figure>
 
 Spinning up a new email design from one of the base templates takes mere seconds, whereas previously it would need to have been located in a job folder on the company server.

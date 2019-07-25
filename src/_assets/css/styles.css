@@ -287,7 +287,8 @@ main > h3 + p {
   margin-top: calc(var(--spacer) / 2);
 }
 
-main > figure {
+main > figure, 
+main > video {
   text-align: center;
   margin-bottom: calc(4rem - var(--spacer));
   margin-top: 4rem;

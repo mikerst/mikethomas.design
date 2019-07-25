@@ -11,15 +11,15 @@ theme:
 
 During my time at TotallyMoney, email was a key way in which we communicated with our customers. Through a mix of monthly service updates, personalized offers or engaging guide content, we managed to maintain a very high active customer base as well as generate significant amounts of revenue. 
 
-The email touchpoints in our CRM programme were well thought out and effective, yet as the business grew, and our efforts increased in sophistication and pace, the team began to feel the strain. Through taking feedback from colleagues and looking at the challenges I was having in my own workflow, three key problem became apparent that we needed to address:
+The email touchpoints in our CRM programme were well thought out and effective, yet as the business grew, and our efforts increased in sophistication and pace, the team began to feel the strain. Through taking feedback from colleagues and looking at the challenges I was having in my own workflow, three key problem became apparent that we needed to address.
 
 ### Key problems
 
-<ol>
-    <li>Design assets were silo’d and undocumented, leading to inconsistencies in our email design language and uncertainty for new designers joining the team.</li>
-    <li>Hard-to-handle HTML, as well as a high technical barrier to entry for designers and marketers made it hard for others to contribute as well as maintain.</li>
-    <li>Very few people in the business were able to create new emails leading to bottlenecks and resource crunches.</li>
-</ol>
+1. Inconsistencies in our email design language.
+2. Lack of design documentation.
+3. Hard-to-handle HTML, with a high technical barrier to entry.
+4. Resource bottlenecks during busier periods.
+
 
 ### Wider business context
 
@@ -27,15 +27,19 @@ At the time the work was commencing, we were aware that a company rebrand was on
 
 We were also transitioning to a new data-driven CRM platform, and so we needed to spend time refactoring our email codebase to better leverage the new environment. 
 
-## Outcomes
+## Role
+
+Working as part of a cross-functional product team, my role 
+
+
+## Starting with outcomes
 
 Before diving in to the solutions, it felt important to try and express the problems in terms of desirable outcomes. In this instance, there were some fairly clear-cut things we needed, namely:
 
-<ol>
-    <li>Design colleagues should have a set of robust, easy-to-use assets to work from.</li>
-    <li>Marketing colleagues should be empowered to self-serve new emails efficiently.</li>
-    <li>Engineering colleagues should be able to access all email .html in a way that suits engineering workflows.</li>
-</ol>
+1. Design colleagues should have a set of robust, easy-to-use assets to work from.
+2. Marketing colleagues should be empowered to self-serve new emails efficiently.
+3. Engineering colleagues should be able to access all email .html in a way that suits engineering workflows.
+
 
 ### Keeping things pragmatic
 

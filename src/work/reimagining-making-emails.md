@@ -60,7 +60,7 @@ One of the key things to consider when producing any design asset or library tha
 
 <figure>
   <img src="/_assets/img/case-study__email__symbols.jpg" />
-  <figcaption>Sensible, usable naming conventions.  </figcaption>
+  <figcaption>Sensible, usable naming conventions begin replacing a less understandable sheme.</figcaption>
 </figure>
 
 Spinning up a new email design from one of the base templates takes mere seconds, whereas previously it would need to have been located in a job folder on the company server.

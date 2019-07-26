@@ -7,25 +7,22 @@ theme:
 ---
 
 
-## Background
+## Starting with problems
 
-During my time at TotallyMoney, email was a key way in which we communicated with our customers. Through a mix of monthly service updates, personalised offers or engaging guide content, we managed to maintain a very high active customer base as well as generate significant amounts of revenue. 
+At TotallyMoney, email was a key way in which we communicated with our customers. Through a mix of monthly service updates, personalised offers or well thought out journeys, we managed to maintain a high active customer base.
 
-The email touchpoints in our CRM programme were well thought out and effective, yet as the business grew, and our efforts increased in sophistication and pace, the team began to feel the strain. Through taking feedback from colleagues and looking at the challenges I was having in my own workflow, some key problems became apparent that we needed to address.
+However, as our efforts increased in pace and sophistication, combined with an imminent rebrand and move to a new CRM platform, the team began to feel the strain. Through taking feedback from colleagues and looking at the challenges I was having in my own workflow, some key problems became apparent that we needed to address.
 
-### Key problems
+### Visual inconsistencies
 
-1. Inconsistencies in our email design language.
-2. Lack of design documentation.
-3. Hard-to-handle HTML, with a high technical barrier to entry.
-4. Resource bottlenecks during busier periods.
+Different email touchpoints created at different times by different team members didn't all share a common design languqge, leading to situations where the third of fourth email in a campaign sequence might have, for example, a slightly different header design.
 
+### Silo'd assets
 
-### Wider business context
+### Hard-to-handle HTML
 
-At the time the work was commencing, we were aware that a company rebrand was on the horizon, and so the project provided an opportunity to audit, slim down and generally perform a bit of housekeeping on our email ecosystem with a view to more easily rolling out a brand refresh at a later date.
+### Resource bottlenecks
 
-We were also transitioning to a new data-driven CRM platform, and so we needed to spend time refactoring our email codebase to better leverage the new environment, including rewriting all base components and templates, as well as accompanying documentation.
 
 ## Outcomes & Role
 

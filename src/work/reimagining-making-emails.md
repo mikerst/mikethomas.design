@@ -1,6 +1,6 @@
 ---
 title: Re-imagining how we made emails at TotallyMoney
-intro: Improving the quality of life for team members working on new HTML email projects by standardising the email design language and simplifying the codebase.
+intro: Improving the quality of life for team members working on new HTML email projects by centralising email design assets and simplifying the codebase.
 hero: case-study__email__hero.jpg
 date: 2019-07-14
 theme: 
@@ -9,7 +9,7 @@ theme:
 
 ## Background
 
-During my time at TotallyMoney, email was a key way in which we communicated with our customers. Through a mix of monthly service updates, personalized offers or engaging guide content, we managed to maintain a very high active customer base as well as generate significant amounts of revenue. 
+During my time at TotallyMoney, email was a key way in which we communicated with our customers. Through a mix of monthly service updates, personalised offers or engaging guide content, we managed to maintain a very high active customer base as well as generate significant amounts of revenue. 
 
 The email touchpoints in our CRM programme were well thought out and effective, yet as the business grew, and our efforts increased in sophistication and pace, the team began to feel the strain. Through taking feedback from colleagues and looking at the challenges I was having in my own workflow, some key problems became apparent that we needed to address.
 

@@ -7,32 +7,26 @@ theme:
 ---
 
 
-## Starting with problems
+## The Problem(s)
 
 At TotallyMoney, email was a key way in which we communicated with our customers. Through a mix of monthly service updates, personalised offers or well thought out journeys, we managed to maintain a high active customer base.
 
 However, as our efforts increased in pace and sophistication, combined with an imminent rebrand and move to a new CRM platform, the team began to feel the strain. Through taking feedback from colleagues and looking at the challenges I was having in my own workflow, some key problems became apparent that we needed to address.
 
-### Visual inconsistencies
+1. Silo'd assets that were tricky to find and reference were making it harder than it needed to be to create new email designs leading to inconsistencies creeping in to the design language.
+2. The codebase we were using to create the HTML for our emails had a high barrier to entry for newcomers, particularly designers, and was also setup to cater for our previous CRM platform leading to an over reliance on one or two people to produce all new HTML emails and bottlenecks.
 
-Different email touchpoints created at different times by different team members didn't all share a common design languqge, leading to situations where the third of fourth email in a campaign sequence might have, for example, a slightly different header design.
+## My role
 
-### Silo'd assets
+Working as part of a cross-functional product team, my role focused in the design and distribution of an up to date email design library, refactoring our HTML email codebase to make it simpler and easier to use, as well as educating other members of the team regarding how to make use of all the new assets and resources through one-to-one sessions, and written documentation.
 
-### Hard-to-handle HTML
-
-### Resource bottlenecks
-
-
-## Outcomes & Role
+## Outcomes
 
 There were some fairly clear-cut things we needed—that we didn't have—put in place that we felt would solve the above mentioned problems.
 
 1. Design colleagues should have a set of documented, easy-to-use assets to work from.
 2. Marketing colleagues should be empowered to self-serve new emails efficiently.
 3. Engineering colleagues should be able to access all email .html in a way that suits engineering workflows.
-
-Working as part of a cross-functional product team, my role focused in the design and distribution of an up to date email design library, refactoring our HTML email codebase to make it simpler and easier to use, as well as educating other members of the team regarding how to make use of all the new assets and resources through one-to-one sessions, and written documentation.
 
 ## Sketch Library
 

@@ -21,7 +21,7 @@ However, as our efforts increased in pace and sophistication, combined with an i
 
 Working as part of a cross-functional product team, my role focused on the design and distribution of—spoiler alert—an up to date email design library, refactoring our HTML email codebase to make it simpler and easier to use, as well as educating other members of the team regarding how to make use of all the new assets and resources through one-to-one sessions, and written documentation.
 
-## Outcomes
+## Desired outcomes
 
 Translating the problems outlined above in to some simple outcomes was an initial first step to help orient the work. If the following ring true once the work is done, we know we've made an impactful difference.
 
@@ -31,9 +31,9 @@ Translating the problems outlined above in to some simple outcomes was an initia
 
 ## Solution #1 — Sketch Library
 
-The team were well-travelled Sketch users, and so we took the decision right away to focus our efforts on producing a library file containing our email design language abstracted and broken down in to their various parts, based upon atomic design principles.
+The team were well-travelled Sketch users, and so we took the decision to focus our efforts on producing a library file containing our email design language abstracted and broken down in to their various parts, based upon atomic design principles.
 
-Nothing was added to the library unless it was to be used and re-used in other email creatives. Legacy and one-off materials were left out to avoid clutter. The end result was a fairly lean, paired back file that contained only the necessary basics.
+Nothing was added to the library unless it was to be used and re-used in other email creatives. Legacy and one-off materials were left out to avoid clutter. The end result was a fairly lean, paired back file that contained only what was necessary at the time.
 
 <figure>
   <img src="/_assets/img/case-study__email__stylekit.jpg" />
@@ -45,25 +45,41 @@ Nothing was added to the library unless it was to be used and re-used in other e
   <figcaption>Starting with colour, typography and some simple email-approproate breakpoints.</figcaption>
 </figure>
 
-### Naming things 
- 
-One of the key things to consider when producing any design asset or library that will be used by others is to ensure the usability of your files—the primary users for a Sketch library are going to be other designers after all. A lot of time was spent naming things in a common sense manner and ensuring a logical structure of the document.
-
-We iterated over the naming a couple of times. We originally started out by naming things in a very front-endy fashion by using a BEM sytnax e.g. component__header--small, however this doesn't translate well to how Sketch likes to structure symbols, nested symbols and so on, and so in the end we opted for more a more common sense, human readable approach that both leveraged Sketch's naming rules and kept things simple.
-
 <figure>
-  <img src="/_assets/img/case-study__email__symbols.jpg" />
-  <figcaption>Sensible, usable naming conventions begin replacing a less understandable scheme.</figcaption>
+  <img src="/_assets/img/case-study__email__components.jpg" />
+  <figcaption>Building out various components.</figcaption>
 </figure>
 
-### Speed of use
+<figure>
+  <img src="/_assets/img/case-study__email__templates.jpg" />
+  <figcaption>Bringing everything together in template form.</figcaption>
+</figure>
 
-Spinning up a new email design from one of the base templates takes mere seconds, whereas previously it would need to have been located in a job folder on the company server, pasted in to a new folder and renamed. 
+### In practice
+
+Once the library is hooked up to Sketch, starting a a new email design from one of the base templates takes a very short space of time.
 
 <video controls autoplay loop>
   <source src="/_assets/mov/case-study__email__template.mp4" type="video/mp4">
   <p>This browser does not support the video element.</p>
 </video>
+
+
+### A note on naming things 
+ 
+One of the key things to consider when producing any design asset or library that will be used by others is to ensure the usability of your files—the primary users for a Sketch library are going to be other designers after all. A lot of time was spent naming things in a common sense manner and ensuring a logical, human readable structure of the document.
+
+<figure>
+  <img src="/_assets/img/case-study__email__symbols.jpg" />
+  <figcaption>WIP view of a sensible, usable naming convention coming to fruition.</figcaption>
+</figure>
+
+### Governance and distribution
+
+The team had recently started using Dropbox for Business as a way to organise all of our shared assets and it proved to be a great place to keep the library file stored. Changes to the file would propogate across the team more or less instantly, and we could also leverage Dropbox's inbuilt, albeit limited, file version history should something go awry. 
+
+In terms of governance, as the library file was being created..
+
 
 ## Solution #2 — Cleaner, Simpler HTML
 
@@ -75,6 +91,8 @@ Pending...
 </figure>
 
 ## Solution #3 — Better documentation
+
+Any documentation is better than no documentation....
 
 Writing great documentation is, in a lot of situations, a difficult task to get done. So often, it's seen as an afterthought or deprioritised in favour more critical tasks. Of course, good design documentation should be a key deliverable in any situation where you are making something that other team members will use. At TotallyMoney, we were a small team, and hadn't historically been great at making sure things were written up well. 
 

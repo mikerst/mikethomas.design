@@ -1,11 +1,11 @@
 ---
-title: Hello 👋
+title: Hello?
 layout: default
 layoutClass: basic
 theme: 
 ---
 
-I'm [Mike](/about/), a multiple-hat-wearing designer based in London with a love of old book smells, looking out for others, great coffee, and perfect dropshots.
+Hi there, I'm [Mike](/about/), a multiple-hat-wearing designer based in London. I love of old book smells, looking out for others, great coffee, and perfect dropshots.
 
 ## Recent Work
 

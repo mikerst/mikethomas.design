@@ -8,11 +8,11 @@ theme:
 
 ## Background
 
-A good friend of mine wanted a logo to appear on the labels for her children’s apparel work that she was doing in her spare time. The brand name is a play on a Swedish phrase ‘Bytt e bytt’ (roughly—what is traded is traded). In this instance, ‘what is sewn, is sewn’. 
-	
+Over a 12 month period at TotallyMoney, the business went through a significant amount of organisational change. It was an exciting and positive time, however it also came with some challenges. The design team was under pressure to juggle a lot of different tasks. With lots of stakeholders needing to request time from the design team every week, it wasn't always possible to conduct typical kick-off sessions for everyone piece of work, large or small. There was a need to try and reduce the amount of meetings happening in favour a more hands-off approach. 
 
+As part of a squad of stakeholders from across the business, I worked towards helping the business find a simple, light-on-admin way in which colleagues could provide a brief to a designer, with—at a minimum—all of the essential information a designer might need to pick up a job and get started. 
 
-<figure>
-	<img src="/_assets/img/case-study__sytt__mark.jpg" />
-</figure>
+## Problems
+
+1. The team was stretched, working across marketing channels as well as across newly forming product squads, 
 

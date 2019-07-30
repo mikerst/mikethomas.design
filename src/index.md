@@ -7,6 +7,16 @@ theme:
 
 Hi there, I'm [Mike](/about/), a multiple-hat-wearing designer based in London. I love of old book smells, looking out for others, great coffee, and perfect dropshots.
 
+<section class="projects">
+    {%- for page in collections.work -%}
+        <div class="project">
+            <a href="{{ page.url }}"><img src="/_assets/img/{{ page.data.hero }}" /></a>
+            <h2><a href="{{ page.url }}">{{ page.data.title }}</a></h2>
+        </div>
+    {%- endfor -%}
+</section>
+
+
 ## Recent Work
 
 <ul>

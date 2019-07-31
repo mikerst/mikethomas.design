@@ -11,7 +11,7 @@ theme:
 
 At TotallyMoney, email was a key way in which we communicated with our customers. Through a mix of monthly service updates, personalised offers or well thought out journeys, we managed to maintain a high active customer base.
 
-However, as our efforts increased in pace and sophistication, combined with an imminent rebrand and move to a new CRM platform, the team began to feel the strain. Through taking feedback from colleagues and looking at the challenges I was having in my own workflow, some key problems became apparent that we needed to address.
+However, as our efforts increased in pace and sophistication, combined with an imminent rebrand _and_ move to a new CRM platform, the team began to feel the strain. Through taking feedback from colleagues and looking at the challenges I was having in my own workflow, some key problems became apparent that we needed to address.
 
 1. Silo'd assets that were tricky to find and reference were making it harder than it needed to be to create new email designs leading to inconsistencies creeping in to the design language.
 2. The codebase we were using to create the HTML for our emails had a high barrier to entry for newcomers, particularly designers, and was also setup to cater for our previous CRM platform leading to an over reliance on one or two people to produce all new HTML emails.
@@ -119,6 +119,8 @@ __Solution:__ _We currently default to Arial as a fallback font due to its wide 
 __To Consider:__ _Should we even be using web fonts in emails?_
 
 
+Wrap up this section here.
+
 
 ## Solution #3 — Onboarding Guides
 
@@ -129,4 +131,4 @@ We decided to focus our efforts here on producing 'how to' guides, as a way to s
   <figcaption>"Designing for email: Product Alerts"— structure of an onboarding guide — from high level details, to digging deeper in to deliverable-specific things, with an appendix for extra useful info.</figcaption>
 </figure>
 
-
+Talk about using Dropbox Paper here.

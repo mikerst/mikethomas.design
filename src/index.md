@@ -1,11 +1,11 @@
 ---
-title: Hello?
+title: Hey 👋
 layout: default
 layoutClass: basic
 theme: 
 ---
 
-Hi there, I'm [Mike](/about/), a multiple-hat-wearing designer based in London. I love of old book smells, looking out for others, great coffee, and perfect dropshots.
+I'm [Mike](/about/), a multiple-hat-wearing designer based in London, with a love of old book smells, looking out for others, posh coffee, and perfect dropshots.
 
 <section class="projects">
     {%- for page in collections.work -%}

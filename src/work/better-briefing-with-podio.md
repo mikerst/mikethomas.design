@@ -1,6 +1,6 @@
 ---
 title: Improving the briefing process via Podio
-intro: Improving the process of creating design requests for stakeholders using The Five Whys.
+intro: Streamlining processes, and making it easier for non-designers to initialise design briefs.
 hero: case-study__briefing__hero.jpg
 date: 2019-07-14
 theme: 

@@ -2,10 +2,10 @@
 title: Hey 👋
 layout: default
 layoutClass: basic
-theme: 
+theme: dark
 ---
 
-I'm [Mike](/about/), a multiple-hat-wearing designer based in London, with a love of old book smells, looking out for others, posh coffee, and perfect dropshots.
+I'm [Mike](/about/), a sparkly-eyed, multiple-hat-wearing designer based in London, with a love of old book smells, looking out for others, and posh coffee.
 
 <section class="projects">
     {%- for page in collections.work -%}

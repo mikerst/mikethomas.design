@@ -9,6 +9,9 @@ module.exports = function(config) {
   // Add some utility filters
   config.addFilter("dateDisplay", require("./src/_assets/utils/date.js") );
 
+  // Allows things like tag merging
+  config.setDataDeepMerge(true);
+
   // compress and combine js files
   config.addFilter("jsmin", function(code) {
     const UglifyJS = require("uglify-js");

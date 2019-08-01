@@ -4,6 +4,8 @@ layoutClass: case-study
 templateEngineOverride: njk, md
 ---
 
+<h1>{{ title }}</h1>
+
 {{ intro }}
 
 {% if hero %}

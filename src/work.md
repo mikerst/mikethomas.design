@@ -8,6 +8,8 @@ tags:
 navtitle: Work
 ---
 
+<h1>{{ title }}</h1>
+
 Below you can find a modest selection of projects I've worked on over the last few years.
 
 <section class="projects">

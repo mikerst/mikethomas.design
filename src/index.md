@@ -1,11 +1,20 @@
 ---
-title: Hey 👋
+title: 
+intro: Multiple-hat-wearing designer based in London, with a love of old book smells, looking out for others, and posh coffee.
 layout: default
-layoutClass: basic
-theme: dark
+layoutClass: home
+theme: 
 ---
 
-I'm [Mike](/about/), a sparkly-eyed, multiple-hat-wearing designer based in London, with a love of old book smells, looking out for others, and posh coffee.
+<h1 class="homepage-heading">Mike Thomas</h1>
+
+<section class="cover">
+
+Hey there, I'm [Mike](/about/), a big-hearted, multiple-hat-wearing designer based in London, with a love of old book smells, looking out for others, and posh coffee.
+
+</section>
+
+## Work
 
 <section class="projects">
     {%- for page in collections.work -%}
@@ -15,17 +24,6 @@ I'm [Mike](/about/), a sparkly-eyed, multiple-hat-wearing designer based in Lond
         </div>
     {%- endfor -%}
 </section>
-
-
-## Recent Work
-
-<ul>
-{%- for page in collections.work -%}
-  <li>
-    <a href="{{ page.url }}">{{ page.data.title }}</a>  
-  </li>
-{%- endfor -%}
-</ul>
 
 ## Journal
 
@@ -38,6 +36,6 @@ I'm [Mike](/about/), a sparkly-eyed, multiple-hat-wearing designer based in Lond
   </li>
 {%- endfor -%}
 {% else %}
-  <li>Content coming soon.</li>
+  <li>Working on it!</li>
 {% endif %}
 </ul>

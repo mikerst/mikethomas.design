@@ -88,6 +88,18 @@ h1 {
   font-size: 3rem;
 }
 
+/* Hidden H1 technique courtesy of BBC.co.uk */
+h1.homepage-heading {
+  display: block;
+  overflow: hidden;
+  text-indent: 100%;
+  white-space: nowrap;
+  font-size: 0px;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+}
+
 h2 {
   font-size: 2rem;
   font-weight: 700;
@@ -186,15 +198,12 @@ nav a:first-of-type {
 
 nav > a.current {
   border-bottom: 2px solid var(--accent-color);
-  border
 }
 
 /* ------------------- */
 /* Footer              */
 /* ------------------- */
 
-footer {
-}
 
 footer p,
 footer p:first-of-type {
@@ -224,6 +233,10 @@ main, header, footer {
 }
 
 /* Basic Centered */
+
+main.home {
+  padding-top: 0;
+}
 
 main.basic {
   display: grid;
@@ -298,25 +311,25 @@ main > video {
 /* Various Sections    */
 /* ------------------- */
 
-.intro {
-  width: 100%;
-  min-height: 50vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
 
-.projects {
- 
+.cover, .projects {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
   grid-auto-rows: auto;
   grid-gap: 2rem;
   margin: calc(var(--spacer)*2) 0
 }
+
+
+
+.cover > * {
+  grid-column: 1 / 3 ;
+}
+
 .project {
   margin-top: 0;
 }
+
 .project h2 {
   margin-top: var(--spacer);
   font-size: 1.4rem;
@@ -325,7 +338,6 @@ main > video {
 .project h2 {
   font-weight: 600;
 }
-
 
 .timeline li {
   display: flex;

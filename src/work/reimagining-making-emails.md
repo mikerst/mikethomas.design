@@ -6,7 +6,6 @@ date: 2019-07-14
 theme: 
 ---
 
-
 ## The Problem(s)
 
 At TotallyMoney, email was a key way in which we communicated with our customers. Through a mix of monthly service updates, personalised offers or well thought out journeys, we managed to maintain a high active customer base.

@@ -8,6 +8,7 @@ tags:
 navtitle: About
 ---
 
+<h1>{{ title }}</h1>
 
 I recently concluded a six year stint at TotallyMoney, a FinTech scale-up near Silicon Roundabout, where I've worked across Brand, Marketing and Product teams, helping to grow the business from zero to over 1.5 million customers.
 
@@ -61,19 +62,6 @@ Right now, I'm on a planned career break, and am looking for new opportunities t
     </li>
 </ul>
 
-## Contact
-
-<ul>
-    <li>
-        <span>Email:</span> <span><a title="Email me mikerst@gmail.com" target="_blank" href="mailto: mikerst@gmail.com">mikerst@gmail.com</a></span>
-    </li>
-    <li>
-        <span>Twitter:</span><span><a title="My Twitter handle" target="_blank" href="https://twitter.com/mikerst">@mikerst</a></span>
-    </li>
-    <li>
-        <span>Else:</span><span><a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a> / <a title="My Github prilfe" target="_blank" href="https://github.com/mikerst">Github</a> / <a title="My Pinterest profile" target="_blank" href="https://www.pinterest.co.uk/mikerst/">Pinterest</a></span>
-    </li>
-</ul>
 
 ## Inputs
 

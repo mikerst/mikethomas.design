@@ -2,7 +2,7 @@
 title: ‘Sytt e sytt’ micro branding exercise
 intro: A simple, quick turn-around logo to adorn the labels of a hobbyist’s apparel brand.
 hero: case-study__sytt__hero.jpg
-date: 2019-07-14
+date: 2017-06-14
 tags: 
 - side
 theme: 

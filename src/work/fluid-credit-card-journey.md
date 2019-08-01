@@ -2,7 +2,7 @@
 title: Acquisition Journey for Fluid
 intro: Re-launch of the customer acquisition journey for Fluid, a credit card brand for people with lower credit scores who want to reduce interest payments on existing debt. 
 hero: case-study__fluid__hero.jpg
-date: 2019-07-14
+date: 2018-10-14
 theme: 
 ---
 

@@ -14,10 +14,10 @@ Hey there, I'm [Mike](/about/), a big-hearted, multiple-hat-wearing designer bas
 
 </section>
 
-## Work
+## Latest Work
 
 <section class="projects">
-    {%- for page in collections.work -%}
+    {%- for page in collections.work | reverse -%}
         <div class="project">
             <a href="{{ page.url }}"><img src="/_assets/img/{{ page.data.hero }}" /></a>
             <h2><a href="{{ page.url }}">{{ page.data.title }}</a></h2>

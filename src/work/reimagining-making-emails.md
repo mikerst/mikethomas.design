@@ -162,11 +162,11 @@ All team documentation was written and distributed using Dropbox Paper. This all
 
 ## Recap
 
-Through the creation of a usable Sketch library containing common email components, styles and assets, a significantly simplified codebase that better leveraged our new CRM platform and the beginnings of a thorough set of documentation. With these three improvements in place, designers had a stable baseline to work from, along with documentation related to key workstreams, and developer colleagues has access to a super simple repo of HTML email code that they could interact with through Github. Furthermore, because we'd some common templates and assets available in our CRM platform, marketing colleagues were given the freedom they needed to create new emails as and when needed.
+Through the creation of a usable Sketch library containing common email components, styles and assets, a significantly simplified codebase that better leveraged our new CRM platform and the beginnings of a thorough set of documentation. With these three improvements in place, designers had a stable baseline to work from, along with documentation related to key workstreams, and developer colleagues has access to a super simple repo of HTML email code that they could interact with through Github. Furthermore, because we'd made some common templates and assets available in our CRM platform, marketing colleagues were given the freedom they needed to create new emails when required.
 
-None of the solutions presented were perfect, and there is a lot that could be improved, however each solution represents an initial starting point that can be iterated on and improved over time. 
+None of the solutions presented were perfect, and there is a lot that could be improved, however each solution represented an initial starting point that could be iterated on and improved over time. 
 
-It's worth noting that this project was quite a large one, and I might split this page in to several smaller case studies in the future so I can describe each in a bit more detail. 
+This project was quite a large one, and I might split this page in to several smaller case studies in the future so I can describe each in a bit more detail along with a breakdown of what could have been done differently.
 
 
 

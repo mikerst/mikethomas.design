@@ -270,10 +270,10 @@ main.case-study > * {
   grid-column: 2;
 } 
 
-/*main.case-study h1, 
+main.case-study h1, 
 main.case-study p:first-of-type {
   grid-column: 1 / 3;
-}*/
+}
 
 main.case-study > figure {
   grid-column: 1 / 4;

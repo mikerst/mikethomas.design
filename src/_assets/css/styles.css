@@ -126,7 +126,7 @@ p:first-of-type {
 a {
   color: var(--text-color);
   text-decoration: none;
-  border-bottom: 1px solid var(--text-color);
+  border-bottom: 1px solid var(--alt-text-color);
 }
 
 a:visited {
@@ -135,7 +135,7 @@ a:visited {
 
 a:hover {
   color: var(--text-color);
-  border-bottom-color: white;
+  border-bottom-color: var(--text-color);
 }
 
 ul {

@@ -10,7 +10,7 @@ theme:
 
 <section class="cover">
 
-Hey there, I'm [Mike](/about/), a big-hearted, multiple-hat-wearing designer based in London, with a love of old book smells, looking out for others, and posh coffee.
+Hey there, I'm [Mike](/about/), an experienced, multiple-hat-wearing designer with a love of old book smells, looking out for others, and great coffee. To me, design is more than a nine-to-five, it’s a vocation.
 
 </section>
 

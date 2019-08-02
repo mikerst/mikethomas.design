@@ -27,6 +27,7 @@ module.exports = function(config) {
   config.addPassthroughCopy("./src/_assets/img");
   config.addPassthroughCopy("./src/_assets/css");
   config.addPassthroughCopy("./src/_assets/mov");
+  config.addPassthroughCopy("./src/_assets/files");
 
   return {
     dir: {

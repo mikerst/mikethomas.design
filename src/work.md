@@ -4,7 +4,6 @@ layout: layouts/base.njk
 layoutClass: basic
 theme: 
 tags:
-  - nav
 navtitle: Work
 ---
 

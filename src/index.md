@@ -14,7 +14,7 @@ Hey there, I'm [Mike](/about/), an experienced, multiple-hat-wearing designer wi
 
 </section>
 
-## Latest Work
+## Work examples
 
 <section class="projects">
     {%- for page in collections.work | reverse -%}
@@ -25,17 +25,20 @@ Hey there, I'm [Mike](/about/), an experienced, multiple-hat-wearing designer wi
     {%- endfor -%}
 </section>
 
-## Journal
 
-<ul>
+
+
 {% if collections.journal %}
+## Journal
+<ul>
 {%- for page in collections.journal -%}
   <li>
     <a href="{{ page.url }}">{{ page.data.title }}</a><br/>
     <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time> 
   </li>
 {%- endfor -%}
-{% else %}
-  <li>Working on it!</li>
-{% endif %}
 </ul>
+{% else %}
+
+{% endif %}
+

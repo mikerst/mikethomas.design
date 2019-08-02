@@ -14,7 +14,7 @@ A good friend of mine wanted a logo to appear on the labels for her children’s
 	
 ## Logomark
 
-The logomark consists of a simple thread running through the eye of a needle in the shape of an S. This is left fairly loose and informal, so as remain in keeping with the home-made nature of the apparel. A couple of minor variations were considered, but are not worth displaying here. 
+The logomark consists of a simple thread running through the eye of a needle in the shape of an S. This is left fairly loose and informal, so as remain in keeping with the home-made nature of the apparel. 
 
 <figure>
 	<img src="/_assets/img/case-study__sytt__mark.jpg" />
@@ -41,7 +41,7 @@ Honestly, I wish I could say that there are lots of moodboards and iterations to
 
 <figure>
 	<img src="/_assets/img/case-study__sytt__photos.jpg" />
-	<figcaption>In the wild.</figcaption>
+	<figcaption>In the wild (sorry for low resolution!).</figcaption>
 </figure>
 
-Sometimes small, fun, unpaid projects are a delight to work on and it’s particular satisfying to see your work on something physical.
+Sometimes small, fun, unpaid projects are a delight to work on and it’s particularly satisfying to see your work on something physical.

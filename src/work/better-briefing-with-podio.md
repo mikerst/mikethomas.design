@@ -19,7 +19,7 @@ As part of a squad of stakeholders from across the business, I worked towards he
 
 ## Stakeholder concerns
 
-Our current workflow solution allowed colleagues to create a 'request' for work to be done by the team that was then assigned and prioritised on a weekly. Colleagues could create the request by completing a customised form within the app which would then create the job in the system. The customisation allowed us to precisely tailor the information we needed to collect up-front in order to start working on something, classify a task or, at the very least, enable us to ask the right questions. 
+Our current workflow solution allowed colleagues to create a 'request' for work to be done by the team that was then assigned and prioritised on a weekly basis. Colleagues could create the request by completing a customised form within the app which would then create the job in the system. The customisation allowed us to precisely tailor the information we needed to collect up-front in order to start working on something, to classify a task or, at the very least, enable us to ask the right questions. 
 
 Unfortunately, it wasn't a universally loved process: 
 
@@ -34,15 +34,22 @@ Writing good design briefs can be very difficult. For projects with lots of stak
 
 For this piece of work, it was acknowleged that these aren't the kinds of brief we were concerned about. We'd be focusing on the lower level, simpler thing. As a designer, you naturally want to facilitate the creation of a project brief, but when the work is fairly routine and has a regular cadence, it's reasonable to take a more relaxed approach.
 
-## Introducing The Five Ws 
+## Introducing 'The Five Ws'
 
-To empower colleagues to supply light weight design briefs to the team we needed a flexible, simple and robust way to frame the capturing of information. After a short period of research, we landed on The Five Ws. 
+To empower colleagues to be able to supply light weight design briefs to the team we needed a flexible, simple and robust way to frame the capturing of information. After a short period of research, we landed on an interpretation of 'The Five Ws'. 
 
 The Five Ws are a set of basic, fundamental questions whose purpose is to draw out the minimum required information neeed to help solve a problem. They are:
 
+1. What (are we making/creating)?
+2. Who (are we making it for)?
+3. Where (will they see what we made)?
+4. When (will they see it) ?
+5. Why (are we making this)?
 
-1. What are we making/creating? (Deliverables)
-2. Who is the work for? [Audience]
-3. Where will it be seen/experienced? [Touchpoints]
-4. When is this needed by? [Deadlines/Timings]
-5. Why are we making it? [Context/Reason to do it]
+### Example:
+
+1. What — Animation for social media, with accompanying post messaging.
+2. Who — Prospective customers with lower credit scores who are carrying a bit of existing debt and might want to learn how to reduce the amount they are paying in interest and which products are most suitable for their needs.
+3. Where — Facebook and Instagram feeds, 95% mobile, 5% desktop split.
+4. When — We aim to run the ad from the week commencing 3rd June. We know that the majority of traffic we get from Facebook happens fairly evenly throughout the day, with spikes around lunchtime and in the evening.
+5. Why — We've got some sign-up data back from the product team that suggests a lot of people are creating an account and citing a need to transfer a balance on to a 0% card. We'd like to try out a few ad variations with messaging focused around this subject to see if we can drive some additional sign-ups next month.

@@ -10,7 +10,7 @@ navtitle: Journal
 
 <h1>{{ title }}</h1>
 
-Words are the base material for so much of the web. Writing is a key part of my practice and it's my intention to begin recording my thoughts, experiments, losses and victories here. 
+Words are _the_ raw material for so much of the web and I'm trying to make writing a more visible part of my practice. It's my intention to begin recording my thoughts, experiments, losses and victories here. 
 
 
 ## Latest entries

@@ -21,7 +21,7 @@ Throughout this time, and prior, I've had the good fortune to work with clients 
 
 Right now, I'm on a planned career break, and am looking for new opportunities to commence over the summer or thereabouts.
 
-I am currently living the quiet life in South West London with Daria, my amazing, supportive partner.
+I am currently living the quiet life in South West London with my amazing, supportive partner.
 
 ## Hats
 

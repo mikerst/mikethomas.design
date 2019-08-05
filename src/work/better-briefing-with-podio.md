@@ -21,7 +21,7 @@ As part of a squad of stakeholders from across the business, I worked towards he
 
 ## Stakeholder concerns
 
-At the time, we were using a workflow management tool called Podio for all non-engineering tasks, which were handled separately in Jira. The workflow solution allowed colleagues to create a &rsquo;request&rsquo; for work to be done by the team that was then assigned and prioritised weekly in a planning session. Colleagues could create the request by completing a customised form within the app which would then create the job in the system. However, it wasn&rsquo;t universally loved:
+At the time, we were using a workflow management tool called Podio for all non-engineering tasks, which were handled separately in Jira. The workflow solution allowed colleagues to create a request for work to be done by the team that was then assigned and prioritised weekly in a planning session. Colleagues could create the request by completing a customised form within the app which would then create the job in the system. However, it wasn&rsquo;t universally loved:
 
 <figure>
 	<img src="/_assets/img/case-study__briefing__issues.jpg" />
@@ -43,7 +43,7 @@ I don&rsquo;t have access to this workspace any more, however the below should h
 
 ## Introducing &rsquo;The Five Ws&rsquo;
 
-We needed a flexible, simple and robust way to frame the capturing of information. After a short period of research, we landed on an interpretation of &rsquo;The Five Ws&rsquo;. 
+We needed a flexible, simple and robust way to frame the capturing of information. After a short period of research, we landed on an interpretation of 'The Five Ws'. 
 
 If you&rsquo;re not familiar, The Five Ws are a set of basic, fundamental questions whose purpose is to draw out the minimum required information needed to help solve a problem. They are:
 
@@ -78,7 +78,7 @@ Taking cues from The Five Ws, we initially proposed a very simple overhaul, wher
 	<figcaption></figcaption>
 </figure>
 
-This was initially met with relief, as it felt very clear, and seemed like it was less of a &rsquo;chore&rsquo; to complete. However, opting for something so paired back had it&rsquo;s downsides. 
+This was initially met with relief, as it felt very clear, and seemed like it was less of a chore to complete. However, opting for something so paired back had it&rsquo;s downsides. 
 
 All jobs entered in to the system like this would lack any way to sift or classify them beyond a date and time, and so rather than roll all of the five questions in to one text input box, they were split out in to seperate inputs. By doing this, we had kept the framing of each question intact, but created an extra bit of granularity allowing for cleaner workflows down the line.
 
@@ -87,4 +87,4 @@ All jobs entered in to the system like this would lack any way to sift or classi
 	<figcaption>The solution we went with doesn&rsquo;t seem shorter, but it is much clearer. The business was also tidying up it&rsquo;s persona or segement language in-house too, which enabled this section to become clearer.</figcaption>
 </figure>
 
-This was a very small piece of work, that didn&rsquo;t take up too much time, yet had a positive impact on the quality of life of colleagues who needed to submit requests for work to the design team on a regular basis, and also ensured that each smaller project was initialised consistently, with well-framed set of core information. 
+This was a very small piece of work, that didn&rsquo;t take up too much time, yet had a positive impact on the quality of life of colleagues who needed to submit requests for work to the design team on a regular basis, and also ensured that each smaller project was initialised consistently, with awell-framed set of core information. 

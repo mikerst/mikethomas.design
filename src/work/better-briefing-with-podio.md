@@ -87,4 +87,4 @@ All jobs entered in to the system like this would lack any way to sift or classi
 	<figcaption>The solution we went with doesn&rsquo;t seem shorter, but it is much clearer. The business was also tidying up it&rsquo;s persona or segement language in-house too, which enabled this section to become clearer.</figcaption>
 </figure>
 
-This was a very small piece of work, that didn&rsquo;t take up too much time, yet had a positive impact on the quality of life of colleagues who needed to submit requests for work to the design team on a regular basis, and also ensured that each smaller project was initialised consistently, with awell-framed set of core information. 
+This was a very small piece of work, that didn&rsquo;t take up too much time, yet had a positive impact on the quality of life of colleagues who needed to submit requests for work to the design team on a regular basis, and also ensured that each smaller project was initialised consistently, with a well-framed set of core information. 

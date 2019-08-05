@@ -50,7 +50,7 @@ img {
   --bg-color:         #FFF;
   --text-color:       #010101;
   --alt-text-color:   #6a6a6a;
-  --accent-color:     blue;
+  --accent-color:     #0072CE;
   --body-text:          'PT Serif', Georgia, serif;
   --display-text:       'Poppins', Arial, sans-serif;
   --spacer:             1.5rem;
@@ -88,7 +88,7 @@ h1 {
   font-size: 3rem;
 }
 
-/* Hidden H1 technique courtesy of BBC.co.uk */
+/* Honest, hidden H1 technique courtesy of BBC.co.uk */
 h1.homepage-heading {
   display: block;
   overflow: hidden;
@@ -188,7 +188,7 @@ nav a {
   font-family: var(--display-text);
   font-size: 1rem;
   font-weight: 600;
-  margin-left: 3rem;
+  margin-left: 2rem;
   border-bottom: 2px solid transparent;
 }
 
@@ -238,17 +238,22 @@ main.home {
   padding-top: 0;
 }
 
+main.about {
+  display: grid;
+}
+
 main.basic {
   display: grid;
   column-gap: 2rem;
+  grid-auto-flow: column;
   grid-template-columns: 
-    minmax(1rem, 1fr) 
+  minmax(1rem, 1fr)
     minmax(0, 75ch)
-    minmax(1rem, 1fr);
+    minmax(1rem, 1fr) 
 }
 
 main.basic > * {
-  grid-column: 2;
+  grid-column: 2 / 3;
 }
 
 main.basic > .projects {
@@ -320,7 +325,12 @@ main > video {
   margin: calc(var(--spacer)*2) 0
 }
 
-
+.about__intro {
+  grid-column: 2 / 4;
+}
+.about__skills, .about__input {
+  grid-column: 2 / 3;
+}
 
 .cover > * {
   grid-column: 1 / 3 ;

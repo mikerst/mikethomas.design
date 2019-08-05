@@ -12,6 +12,7 @@ theme:
 
 Hey there, I'm [Mike](/about/), an experienced, multiple-hat-wearing designer with a love of old book smells, looking out for others, and great coffee. To me, design is more than a nine-to-five, it’s a vocation.
 
+
 </section>
 
 ## Work examples
@@ -24,8 +25,6 @@ Hey there, I'm [Mike](/about/), an experienced, multiple-hat-wearing designer wi
         </div>
     {%- endfor -%}
 </section>
-
-
 
 
 {% if collections.journal %}

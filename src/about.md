@@ -8,22 +8,42 @@ tags:
 navtitle: About
 ---
 
+
 <h1>{{ title }}</h1>
 
-I recently concluded a six year stint at TotallyMoney, a FinTech scale-up near Silicon Roundabout, where I've worked across Brand, Marketing and Product teams, helping to grow the business from zero to over 1.5 million customers.
+Generalist designer at heart with GSOH that loves to work end-to-end.
 
-Throughout this time, and prior, I've had the good fortune to work with clients and organisations such as the NHS, DB Schenker, Cognita Schools,Capital One, MBNA, Barclaycard, and Zeal to name but a few.
+![Me, and some popcorn from Kyoto named after me.](/_assets/img/mike.jpg)
 
-Right now, I'm on a planned career break, and am looking for new opportunities to commence over the summer. 
+I recently concluded a six year stint at TotallyMoney, a FinTech scale-up near Silicon Roundabout, where I've worked across Brand, Marketing and Product teams, helping to grow the business through two major pivots, and from zero to over 1.5 million customers (and counting).
+
+Throughout this time, and prior, I've had the good fortune to work with clients and organisations such as the NHS, DB Schenker, Cognita Schools, Capital One, MBNA, Barclaycard, and Zeal to name but a few.
+
+Right now, I'm on a planned career break, and am looking for new opportunities to commence over the summer or thereabouts.
+
+I am currently living the quiet life in South West London with Daria, my amazing, supportive partner.
+
+## Hats
+
+__Graphic Design__: Impactful layout, typography, illustration and animation.
+
+__Art Direction__: Bringing alignment, definition, and translating strategy in to tangible concepts.
+
+__Product Design__: Facilitating discovery, posing the right questions, engaging with users, prototyping, user-interfacing.
+
+__Development__: Semantic HTML and extensible, modular CSS development (with a side of workflow automation via node/npm).
+
+__Project Management__ : Prioritising, estimating, assigning. Advocate for a Kanban/Scrum hybrid practice.
+
 
 ## Career
 	
 <ul class="timeline">
     <li>
-        <span>'19</span> <span>Career break to take-stock, re-energise, and figure some things out.</span>
+        <span>'19</span> <span>Embarked on a planned career break in April to take-stock, re-energise, and figure some things out #askmeanything.</span>
     </li>
     <li>
-        <span>'17</span> <span>Segue to Product team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/info/team/">TotallyMoney</a>, contributing end-to-end, from user research through to visual design and front-end development. From zero to over 1 million customers in a year.</span>
+        <span>'17</span> <span>Segue to Product team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/info/team/">TotallyMoney</a>, contributing end-to-end, from user research through to visual design and front-end development.</span>
     </li>
     <li>
         <span>'15</span> <span>Moved to Marketing team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/info/team/">TotallyMoney</a>, designing and managing workflows across all channels, from content and email, through to social media and print.</span>
@@ -39,6 +59,9 @@ Right now, I'm on a planned career break, and am looking for new opportunities t
     </li>
     <li>
         <span>'08</span> <span>Completed MA Digital Art & Technology from <a title="i-DAT" target="_blank" href="https://www.plymouth.ac.uk/research/i-dat">i-DAT</a>.</span>
+    </li>
+    <li>
+        <span>'07</span><span>Adventuring in New Zealand for a time. Made some more friends.</span>
     </li>
     <li>
         <span>'06</span> <span>Got lost in Azeroth for a time. Made some friends.</span>
@@ -58,36 +81,24 @@ Right now, I'm on a planned career break, and am looking for new opportunities t
         <span>'97</span> <span>Spent an entire summer desiging maps for the videogame Duke Nukem 3D when I should have really been outside.</span>
     </li>
     <li>
-        <span>'89</span> <span>Made a white blob move across the screen with my Dad on a Commodore 64.</span>
+        <span>'89</span> <span>Wrote some code to make a white blob move across the screen on a Commodore 64 (Dad helped).</span>
     </li>
 </ul>
+
+
 
 
 ## Inputs
 
-<ul>
-    <li>
-        <span>Reading:</span> <span><a title="The Shape of Design" target="_blank" href="https://shapeofdesignbook.com/">The Shape of Design</a></span>
-    </li>
-    <li>
-        <span>Listening:</span> <span><a title="99% Invisible" target="_blank" href="https://99percentinvisible.org/">99% Invisible</a></span>
-    </li>
-    <li>
-        <span>Playing:</span> <span><a title="Super Mario Maker 2" target="_blank" href="https://www.nintendo.co.uk/Games/Nintendo-Switch/Super-Mario-Maker-2-1514009.html">Super Mario Maker 2</a></span>
-    </li>
-    <li>
-        <span>Watching:</span> <span>N/A</span>
-    </li>
-    <li>
-        <span>Sipping:</span> <span><a title="Whiskey Sour" target="_blank" href="https://en.wikipedia.org/wiki/Whiskey_sour">Whiskey Sour</a></span>
-    </li>
-</ul>
+
+__Reading__: <a title="The Shape of Design" target="_blank" href="https://shapeofdesignbook.com/">The Shape of Design</a>
+
+__Listening__: <a title="99% Invisible" target="_blank" href="https://99percentinvisible.org/">99% Invisible</a>
+
+__Playing__: <a title="Super Mario Maker 2" target="_blank" href="https://www.nintendo.co.uk/Games/Nintendo-Switch/Super-Mario-Maker-2-1514009.html">Super Mario Maker 2</a>
+
+__Watching__: N/A
+
+__Sipping__: <a title="Whiskey Sour" target="_blank" href="https://en.wikipedia.org/wiki/Whiskey_sour">Whiskey Sour</a>
 
 
-## Misc
-
-<ul>
-    <li>
-        <span>Specs:</span> <span><a title="Herbrand by Cubitts" target="_blank" href="https://www.cubitts.co.uk/glasses/herbrand?color=dark-turtle">Herbrand by Cubitts</a></span>
-    </li>
-</ul>

@@ -1,7 +1,7 @@
 ---
 title: Journal
 layout: layouts/base.njk
-layoutClass: 
+layoutClass: basic
 theme: 
 tags:
   - nav
@@ -24,6 +24,6 @@ Words are _the_ raw material for so much of the web and I'm trying to make writi
   </li>
 {%- endfor -%}
 {% else %}
-  <li>Nothing to show yet. Check back soon.</li>
+  <li>Nothing to show yet. Check back soon. I promise you shan't be disappointed.</li>
 {% endif %}
 </ul>

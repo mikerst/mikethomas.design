@@ -86,7 +86,7 @@ We’d been asked to make sure the parts of the journey we were creating adhered
 
 ## Dotting the i's, crossing the t's
 
-As our launch date drew closer, we wanted to create a simple place to prioritise and log all of the last minute fixes or enhancements in as low maintenance a way as possible. Rather then run everything through a tool such as Jira, we created a Google Sheet, shared amongst the team, that we could very easily add things as well as prioritise and assess the effort VS value of each task. By working in this way, we were able to work through a large chunk of last minute tasks with minimal administrative overhead.
+As our launch date drew closer, we wanted to create a simple place to prioritise and log all of the last minute fixes or enhancements in as low maintenance a way as possible. Rather then run everything through a tool such as Jira, we created a Google Sheet, shared amongst the team, where we could very easily add things to, as well as prioritise and assess the effort VS value of each task. By working in this way, we were able to rapidly work through a large chunk of last minute tasks.
 
 <figure>
     <img src="/_assets/img/case-study__fluid__qa.jpg" />

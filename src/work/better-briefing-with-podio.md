@@ -13,7 +13,7 @@ Writing good design briefs can be very difficult. For projects with complex requ
 
 Part of the job of being a designer is to help guide and facilitate this process. However, for smaller, more routine projects that recur often, it isn't always necessary to be so hands-on, and so it's reasonable to have a standardised briefing format that non-design colleagues can submit for prioritisation as and when needed. 
 
-Over a 12 month period at TotallyMoney, the business went through a significant amount of organisational change, during which time the design team was under pressure to juggle a lot of different tasks. With lots of stakeholders needing to request time from the design team every week, it became apparent the the standard briefing process we were using wasn't quite cutting it. 
+Over a 12 month period at TotallyMoney, the business went through a significant amount of organisational change, during which time the design team was under pressure to juggle a lot of different tasks. With lots of stakeholders needing to request time from the design team every week, it became apparent that the standard briefing process we were using wasn't quite cutting it. 
 
 ## Role
 

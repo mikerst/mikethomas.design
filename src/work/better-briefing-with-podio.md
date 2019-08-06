@@ -9,7 +9,7 @@ theme:
 
 ## Preamble
 
-Writing good design briefs can be very difficult. For projects with complex requirements, lots of stakeholders, and overlapping business goals, distilling everything down in to succinct, clearly structured stories or documents that everyone is aligned on can be a real challenge. Something that&rsquo;s always worth taking the time to get right. 
+Writing good design briefs can be very difficult. For projects with complex requirements, lots of stakeholders, and overlapping business goals, distilling everything down in to succinct, clearly structured stories or documents that everyone is aligned on can be a real challenge—something that&rsquo;s always worth taking the time to get right. 
 
 Part of the job of being a designer is to help guide and facilitate this process. However, for smaller, more routine projects that recur often, it isn&rsquo;t always necessary to be so hands-on, and so it&rsquo;s reasonable to have a standardised briefing format that non-design colleagues can submit for prioritisation as and when needed. 
 
@@ -28,16 +28,15 @@ At the time, we were using a workflow management tool called Podio for all non-e
 	<figcaption>Through a roundtable with key stakeholders, some common concerns emerged.</figcaption>
 </figure>
 
-We gathered key users of the system in meeting room and asked for feedback and a few common issues emerged pretty quickly.
+We gathered key stakeholders of the system together in meeting room and asked for feedback. As can be seen above, a few common issues emerged pretty quickly.
 
-1. The form was too long and felt over engineered
-2. The various inputs on the form weren&rsquo;t always clear.
+1. The form was too long
+2. It wasn't clear enough what information was being asked for.
 
-I don&rsquo;t have access to this workspace any more, however the below should help to illustrate the problems mentioned.
 
 <figure>
 	<img src="/_assets/img/case-study__briefing__form-start.jpg" />
-	<figcaption>For illustrative purposes, the form looked something like the above. Slightly confusing, overlapping fields, or things that didn&rsquo;t feel necesssary, including some in-house persona names which weren&rsquo;t entirely clear at a glance. </figcaption>
+	<figcaption>Slightly confusing in purpose, an illustration of the approximate state-of-play at the time.</figcaption>
 </figure>
 
 
@@ -80,11 +79,11 @@ Taking cues from The Five Ws, we initially proposed a very simple overhaul, wher
 
 This was initially met with relief, as it felt very clear, and seemed like it was less of a chore to complete. However, opting for something so paired back had it&rsquo;s downsides. 
 
-All jobs entered in to the system like this would lack any way to sift or classify them beyond a date and time, and so rather than roll all of the five questions in to one text input box, they were split out in to seperate inputs. By doing this, we had kept the framing of each question intact, but created an extra bit of granularity allowing for cleaner workflows down the line.
+All jobs entered in to the system like this would lack any way to sift or classify them beyond a date and time, and so rather than roll all of the five questions in to one text input box, they were split out in to separate inputs. By doing this, we had kept the framing of each question intact, but created an extra bit of granularity allowing for cleaner workflows down the line.
 
 <figure>
 	<img src="/_assets/img/case-study__briefing__form-final.jpg" />
-	<figcaption>The solution we went with doesn&rsquo;t seem shorter, but it is much clearer. The business was also tidying up it&rsquo;s persona or segement language in-house too, which enabled this section to become clearer.</figcaption>
+	<figcaption>Much clearer, if not much shorter.</figcaption>
 </figure>
 
 This was a very small piece of work, that didn&rsquo;t take up too much time, yet had a positive impact on the quality of life of colleagues who needed to submit requests for work to the design team on a regular basis, and also ensured that each smaller project was initialised consistently, with a well-framed set of core information. 

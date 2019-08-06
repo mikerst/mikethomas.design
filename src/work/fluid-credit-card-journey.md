@@ -10,6 +10,7 @@ theme:
 ## Background &amp; Role
 
 TotallyMoney launched the Fluid credit card in the early 2010s in partnership with MBNA as one of the first credit card brands to offer ‘eligibility checking’. After a successful initial run, financial services company NewDay became a new partner, and were keen to quickly re-launch it with a light-touch brand refresh in early 2018. 
+
 I joined the project after an initial draft of the new brand guidelines had been completed, something that was worked on in collaboration between our Head of Brand and an external agency.  
 
 The team consisted of Head of Brand, Product Manager, Lead Developer, Front-end Developer, Commercial Manager, and myself.
@@ -31,7 +32,7 @@ We’d be creating only part of the overarching customer journey. We’d acquire
     <figcaption>Not exhaustive, but useful. Early mapping excercise highlighting a few gaps/areas needing greater scrutiny.</figcaption>
 </figure>
 
-The journey we were creating was fairly simple. and something we were highly familiar with from previous projects, however in this instance the combined splitting of technologies and responsibilities made it worth plotting things out quickly to make sure we knew exactly what was in scope for our team, and to identify some areas we needed to question. This helped the team identify application views we might need to cater for, or prompt NewDay to tackle.
+The journey we were creating was fairly simple, and something we were highly familiar with from previous projects, however in this instance the combined splitting of technologies and responsibilities made it worth plotting things out quickly to make sure we knew exactly what was in scope for our team, and to identify some areas we needed to question. This helped the team identify application views we might need to cater for, or prompt NewDay to tackle.
 
 ### Quickly creating a usable styleguide
 
@@ -86,7 +87,7 @@ We’d been asked to make sure the parts of the journey we were creating adhered
 
 ## Dotting the i's, crossing the t's
 
-As our launch date drew closer, we wanted to create a simple place to prioritise and log all of the last minute fixes or enhancements in as low maintenance a way as possible. Rather then run everything through a tool such as Jira, we created a Google Sheet, shared amongst the team, where we could very easily add things to, as well as prioritise and assess the effort VS value of each task. By working in this way, we were able to rapidly work through a large chunk of last minute tasks.
+As our launch date drew closer, we wanted to create a simple place to prioritise and log all of the last minute fixes or enhancements in as low maintenance a way as possible. Rather than run everything through a tool such as Jira, we created a Google Sheet, shared amongst the team, where we could very easily add things to, as well as prioritise and assess the effort VS value of each task. By working in this way, we were able to rapidly work through a large chunk of last minute tasks.
 
 <figure>
     <img src="/_assets/img/case-study__fluid__qa.jpg" />

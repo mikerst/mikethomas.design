@@ -10,7 +10,7 @@ theme: dark
 
 ## Background
 
-In September 2017, TotallyMoney designed, built and launched the first iteration of it’s Free Credit Report service for new and existing customers. To celebrate the launch, and to generate a bit of interest, we took over an art gallery in Fitzrovia for a day, to act as a both a venue for an evening launch part for colleagues and partners, as well as a pop-up store during the day where passers-by could pop in and see what all the fuss was about. 
+In September 2017, TotallyMoney designed, built and launched the first iteration of its Free Credit Report service for new and existing customers. To celebrate the launch, and to generate a bit of interest, we took over an art gallery in Fitzrovia for a day, to act as a both a venue for an evening launch part for colleagues and partners, as well as a pop-up store during the day where passers-by could pop in and see what all the fuss was about. 
 My role was to produce some large posters to adorn the walls of the space, alongside a series of vinyl stat-bubbles and printed vinyl window decorations.  
 
 ## Little systems, big differences
@@ -52,11 +52,11 @@ Below, you can see he sequence of vinyl wall decorations produced in ascending o
 
 We were given the chance to update the front facing windows of the gallery with our own branding. As part of the pop-up activities being held during the day time we wanted to do something that encouraged passers by to step inside. 
 
-Rather than being a straight forward all-glass frontage, the window was split in in to several smaller panes by a wooden frame. The design and subsequent artwork being supplied to the printer would need to factor this in.  
+Rather than being a straight forward all-glass frontage, the window was split in to several smaller panes by a wooden frame. The design and subsequent artwork being supplied to the printer would need to factor this in.  
 
 <figure>
   <img src="/_assets/img/case-study__launch-party__windowplan.jpg" />
-  <figcaption>The window was split in to 10 seperate panes over 4 columns, with the door in the bottom right.</figcaption>
+  <figcaption>The window was split in to 10 separate panes over 4 columns, with the door in the bottom right.</figcaption>
 </figure>
 
 Through discussions with the printer, we decided to provide artwork in 4 columns, that could be cut horizontally to fit the panes in each column thereafter. 

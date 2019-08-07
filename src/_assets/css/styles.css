@@ -126,7 +126,7 @@ p:first-of-type {
 a {
   color: var(--text-color);
   text-decoration: none;
-  border-bottom: 1px solid var(--alt-text-color);
+  border-bottom: 2px solid var(--accent-color);
 }
 
 a:visited {
@@ -167,6 +167,7 @@ blockquote > p {
   padding:0;
   margin:0;
 }
+
 
 video {
   width: 100%;
@@ -295,9 +296,12 @@ main * + * {
   margin-top: var(--spacer);
 }
 
-main > * + h2,
-main > * + h3 {
+main > * + h2 {
   margin-top: calc(var(--spacer) * 2);
+}
+
+main > * + h3 {
+  margin-top: calc(var(--spacer) * 1.5);
 }
 
 main > h2 + p,
@@ -332,8 +336,12 @@ main > video {
   grid-column: 2 / 3;
 }
 
+.cover p {
+  font-size: 280%;
+  margin-bottom: 6rem;
+}
 .cover > * {
-  grid-column: 1 / 3 ;
+  grid-column: 1 / 4 ;
 }
 
 .project {
@@ -366,7 +374,7 @@ main > video {
 
 /* Would prefer to avoid MQs entirely, however in this instance 
 I'm just going for some simple overrides to help with the smaller 
-screen view. */
+screen view. Will update later. */
 
 @media screen and (max-width: 480px) {
     :root {
@@ -377,5 +385,8 @@ screen view. */
     }
     main.case-study > *, main.basic > * {
       grid-column: 1 / 4;
+    }
+    .cover p {
+      font-size: 200%;
     }
 }

@@ -3,7 +3,7 @@ title:
 intro: Multiple-hat-wearing designer based in London, with a love of old book smells, looking out for others, and posh coffee.
 layout: default
 layoutClass: home
-theme: 
+theme:
 ---
 
 <h1 class="homepage-heading">Mike Thomas</h1>

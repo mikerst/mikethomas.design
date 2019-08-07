@@ -10,7 +10,9 @@ navtitle: Journal
 
 <h1>{{ title }}</h1>
 
-Words are _the_ raw material for so much of the web and I'm trying to make writing a more visible part of my practice. It's my intention to begin recording my thoughts, experiments, losses and victories here. 
+Words are _the_ raw material for so much of what we create as designers.
+
+I'm trying to make writing a more visible part of my practice, and It's my intention to begin recording my thoughts, experiments, losses and victories here. 
 
 
 ## Latest entries

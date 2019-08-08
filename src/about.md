@@ -33,7 +33,7 @@ __Product Design__: Facilitating discovery, posing the right questions, engaging
 
 __Development__: Semantic HTML and extensible, modular CSS development (with a side of workflow automation via node/npm).
 
-__Project Management__ : Prioritising, estimating, assigning. Advocate for a Kanban/Scrum hybrid practice.
+__Project Management__: Prioritising, estimating, assigning. Advocate for a Kanban/Scrum hybrid practice.
 
 
 ## Career
@@ -78,7 +78,7 @@ __Project Management__ : Prioritising, estimating, assigning. Advocate for a Kan
         <span>'00</span> <span>Received cease and desist from <a title="The Bitmap Brothers" target="_blank" href="https://en.wikipedia.org/wiki/The_Bitmap_Brothers">The Bitmap Brothers</a> for Quake 3 mod "Speedball Arena".</span>
     </li>
     <li>
-        <span>'97</span> <span>Spent an entire summer desiging maps for the videogame Duke Nukem 3D when I should have really been outside.</span>
+        <span>'97</span> <span>Spent an entire summer designing levels for the various video games when I should have really been outside.</span>
     </li>
     <li>
         <span>'89</span> <span>Wrote some code to make a white blob move across the screen on a Commodore 64 (Dad helped).</span>

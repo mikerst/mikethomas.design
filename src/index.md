@@ -15,20 +15,24 @@ Hey there, I'm [Mike](/about/), an experienced, multiple-hat-wearing designer wi
 
 </section>
 
-## Work examples
+ <h2>Work samples</h2>
 
 <section class="projects">
-    {%- for page in collections.work | reverse -%}
-        <div class="project">
-            <a href="{{ page.url }}"><img src="/_assets/img/{{ page.data.hero }}" /></a>
-            <h2><a href="{{ page.url }}">{{ page.data.title }}</a></h2>
-        </div>
-    {%- endfor -%}
+ 
+  {%- for page in collections.work | reverse -%}
+      <div class="project">
+          <a href="{{ page.url }}"><img src="/_assets/img/{{ page.data.hero }}" /></a>
+          <h2><a href="{{ page.url }}">{{ page.data.title }}</a></h2>
+      </div>
+  {%- endfor -%}
+  
 </section>
 
 
 {% if collections.journal %}
-## Journal
+
+<h2>Journal</h2>
+
 <ul>
 {%- for page in collections.journal -%}
   <li>

@@ -10,7 +10,7 @@ theme:
 
 ## Background
 
-Throughout 2018 TotallyMoney made ~£1.2 million in gross profit from sending product alert emails to customers—who'd opted-in—providing them with the latest relevent offers from the credit cards and loans markets. However, during this time the content, structure and design had remained largely unchanged.
+Throughout 2018 TotallyMoney made ~£1.2 million in gross profit from sending product alert emails to customers—who'd opted-in—providing them with the latest relevant offers from the credit cards and loans markets. However, during this time the content, structure and design had remained largely unchanged.
 
 There was a desire within the business to update and refresh the design of our alerts, to make them even better for customers as well as more performative from a revenue point of view. We had a lot of quantitative data we could look at (open rates, click through rates, et cetera) to help inform any design decisions we might make, however we lacked anything qualitative. In order to better understand what our customers thought about our product alert emails, we chose to conduct a brief research study to see if we could uncover some useful insight.
 
@@ -67,8 +67,8 @@ As this was to be a short initial study, we opted to conduct the research in a r
 
 For security and data protection reasons we weren't in a position to make use of our existing customer database, but we wanted to ensure that candidates matched, or closely resembled customers in one of TotallyMoney's key customer segments. The following would therefore needed to be true:
 
-1. To ensure market familiarity — candidates must have engaged in the credit marketing in the preceeding 12 months in some form. 
-2. We knew that our traffic from this email was very heavily skewed towards mobile users at approximately 80%, and so we wanted candidates with a similar likelyhood of being on a mobile device.
+1. To ensure market familiarity — candidates must have engaged in the credit marketing in the preceding 12 months in some form. 
+2. We knew that our traffic from this email was very heavily skewed towards mobile users at approximately 80%, and so we wanted candidates with a similar likelihood of being on a mobile device.
 3. Candidates must be from the UK.
 4. Candidates should ideally be in the £10—£25k income bracket. 
 
@@ -77,7 +77,7 @@ For security and data protection reasons we weren't in a position to make use of
 
 UserTesting.com allows some of the criteria mentioned above to be applied as a filter. Beyond that, we screened candidates by posing some initial questions up front. 
 
-When doing this it was important to set the questions up correctly. It's important to ensure that only the most appropriate, genuine candidates pass the screener. In this instance it was particularly important as it was our intention only to run the study with a small group. 
+When doing this it was important to set the questions up correctly. We wanted only the most appropriate, genuine candidates to pass the screener. 
 
 <figure>
 	<img src="/_assets/img/case-study__research__screener.jpg" />
@@ -88,7 +88,7 @@ When doing this it was important to set the questions up correctly. It's importa
 
 One of the more unusual aspects of this study was that we'd be using an email touchpoint.
 
-We wanted candidates to experience the email in a setting as close akin to an inbox, but actually sending out an email wasn't possible. Furthermoore, wanted candidates to experience the demo email in a way that was responsive to their device size. We opted to send candidates through to a browser-based demo email, that acted as the closest match we could get to proving a real inbox experience in terms of visible area and responsive behaviour. 
+We weren't in a position to send an email directly to candidates, but wanted them to experience the email in an inbox-like setting. Furthermore, we wanted candidates to experience the demo email in a way that was responsive to their device size, as opposed to some idealised version. We opted to send candidates through to a browser-based demo email, that acted as the closest match we could get to proving a real inbox experience in terms of visible area and responsive behaviour. 
 
 <figure>
 	<img src="/_assets/img/case-study__research__proto.jpg" />
@@ -112,9 +112,10 @@ A draft version of the script [can be viewed in the planning document](https://p
 
 ## Analysis
 
-Once everything was ready to go, we launched a pilot of the study to see if there was anything we needed to adjust. Once any adjustments were made, we launched the study with an additional four candidates, bringing us up to five, which we eventually extended to ten candidates. Once we had our ten, we could play back each study abd begin the process of analysing what we'd found.
+Once everything was ready to go, we launched a pilot of the study to see if there was anything we needed to adjust. Once any adjustments were made, we launched the study with an additional four candidates, bringing us up to five, which we eventually extended to ten candidates. Once we had our ten, we could play back each study and begin the process of analysing the responses.
 
-### Wide view
+
+### Theme spotting
 
 UserTesting.com allows for videos to be watched back and annotated in real-time. However once all of the notes and comments were added, they were transcribed in to a Google Sheet with questions in the Y axis and users in the X. This proved to be a great way to quickly scan through each area of interest for us, enabling quick identification of key themes and patterns.
 
@@ -123,10 +124,18 @@ UserTesting.com allows for videos to be watched back and annotated in real-time.
 	<figcaption>Using Google Sheets was a great way to capture findings. Usernames redacted out of courtesy!</figcaption>
 </figure>
 
-### Panning for gold
+From the initial analysis, a couple of of the key themes that appeared were:
 
-Starting with the wide view, we were able sift through the findings and create an initial loose analysis that communicated key takeaways. These were written up and matched against each section of the study, along with links to a highlights reel of key moments as spoken by the candidates as corroboration. 
+1. Approachability — candidates seemed to respect the tone and approach of our content.
+2. Length — candidates thought the email was thorough, well structured, but perhaps too wordy.
 
-### Recommendations
+Beyond key themes, we were able sift through the findings and create an initial analysis that communicated key takeaways. These were written up and matched against each section of the study, along with links to a highlights reel of key moments as spoken by the candidates as corroboration. We also looked back at the initial objectives to see if we had achieved what we were looking for. 
 
-## Lessons learned
+## Next steps
+
+The immediate next step involved taking all the findings and putting it together in a format that could be easily presented back to the team and other stakeholders, so a plan of attack might be put together as to how to tackle implementing or testing any recommended changes. 
+
+## Areas for improvement
+
+1. One of the problems inherent in conducting a study in this manner is that the candidates weren't our customers. They didn't know who we were and therefore lacked some of the context needed. We tried to address this in our script, however we probably didn't go far enough, and could do a better job of priming the candidate from the outset. 
+2. Our study involved a single email, and yet in a real setting, the journey to and from the email might have multiple steps, including push notifications, interstitial screens, email apps and an onward journey through to a potential credit application. Looking at the email in isolation was useful for this small study—that's what we were focusing on after all—however it's possible looking at the email in isolation altered how it was perceived. In particular, email subject lines and preheaders are critical performance-influencing elements and so perhaps these should have been included in some form. 

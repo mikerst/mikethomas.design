@@ -10,7 +10,7 @@ theme:
 
 ## Background
 
-A good friend of mine wanted a logo to appear on the labels for her children’s apparel work that she was doing in her spare time. The brand name is a play on a Swedish phrase ‘Bytt e bytt’ (roughly—what is traded is traded). In this instance, ‘what is sewn, is sewn’.
+A good friend of mine wanted a logo to appear on the labels for her children’s apparel work that she was doing in her spare time. The brand name is a play on a Swedish phrase ‘Bytt e bytt’ (roughly: what is traded is traded). In this instance, ‘what is sewn, is sewn’.
 	
 ## Logomark
 
@@ -41,7 +41,7 @@ Honestly, I wish I could say that there are lots of moodboards and iterations to
 
 <figure>
 	<img src="/_assets/img/case-study__sytt__photos.jpg" />
-	<figcaption>In the wild (sorry for low resolution!).</figcaption>
+	<figcaption>In the wild.</figcaption>
 </figure>
 
 Sometimes small, fun, unpaid projects are a delight to work on and it’s particularly satisfying to see your work on something physical.

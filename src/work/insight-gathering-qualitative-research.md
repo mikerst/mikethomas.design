@@ -10,16 +10,16 @@ theme:
 
 ## Background
 
-Throughout 2018 TotallyMoney made ~£1.2 million in gross profit from sending product alert emails to customers—who&rsquo;d opted-in—providing them with the latest relevant offers from the credit cards and loans markets. However, during this time the content, structure and design had remained largely unchanged.
+Throughout 2018 TotallyMoney made ~£1.2 million in gross profit from sending product alert emails to customers—who&rsquo;d opted-in—providing them with the latest relevant offers from the credit cards and loans markets. However, during this time the content, structure, and design had remained largely unchanged.
 
 There was a desire within the business to update and refresh the design of our alerts, to make them even better for customers as well as more performative from a revenue point of view. We had a lot of quantitative data we could look at (open rates, click through rates, et cetera) to help inform any design decisions we might make, however we lacked anything qualitative. In order to better understand what our customers thought about our product alert emails, we chose to conduct a brief research study to see if we could uncover some useful insight.
 
 
 ## Why re-design?
 
-We knew we&rsquo;d not made any significant changes since we first introduced the touchpoint. From a performance marketing and business revenue perspective, everything was going well, but some nagging questions always remained in the background. With the right approach, how might we unlock even better performance _and_ improve customer satisfaction? 
+We knew we&rsquo;d not made any significant changes since we first introduced the touchpoint. From a performance marketing and business revenue perspective, everything was going well, but some nagging questions always remained in the background e.g. with the right approach, how might we unlock even better performance _and_ improve customer satisfaction? 
 
-Instinctively, we felt we could do better.
+Instinctively, we knew we could achieve this.
 
 <figure>
 	<img src="/_assets/img/case-study__research__alerts.jpg" />
@@ -28,30 +28,28 @@ Instinctively, we felt we could do better.
 
 ## My role
 
-With the support and experience of TotallyMoney&rsquo;s UX lead, I worked to plan, conduct and analyse a short research study that aimed to help TotallyMoney better understand what customers thought of product alert emails being sent out on a regular basis. 
+With the support and experience of TotallyMoney&rsquo;s UX lead, I worked to plan, conduct and analyse a short research study that aimed to help TotallyMoney better understand what customers thought of the product alert emails they were receiving.
 
 
 ## Objectives
 
 We started by setting some primary and secondary objectives. We knew from our data that approximately 25% of customers who opened these emails would click through and the remainder would not. Digging in to _why_ this might be the case seemed to be a sensible initial area of focus. 
 
-### Primary
+The primary objective was written out as follows:
 
 _We want to re-design our product alert emails, but need to do so from an informed position. To help us identify <mark>where we should prioritise our efforts</mark>, we should speak to our customers in order to <mark>establish why</mark> some customers click out and apply for credit from our product alert emails, and why some do not complete this journey._
 
-The above is nice and broad, and sets the general direction of travel—the orientation—for a more detailed set of secondary objectives.
+The above was deliberately intended to be nice and broad, and sets the general direction of travel—the orientation—for a more detailed set of secondary objectives.
 
-### Secondary
+I won&rsquo;t list all of the secondary objectives—a copy of the original planning document [can be viewed here](https://paper.dropbox.com/doc/Research-Plan-Product-Alert-Redesign-UnmoderatedRemote--AiXKsqfi60kJdDywTdQdKB6OAQ-tZXs9XmqXSKl1mnOXMPK4)—however from a high-level point of view, secondary objectives were split in to various themes of inquiry:
 
-I won&rsquo;t list them all—a copy of the original planning document [can be viewed here](https://paper.dropbox.com/doc/Research-Plan-Product-Alert-Redesign-UnmoderatedRemote--AiXKsqfi60kJdDywTdQdKB6OAQ-tZXs9XmqXSKl1mnOXMPK4)—however from a high-level point of view, secondary objectives were split in to various themes of inquiry:
-
-E.g. 
+e.g. 
 
 _Content_, _visual design_, _customer expectations_
 
 Within these themes, we could pose various questions that we&rsquo;d like to get some answers to:
 
-E.g. 
+e.g. 
 
 _How does the customer feel about the tone of voice used in the copy?_
 
@@ -86,9 +84,9 @@ When doing this it was important to set the questions up correctly. We wanted on
 
 ## Prototype
 
-One of the more unusual aspects of this study was that we&rsquo;d be using an email touchpoint.
+One of the more interesting aspects of this study was that we needed candidates to respond to an email touchpoint.
 
-We weren&rsquo;t in a position to send an email directly to candidates, but wanted them to experience the email in an inbox-like setting. Furthermore, we wanted candidates to experience the demo email in a way that was responsive to their device size, as opposed to some idealised version. We opted to send candidates through to a browser-based demo email, that acted as the closest match we could get to proving a real inbox experience in terms of visible area and responsive behaviour. 
+We weren&rsquo;t in a position to send an email directly to candidates, but wanted them to experience the email in an inbox-like setting. Furthermore, we wanted candidates to experience the email in a way that was responsive to their device size, as opposed to some idealised version. We opted to send candidates through to a browser-based demo email, that acted as the closest match we could get to proving a real inbox experience in terms of visible area and responsive behaviour. 
 
 <figure>
 	<img src="/_assets/img/case-study__research__proto.jpg" />
@@ -97,7 +95,7 @@ We weren&rsquo;t in a position to send an email directly to candidates, but want
 
 ## Script
 
-As this was to be an unmoderated, remote study, candidates would be interacting directly with a set of tasks via the UserTesting.com app. The script, or wording for each question made varied used of UserTesting&rsquo;s range of question options, focusing largely on simple prompts to get the candidate talking mixed in with some rating scale questions in an attempt to provide some basic data points we could look at and refer to. 
+As this was to be an unmoderated, remote study, candidates would be interacting directly with a set of tasks via the UserTesting.com app. Each scripted question made varied used of UserTesting&rsquo;s range of question types, focusing largely on simple prompts to get the candidate talking mixed in with some rating scale questions in an attempt to provide some basic metrics we could look refer back to. 
 
 It was important to us to respect the time of our candidates and so we wanted the study to be light on hoops to jump through, albeit with space to allow candidates to elaborate if they wanted to.
 
@@ -134,6 +132,9 @@ Beyond key themes, we were able sift through the findings and create an initial 
 ## Next steps
 
 The immediate next step involved taking all the findings and putting it together in a format that could be easily presented back to the team and other stakeholders, so a plan of attack might be put together as to how to tackle implementing or testing any recommended changes. 
+
+__Full disclosure:__ I wasn't able to complete this stage of the work. As my time at TM drew to a close, I paused further work on this project to prioritise wrapping up elsewhere.
+
 
 ## Areas for improvement
 

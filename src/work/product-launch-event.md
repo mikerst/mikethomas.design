@@ -11,7 +11,8 @@ theme: dark
 ## Background
 
 In September 2017, TotallyMoney designed, built and launched the first iteration of its Free Credit Report service for new and existing customers. To celebrate the launch, and to generate a bit of interest, we took over an art gallery in Fitzrovia for a day, to act as a both a venue for an evening launch part for colleagues and partners, as well as a pop-up store during the day where passers-by could pop in and see what all the fuss was about. 
-My role was to produce some large posters to adorn the walls of the space, alongside a series of vinyl stat-bubbles and printed vinyl window decorations.  
+
+My role involved producing some large posters to adorn the walls of the space, alongside a series of vinyl stat-bubbles and printed vinyl window decorations.  
 
 ## Little systems, big differences
 

@@ -11,13 +11,13 @@ theme:
 
 Writing good design briefs can be very difficult. For projects with complex requirements, lots of stakeholders, and overlapping business goals, distilling everything down in to succinct, clearly structured stories or documents that everyone is aligned on can be a real challenge—something that&rsquo;s always worth taking the time to get right. 
 
-Part of the job of being a designer is to help guide and facilitate this process. However, for smaller, more routine projects that recur often, it isn&rsquo;t always necessary to be so hands-on, and so it&rsquo;s reasonable to have a standardised briefing format that non-design colleagues can submit for prioritisation as and when needed. 
+Part of the job of being a designer is to help guide and facilitate this process. However, for smaller, more routine projects that recur often, it isn&rsquo;t always necessary to be so hands-on, and so it&rsquo;s reasonable (in some environments) to have a standardised briefing format that non-design colleagues can submit for prioritisation as and when needed. 
 
 Over a 12 month period at TotallyMoney, the business went through a significant amount of organisational change, during which time the design team was under pressure to juggle a lot of different tasks. With lots of stakeholders needing to request time from the design team every week, it became apparent that the standard briefing process we were using wasn&rsquo;t quite cutting it. 
 
 ## Role
 
-As part of a squad of stakeholders from across the business, I worked towards helping to find a simple, light-on-admin way in which colleagues could provide a brief to a designer using existing tools, with a focus on collecting the minimum viable amount of information to help the team to estimate and assign a job. 
+As part of a squad of stakeholders from across the business, I worked towards helping to find a simple, light-on-admin way in which colleagues could provide a brief to a designer using existing tools, with a focus on collecting the minimum viable amount of information to help the team to estimate and assign a job.
 
 ## Stakeholder concerns
 

@@ -20,11 +20,11 @@ However, as our efforts increased in pace and sophistication, combined with an i
 
 Working as part of a cross-functional product team, my role focused on the creation and distribution of an up to date email design library, refactoring our HTML email codebase to make it simpler and easier to use, as well as educating other members of the team regarding how to make use of all the new assets and resources through one-to-one sessions, and written documentation.
 
-Work needed to be completed up over a 2-3 month period.
+Work needed to be completed over a 2-3 month period.
 
 ## Desired outcomes
 
-Translating the problems outlined above in to some simple outcomes was an initial first step to help orient the work. If the following ring true once the work is done, we know we've made an impactful difference.
+Translating the problems outlined above in to some simple outcomes was an initial first step to help orient the work. If the following rang true once the work was done, we'd know that we'd made an impactful difference.
 
 1. Design colleagues should have a set of documented, easy-to-use assets to work from.
 2. Engineering colleagues should be able to access all HTML in a way that suits engineering workflows.
@@ -61,7 +61,7 @@ Nothing was added to the library unless it was to be used in other email creativ
  
 One of the key things to consider when producing any design asset or library that will be used by others is to ensure the usability of your files. A lot of time was spent naming things in a common sense manner and ensuring a logical, human readable structure of the document. 
 
-We didn't get it right immediately, initially opting to go for a naming convention that matches the names of things in the code, but this was ultimately discarded in favour of something friendlier, and easy to move through at a glance.
+We didn't get it right immediately, initially opting to go for a naming convention was very front-end centric, but this was ultimately discarded in favour of something friendlier, and easy to move through at a glance.
 
 <figure>
   <img src="/_assets/img/case-study__email__symbols.jpg" />
@@ -114,7 +114,7 @@ It was important early on in this part of the work to set out some guiding princ
 
 ### Development diary
 
-I <a href="https://paper.dropbox.com/doc/Decision-Journal-Product-Alert-Re-build--Ah_Z6qKVlOXqp6tcuxokrC~LAQ-F7WGWDmNdT1PmNekwt14A" target="_blank" title="[Decision Journal] Product Alert Re-build ">kept a diary</a> of all the issues I was facing throughout refactoring the email codebase, an excerpt from which can be seen below:
+I <a href="https://paper.dropbox.com/doc/Decision-Journal-Product-Alert-Re-build--Ah_Z6qKVlOXqp6tcuxokrC~LAQ-F7WGWDmNdT1PmNekwt14A" target="_blank" title="[Decision Journal] Product Alert Re-build ">kept a diary</a> of all the issues I was facing while refactoring the email codebase, an excerpt from which can be seen below:
 
 __Problem:__ _We use Source Sans Pro everywhere in our emails. Some email clients don’t support web fonts and so we need to fall back to system-level fonts. For UI elements such as text links or buttons, this is problematic because the fallback font can—in some cases—be a lot wider than the original, meaning precise layout and positioning can break in certain email clients when using, for example, responsive table alignment._ &#9660;
 
@@ -142,14 +142,14 @@ Everything was version controlled and hosted on Github for all team members to c
 
 We decided to focus our efforts here on producing 'how to' guides, as a way to start the process of creating a repository of onboarding materials for new joiners. The general premise was fairly simple: if you need to produce deliverable X, then there should be an accompanying guide that contains all the information needed to get the job done well.
 
-A key area of work experiencing bottlenecks was in weekly 'product alert' emails. At the time, I was the only person handling this task, and so it made sense to start the documentation process by writing an onboarding guide for this stream of work, therefore enabling others to contribute or pick up the slack.
+Every week, we'd create and send 'product alert' emails to customers. At the time, I was the only person handling this task, and so it made sense to start the documentation process by writing an onboarding guide for this stream of work, therefore enabling others to contribute or pick up the slack, and reducing the risk of bottlenecks.
 
 <figure>
   <img src="/_assets/img/case-study__email__guide.jpg" />
   <figcaption>Structure of an onboarding guide — from high level details, to digging deeper in to deliverable-specific things, with an appendix containing additional reading.</figcaption>
 </figure>
 
-All team documentation was written and distributed using Dropbox Paper. This allowed the live document to be shared with team members for feedback. Colleagues could leave comments and let me know where things were missing. 
+All team documentation was written and distributed using Dropbox Paper. This allowed the live document to be shared with team members for feedback. Colleagues could leave comments and let me know where things were missing, or hard to understand. 
 
 
 <figure>

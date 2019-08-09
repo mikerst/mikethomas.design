@@ -9,7 +9,7 @@ theme:
 
 ## Background &amp; Role
 
-TotallyMoney launched the Fluid credit card in the early 2010s in partnership with MBNA as one of the first credit card brands to offer ‘eligibility checking’. After a successful initial run, financial services company NewDay became a new partner, and were keen to quickly re-launch it with a light-touch brand refresh in early 2018. 
+TotallyMoney launched the Fluid credit card in the early 2010s in partnership with MBNA as one of the first credit card brands to offer ‘eligibility checking’. After a successful initial run, financial services company NewDay took over as partner, and were keen to quickly re-launch it with a light-touch brand refresh in early 2018. 
 
 I joined the project after an initial draft of the new brand guidelines had been completed, something that was worked on in collaboration between our Head of Brand and an external agency.  
 
@@ -20,8 +20,6 @@ I was responsible for adapting and extending the brand guidelines for use on the
 The project was ongoing over 1-2 months, juggled alongside other work.
 
 ## Key Design Challenges
-
-Every project is unique, with their own specific challenges and hurdles to overcome.
 
 ### Handling only <em>part</em> of the journey
 

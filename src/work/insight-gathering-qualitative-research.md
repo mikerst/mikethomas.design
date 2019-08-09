@@ -10,14 +10,14 @@ theme:
 
 ## Background
 
-Throughout 2018 TotallyMoney made ~£1.2 million in gross profit from sending product alert emails to customers—who'd opted-in—providing them with the latest relevant offers from the credit cards and loans markets. However, during this time the content, structure and design had remained largely unchanged.
+Throughout 2018 TotallyMoney made ~£1.2 million in gross profit from sending product alert emails to customers—who&rsquo;d opted-in—providing them with the latest relevant offers from the credit cards and loans markets. However, during this time the content, structure and design had remained largely unchanged.
 
 There was a desire within the business to update and refresh the design of our alerts, to make them even better for customers as well as more performative from a revenue point of view. We had a lot of quantitative data we could look at (open rates, click through rates, et cetera) to help inform any design decisions we might make, however we lacked anything qualitative. In order to better understand what our customers thought about our product alert emails, we chose to conduct a brief research study to see if we could uncover some useful insight.
 
 
 ## Why re-design?
 
-We knew we'd not made any significant changes since we first introduced the touchpoint. From a performance marketing and business revenue perspective, everything was going well, but some nagging questions always remained in the background. With the right approach, how might we unlock even better performance _and_ improve customer satisfaction? 
+We knew we&rsquo;d not made any significant changes since we first introduced the touchpoint. From a performance marketing and business revenue perspective, everything was going well, but some nagging questions always remained in the background. With the right approach, how might we unlock even better performance _and_ improve customer satisfaction? 
 
 Instinctively, we felt we could do better.
 
@@ -28,7 +28,7 @@ Instinctively, we felt we could do better.
 
 ## My role
 
-With the support and experience of TotallyMoney's UX lead, I worked to plan, conduct and analyse a short research study that aimed to help TotallyMoney better understand what customers thought of product alert emails being sent out on a regular basis. 
+With the support and experience of TotallyMoney&rsquo;s UX lead, I worked to plan, conduct and analyse a short research study that aimed to help TotallyMoney better understand what customers thought of product alert emails being sent out on a regular basis. 
 
 
 ## Objectives
@@ -43,13 +43,13 @@ The above is nice and broad, and sets the general direction of travel—the orie
 
 ### Secondary
 
-I won't list them all—a copy of the original planning document [can be viewed here](https://paper.dropbox.com/doc/Research-Plan-Product-Alert-Redesign-UnmoderatedRemote--AiXKsqfi60kJdDywTdQdKB6OAQ-tZXs9XmqXSKl1mnOXMPK4)—however from a high-level point of view, secondary objectives were split in to various themes of inquiry:
+I won&rsquo;t list them all—a copy of the original planning document [can be viewed here](https://paper.dropbox.com/doc/Research-Plan-Product-Alert-Redesign-UnmoderatedRemote--AiXKsqfi60kJdDywTdQdKB6OAQ-tZXs9XmqXSKl1mnOXMPK4)—however from a high-level point of view, secondary objectives were split in to various themes of inquiry:
 
 E.g. 
 
 _Content_, _visual design_, _customer expectations_
 
-Within these themes, we could pose various questions that we'd like to get some answers to:
+Within these themes, we could pose various questions that we&rsquo;d like to get some answers to:
 
 E.g. 
 
@@ -65,7 +65,7 @@ As this was to be a short initial study, we opted to conduct the research in a r
 
 ### Demographic
 
-For security and data protection reasons we weren't in a position to make use of our existing customer database, but we wanted to ensure that candidates matched, or closely resembled customers in one of TotallyMoney's key customer segments. The following would therefore needed to be true:
+For security and data protection reasons we weren&rsquo;t in a position to make use of our existing customer database, but we wanted to ensure that candidates matched, or closely resembled customers in one of TotallyMoney&rsquo;s key customer segments. The following would therefore needed to be true:
 
 1. To ensure market familiarity — candidates must have engaged in the credit marketing in the preceding 12 months in some form. 
 2. We knew that our traffic from this email was very heavily skewed towards mobile users at approximately 80%, and so we wanted candidates with a similar likelihood of being on a mobile device.
@@ -86,18 +86,18 @@ When doing this it was important to set the questions up correctly. We wanted on
 
 ## Prototype
 
-One of the more unusual aspects of this study was that we'd be using an email touchpoint.
+One of the more unusual aspects of this study was that we&rsquo;d be using an email touchpoint.
 
-We weren't in a position to send an email directly to candidates, but wanted them to experience the email in an inbox-like setting. Furthermore, we wanted candidates to experience the demo email in a way that was responsive to their device size, as opposed to some idealised version. We opted to send candidates through to a browser-based demo email, that acted as the closest match we could get to proving a real inbox experience in terms of visible area and responsive behaviour. 
+We weren&rsquo;t in a position to send an email directly to candidates, but wanted them to experience the email in an inbox-like setting. Furthermore, we wanted candidates to experience the demo email in a way that was responsive to their device size, as opposed to some idealised version. We opted to send candidates through to a browser-based demo email, that acted as the closest match we could get to proving a real inbox experience in terms of visible area and responsive behaviour. 
 
 <figure>
 	<img src="/_assets/img/case-study__research__proto.jpg" />
-	<figcaption>Using the 'view online' version of the email on mobile as a prototype.</figcaption>
+	<figcaption>Using the &lsquo;view online&rsquo; version of the email on mobile as a prototype.</figcaption>
 </figure>
 
 ## Script
 
-As this was to be an unmoderated, remote study, candidates would be interacting directly with a set of tasks via the UserTesting.com app. The script, or wording for each question made varied used of UserTesting's range of question options, focusing largely on simple prompts to get the candidate talking mixed in with some rating scale questions in an attempt to provide some basic data points we could look at and refer to. 
+As this was to be an unmoderated, remote study, candidates would be interacting directly with a set of tasks via the UserTesting.com app. The script, or wording for each question made varied used of UserTesting&rsquo;s range of question options, focusing largely on simple prompts to get the candidate talking mixed in with some rating scale questions in an attempt to provide some basic data points we could look at and refer to. 
 
 It was important to us to respect the time of our candidates and so we wanted the study to be light on hoops to jump through, albeit with space to allow candidates to elaborate if they wanted to.
 
@@ -137,5 +137,5 @@ The immediate next step involved taking all the findings and putting it together
 
 ## Areas for improvement
 
-1. One of the problems inherent in conducting a study in this manner is that the candidates weren't our customers. They didn't know who we were and therefore lacked some of the context needed. We tried to address this in our script, however we probably didn't go far enough, and could do a better job of priming the candidate from the outset. 
-2. Our study involved a single email, and yet in a real setting, the journey to and from the email might have multiple steps, including push notifications, interstitial screens, email apps and an onward journey through to a potential credit application. Looking at the email in isolation was useful for this small study—that's what we were focusing on after all—however it's possible looking at the email in isolation altered how it was perceived. In particular, email subject lines and preheaders are critical performance-influencing elements and so perhaps these should have been included in some form. 
+1. One of the problems inherent in conducting a study in this manner is that the candidates weren&rsquo;t our customers. They didn&rsquo;t know who we were and therefore lacked some of the context needed. We tried to address this in our script, however we probably didn&rsquo;t go far enough, and could do a better job of priming the candidate from the outset. 
+2. Our study involved a single email, and yet in a real setting, the journey to and from the email might have multiple steps, including push notifications, interstitial screens, email apps and an onward journey through to a potential credit application. Looking at the email in isolation was useful for this small study—that&rsquo;s what we were focusing on after all—however it&rsquo;s possible looking at the email in isolation altered how it was perceived. In particular, email subject lines and preheaders are critical performance-influencing elements and so perhaps these should have been included in some form. 

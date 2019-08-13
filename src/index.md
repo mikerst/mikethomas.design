@@ -25,6 +25,21 @@ Hey there, I'm [Mike](/about/), an experienced, multiple-hat-wearing designer wi
           <h2><a href="{{ page.url }}">{{ page.data.title }}</a></h2>
       </div>
   {%- endfor -%}
+
+  <div class="project">
+      <img src="/_assets/img/case-study__placeholder.jpg" />
+      <h2>Designing a responsive Credit Report web app</h2>
+  </div>
+
+  <div class="project">
+      <img src="/_assets/img/case-study__placeholder.jpg" />
+      <h2>Art directing a small brand re-fresh</h2>
+  </div>
+
+  <div class="project">
+      <img src="/_assets/img/case-study__placeholder.jpg" />
+      <h2>Illustrating Credit</h2>
+  </div>
   
 </section>
 

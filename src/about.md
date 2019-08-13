@@ -102,3 +102,17 @@ __Watching__: N/A
 __Sipping__: <a title="Whiskey Sour" target="_blank" href="https://en.wikipedia.org/wiki/Whiskey_sour">Whiskey Sour</a>
 
 
+## Creative bucket-list
+
+A head-in-the-clouds list of creative projects I'd like to tackle now, and in the future:
+
+1. Create the layout for the front page of a newspaper—digital _and_ print.
+2. Design and release a (good) typeface.
+3. Design, code and release a simple game on the App/Google Play Store.
+4. Start a design agency, then get acquired.
+5. Grow the design culture from scratch at a startup.
+6. Rebrand a Fortune 500 company.
+7. Win a Pencil of indeterminate colour from D&AD.
+8. Create a competitive first-person-shooter.
+9. Release a tiny, indie print mag.
+10. Write a fantasy novel that isn't terrible and illustrate the maps myself.

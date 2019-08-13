@@ -57,36 +57,36 @@ _What is the most important information in the email?_
 
 _How often would the customer expect to receive such an email_?
 
-## Sourcing the right candidates
+## Sourcing the right participants
 
-As this was to be a short initial study, we opted to conduct the research in a remote, unmoderated context via UserTesting.com, that provide some useful built-in tools that allowed us to source the best possible candidates.
+As this was to be a short initial study, we opted to conduct the research in a remote, unmoderated context via UserTesting.com, that provide some useful built-in tools that allowed us to source the best possible participants.
 
 ### Demographic
 
-For security and data protection reasons we weren&rsquo;t in a position to make use of our existing customer database, but we wanted to ensure that candidates matched, or closely resembled customers in one of TotallyMoney&rsquo;s key customer segments. The following would therefore needed to be true:
+For security and data protection reasons we weren&rsquo;t in a position to make use of our existing customer database, but we wanted to ensure that participants matched, or closely resembled customers in one of TotallyMoney&rsquo;s key customer segments. The following would therefore needed to be true:
 
-1. To ensure market familiarity — candidates must have engaged in the credit marketing in the preceding 12 months in some form. 
-2. We knew that our traffic from this email was very heavily skewed towards mobile users at approximately 80%, and so we wanted candidates with a similar likelihood of being on a mobile device.
-3. Candidates must be from the UK.
-4. Candidates should ideally be in the £10—£25k income bracket. 
+1. To ensure market familiarity — participants must have engaged in the credit marketing in the preceding 12 months in some form. 
+2. We knew that our traffic from this email was very heavily skewed towards mobile users at approximately 80%, and so we wanted participants with a similar likelihood of being on a mobile device.
+3. Participants must be from the UK.
+4. Participants should ideally be in the £10—£25k income bracket. 
 
 
 ### Screener
 
-UserTesting.com allows some of the criteria mentioned above to be applied as a filter. Beyond that, we screened candidates by posing some initial questions up front. 
+UserTesting.com allows some of the criteria mentioned above to be applied as a filter. Beyond that, we screened participants by posing some initial questions up front. 
 
-When doing this it was important to set the questions up correctly. We wanted only the most appropriate, genuine candidates to pass the screener. 
+When doing this it was important to set the questions up correctly. We wanted only the most appropriate, genuine participants to pass the screener. 
 
 <figure>
 	<img src="/_assets/img/case-study__research__screener.jpg" />
-	<figcaption>Getting the screener right helps to improve the chances of getting the right candidates.</figcaption>
+	<figcaption>Getting the screener right helps to improve the chances of getting the right participants.</figcaption>
 </figure>
 
 ## Prototype
 
-One of the more interesting aspects of this study was that we needed candidates to respond to an email touchpoint.
+One of the more interesting aspects of this study was that we needed participants to respond to an email touchpoint.
 
-We weren&rsquo;t in a position to send an email directly to candidates, but wanted them to experience the email in an inbox-like setting. Furthermore, we wanted candidates to experience the email in a way that was responsive to their device size, as opposed to some idealised version. We opted to send candidates through to a browser-based demo email, that acted as the closest match we could get to proving a real inbox experience in terms of visible area and responsive behaviour. 
+We weren&rsquo;t in a position to send an email directly to participants, but wanted them to experience the email in an inbox-like setting. Furthermore, we wanted participants to experience the email in a way that was responsive to their device size, as opposed to some idealised version. We opted to send participants through to a browser-based demo email, that acted as the closest match we could get to proving a real inbox experience in terms of visible area and responsive behaviour. 
 
 <figure>
 	<img src="/_assets/img/case-study__research__proto.jpg" />
@@ -95,9 +95,9 @@ We weren&rsquo;t in a position to send an email directly to candidates, but want
 
 ## Script
 
-As this was to be an unmoderated, remote study, candidates would be interacting directly with a set of tasks via the UserTesting.com app. Each scripted question made varied used of UserTesting&rsquo;s range of question types, focusing largely on simple prompts to get the candidate talking mixed in with some rating scale questions in an attempt to provide some basic metrics we could look refer back to. 
+As this was to be an unmoderated, remote study, participants would be interacting directly with a set of tasks via the UserTesting.com app. Each scripted question made varied used of UserTesting&rsquo;s range of question types, focusing largely on simple prompts to get the candidate talking mixed in with some rating scale questions in an attempt to provide some basic metrics we could look refer back to. 
 
-It was important to us to respect the time of our candidates and so we wanted the study to be light on hoops to jump through, albeit with space to allow candidates to elaborate if they wanted to.
+It was important to us to respect the time of our participants and so we wanted the study to be light on hoops to jump through, albeit with space to allow participants to elaborate if they wanted to.
 
 A draft version of the script [can be viewed in the planning document](https://paper.dropbox.com/doc/Research-Plan-Product-Alert-Redesign-UnmoderatedRemote--AiXKsqfi60kJdDywTdQdKB6OAQ-tZXs9XmqXSKl1mnOXMPK4) mentioned previously. 
 
@@ -110,7 +110,7 @@ A draft version of the script [can be viewed in the planning document](https://p
 
 ## Analysis
 
-Once everything was ready to go, we launched a pilot of the study to see if there was anything we needed to adjust. Once any adjustments were made, we launched the study with an additional four candidates, bringing us up to five, which we eventually extended to ten candidates. Once we had our ten, we could play back each study and begin the process of analysing the responses.
+Once everything was ready to go, we launched a pilot of the study to see if there was anything we needed to adjust. Once any adjustments were made, we launched the study with an additional four participants, bringing us up to five, which we eventually extended to ten participants. Once we had our ten, we could play back each study and begin the process of analysing the responses.
 
 
 ### Theme spotting
@@ -124,10 +124,10 @@ UserTesting.com allows for videos to be watched back and annotated in real-time.
 
 From the initial analysis, a couple of of the key themes that appeared were:
 
-1. Approachability — candidates seemed to respect the tone and approach of our content.
-2. Length — candidates thought the email was thorough, well structured, but perhaps too wordy.
+1. Approachability — participants seemed to respect the tone and approach of our content.
+2. Length — participants thought the email was thorough, well structured, but perhaps too wordy.
 
-Beyond key themes, we were able sift through the findings and create an initial analysis that communicated key takeaways. These were written up and matched against each section of the study, along with links to a highlights reel of key moments as spoken by the candidates as corroboration. We also looked back at the initial objectives to see if we had achieved what we were looking for. 
+Beyond key themes, we were able sift through the findings and create an initial analysis that communicated key takeaways. These were written up and matched against each section of the study, along with links to a highlights reel of key moments as spoken by the participants as corroboration. We also looked back at the initial objectives to see if we had achieved what we were looking for. 
 
 ## Next steps
 
@@ -138,5 +138,5 @@ __Full disclosure:__ I wasn't able to complete this stage of the work. As my tim
 
 ## Areas for improvement
 
-1. One of the problems inherent in conducting a study in this manner is that the candidates weren&rsquo;t our customers. They didn&rsquo;t know who we were and therefore lacked some of the context needed. We tried to address this in our script, however we probably didn&rsquo;t go far enough, and could do a better job of priming the candidate from the outset. 
+1. One of the problems inherent in conducting a study in this manner is that the participants weren&rsquo;t our customers. They didn&rsquo;t know who we were and therefore lacked some of the context needed. We tried to address this in our script, however we probably didn&rsquo;t go far enough, and could do a better job of priming the candidate from the outset. 
 2. Our study involved a single email, and yet in a real setting, the journey to and from the email might have multiple steps, including push notifications, interstitial screens, email apps and an onward journey through to a potential credit application. Looking at the email in isolation was useful for this small study—that&rsquo;s what we were focusing on after all—however it&rsquo;s possible looking at the email in isolation altered how it was perceived. In particular, email subject lines and preheaders are critical performance-influencing elements and so perhaps these should have been included in some form. 

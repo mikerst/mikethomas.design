@@ -390,3 +390,17 @@ screen view. Will update later. */
       font-size: 200%;
     }
 }
+
+
+/* ------------------- */
+/* OS-centric darkmode */
+/* ------------------- */
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color:         #000;
+    --text-color:       #f8f8f8;
+    --alt-text-color:   #cccccc;
+    --accent-color:     #FB7866
+  }
+}

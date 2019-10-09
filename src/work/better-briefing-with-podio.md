@@ -1,5 +1,6 @@
 ---
 title: Improving the briefing process
+worktype: TotallyMoney | DesignOps
 intro: Streamlining processes and making it easier for colleagues to initialise design briefs.
 hero: case-study__briefing__hero.jpg
 date: 2018-02-14

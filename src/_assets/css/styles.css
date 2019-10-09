@@ -325,7 +325,7 @@ main > video {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
   grid-auto-rows: auto;
-  grid-gap: 2rem;
+  grid-gap: 3rem;
   margin: calc(var(--spacer)*2) 0
 }
 
@@ -355,6 +355,14 @@ main > video {
 
 .project h2 {
   font-weight: 600;
+}
+
+.project .project__type {
+  margin: calc(var(--spacer)/2) 0;
+  font-family: var(--display-text);
+  font-size: 0.9em;
+  font-weight: 600;
+  display: block;
 }
 
 .timeline li {
@@ -394,8 +402,7 @@ screen view. Will update later. */
 
 /* ------------------- */
 /* OS-centric darkmode */
-/* ------------------- */
-
+/* ------------------- 
 @media (prefers-color-scheme: dark) {
   :root {
     --bg-color:         #000;
@@ -404,3 +411,4 @@ screen view. Will update later. */
     --accent-color:     #FB7866
   }
 }
+*/

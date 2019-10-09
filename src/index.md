@@ -3,7 +3,6 @@ title:
 intro: Multiple-hat-wearing designer based in London, with a love of old book smells, looking out for others, and posh coffee.
 layout: default
 layoutClass: home
-
 theme:
 ---
 
@@ -24,6 +23,7 @@ Hey there, I'm [Mike](/about/), an experienced, multiple-hat-wearing designer wi
       <div class="project">
           <a href="{{ page.url }}"><img src="/_assets/img/{{ page.data.hero }}" /></a>
           <h2><a href="{{ page.url }}">{{ page.data.title }}</a></h2>
+          <span class="project__type">{{ page.data.worktype }}</span>
       </div>
   {%- endfor -%}
   

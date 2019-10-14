@@ -347,6 +347,8 @@ main > video {
 .project {
   margin-top: 0;
   opacity: 0;
+  transform: scale(0.9);
+  transform: rotate(5deg);
 }
 
 .project h2 {

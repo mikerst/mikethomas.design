@@ -346,6 +346,7 @@ main > video {
 
 .project {
   margin-top: 0;
+  opacity: 0;
 }
 
 .project h2 {

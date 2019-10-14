@@ -12,10 +12,9 @@ theme:
 
 Hey there, I'm [Mike](/about/), an experienced, multiple-hat-wearing designer with a love of old book smells, looking out for others, and great coffee. To me, design is more than a nine-to-five, it’s a vocation.
 
-
 </section>
 
- <h2>Selected works</h2>
+<h2>Selected works</h2>
 
 <section class="projects">
  
@@ -28,7 +27,6 @@ Hey there, I'm [Mike](/about/), an experienced, multiple-hat-wearing designer wi
   {%- endfor -%}
   
 </section>
-
 
 {% if collections.journal %}
 
@@ -45,4 +43,9 @@ Hey there, I'm [Mike](/about/), an experienced, multiple-hat-wearing designer wi
 {% else %}
 
 {% endif %}
+
+
+
+
+
 

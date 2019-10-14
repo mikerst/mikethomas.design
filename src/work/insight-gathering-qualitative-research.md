@@ -3,6 +3,7 @@ title: Gathering insight through qualitative research
 worktype: TotallyMoney | User Research
 intro: A short research study aimed at helping to inform how a key customer touchpoint might be improved.
 hero: case-study__research__hero.jpg
+thumb: case-study__research__thumb.jpg
 date: 2018-12-14
 tags: 
 - ux

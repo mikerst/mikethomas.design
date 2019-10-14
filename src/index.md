@@ -20,7 +20,7 @@ Hey there, I'm [Mike](/about/), an experienced, multiple-hat-wearing designer wi
  
   {%- for page in collections.work | reverse -%}
       <div class="project">
-          <a href="{{ page.url }}"><img src="/_assets/img/{{ page.data.hero }}" /></a>
+          <a href="{{ page.url }}"><img src="/_assets/img/{{ page.data.thumb }}" /></a>
           <h2><a href="{{ page.url }}">{{ page.data.title }}</a></h2>
           <span class="project__type">{{ page.data.worktype }}</span>
       </div>

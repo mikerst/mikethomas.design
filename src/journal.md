@@ -12,14 +12,11 @@ navtitle: Journal
 
 Words are _the_ raw material for so much of what we create as designers.
 
-I'm trying to make writing a more visible part of my practice, and It's my intention to begin recording my thoughts, experiments, losses and victories here. 
-
-
 ## Latest entries
 
 <ul>
 {% if collections.journal %}
-{%- for page in collections.journal -%}
+{%- for page in collections.journal | reverse -%}
   <li>
     <a href="{{ page.url }}">{{ page.data.title }}</a><br/>
     <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time> 

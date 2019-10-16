@@ -1,0 +1,5 @@
+{
+  "layout" : "layouts/journal.md",
+  "tags" : "journal",
+  "templateEngineOverride": "njk,md"
+}

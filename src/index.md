@@ -30,10 +30,10 @@ Hey there, I'm [Mike](/about/), an experienced, multiple-hat-wearing designer wi
 
 {% if collections.journal %}
 
-<h2>Journal</h2>
+<h2>Latest journal entries</h2>
 
 <ul>
-{%- for page in collections.journal -%}
+{%- for page in collections.journal | reverse -%}
   <li>
     <a href="{{ page.url }}">{{ page.data.title }}</a><br/>
     <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time> 

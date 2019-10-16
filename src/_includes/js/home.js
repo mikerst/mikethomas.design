@@ -3,6 +3,7 @@
 
 // Grab all of the project divs
 const projects = document.querySelectorAll('.project');
+const cover = document.querySelectorAll('.cover');
 
 // Set some basic config vars
 const config = {
@@ -11,6 +12,9 @@ const config = {
 
 // Trigger a new timeline for animation
 const tl = new TimelineMax();
+const tml = new TimelineMax();
+
+tml.to(cover, 0.25, { autoAlpha: 1, y: 0 });
 
 // Using intersection observer to detect if the div is visible
 let observer = new IntersectionObserver(function(entries, self) {
@@ -22,7 +26,9 @@ let observer = new IntersectionObserver(function(entries, self) {
         overlap = '+=0';
       }
       
+      
       tl.to(entry.target, 0.25, { autoAlpha: 1, scale: 1, y: 0, rotation: 0 }, overlap);
+
       self.unobserve(entry.target);
     }
   });
@@ -31,5 +37,6 @@ let observer = new IntersectionObserver(function(entries, self) {
 projects.forEach(project => {
   observer.observe(project);
 });
+
 
 

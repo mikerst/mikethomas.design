@@ -336,6 +336,11 @@ main > video {
   grid-column: 2 / 3;
 }
 
+.cover {
+  transform: translateY(25px);
+  opacity: 0;
+}
+
 .cover p {
   font-size: 280%;
   margin-bottom: 6rem;

@@ -28,21 +28,23 @@ Hey there, I'm [Mike](/about/), an experienced, multiple-hat-wearing designer wi
   
 </section>
 
-{% if collections.journal %}
+  {% if collections.journal %}
 
-<h2>Latest journal entries</h2>
+  
 
-<ul>
-{%- for page in collections.journal | reverse -%}
-  <li>
-    <a href="{{ page.url }}">{{ page.data.title }}</a><br/>
-    <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time> 
-  </li>
-{%- endfor -%}
-</ul>
-{% else %}
+  <ul>
+  {%- for page in collections.journal | reverse -%}
+    <li>
+      <a href="{{ page.url }}">{{ page.data.title }}</a><br/>
+      <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time> 
+    </li>
+  {%- endfor -%}
+  </ul>
+  {% else %}
 
-{% endif %}
+  Coming soon 
+
+  {% endif %}
 
 
 

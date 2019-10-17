@@ -3,6 +3,7 @@ title: Raw Materials of The Web
 intro: If you gotta start somewhere, then right here will do nicely. 
 date: 2019-10-14
 theme: 
+eleventyExcludeFromCollections: true
 ---
 
 

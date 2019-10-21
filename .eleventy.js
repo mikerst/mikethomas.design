@@ -12,15 +12,16 @@ module.exports = function(config) {
   // Allows things like tag merging
   config.setDataDeepMerge(true);
 
+
   // compress and combine js files
   config.addFilter("jsmin", function(code) {
-    const UglifyJS = require("uglify-js");
-    let minified = UglifyJS.minify(code);
-      if( minified.error ) {
-          console.log("UglifyJS error: ", minified.error);
-          return code;
-      }
-      return minified.code;
+    const Terser = require("terser");
+    let minified = Terser.minify(code);
+    if( minified.error ) {
+        console.log("Terser error: ", minified.error);
+        return code;
+    }
+    return minified.code;
   });
 
   // pass some assets right through

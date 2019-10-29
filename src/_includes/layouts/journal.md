@@ -6,7 +6,7 @@ templateEngineOverride: njk, md
 
 <h1>{{ title }}</h1>
 
-<span>— <em><time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time></em> <spanp>
+<div>— Published on <em><time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time></em> </div>
 
 {{ content | safe }}
 

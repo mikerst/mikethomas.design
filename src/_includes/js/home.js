@@ -14,20 +14,20 @@ const config = {
 const tl = new TimelineMax();
 const tml = new TimelineMax();
 
-tml.to(cover, 0.25, { autoAlpha: 1, y: 0 });
+tml.to(cover, 0.5, { autoAlpha: 1, y: 0 });
 
 // Using intersection observer to detect if the div is visible
 let observer = new IntersectionObserver(function(entries, self) {
   entries.forEach(entry => {
     if (entry.isIntersecting) {
-      let overlap = '-=0.125';
+      let overlap = '-=0.25';
       
       if (!tl.isActive()) {
         overlap = '+=0';
       }
       
       
-      tl.to(entry.target, 0.25, { autoAlpha: 1, scale: 1, y: 0, rotation: 0 }, overlap);
+      tl.to(entry.target, 0.5, { autoAlpha: 1, scale: 1, y: 0, rotation: 0 }, overlap);
 
       self.unobserve(entry.target);
     }

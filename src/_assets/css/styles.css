@@ -180,7 +180,7 @@ video {
 
 nav {
   display: flex;
-  align-items: flex-end;
+  align-items: center;
 }
 
 nav a {
@@ -195,6 +195,19 @@ nav a {
 
 nav a:first-of-type {
    margin: 0 auto 0 0;
+   display: flex;
+   align-items: center;
+}
+
+nav a:first-of-type:hover {
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+}
+
+nav a img {
+  width: 5rem;
+  height: auto;
+  margin-right: 1rem;
 }
 
 nav > a.current {
@@ -404,7 +417,7 @@ screen view. Will update later. */
 
 @media screen and (max-width: 480px) {
     :root {
-      font-size: 90%;
+      font-size: 85%;
     }
     main, header, footer {
       padding: 2rem;

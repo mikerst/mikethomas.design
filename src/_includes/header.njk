@@ -1,6 +1,9 @@
 <header>
 	<nav>
-		<a href="/">Mike Thomas</a>
+		<a href="/">
+			<img src="/_assets/img/avatar.jpg" alt="Mike Thomas" />
+			<!--<span>Mike Thomas</span>-->
+		</a>
 		{%- for nav in collections.nav -%}
 			<a class="{% if nav.url == page.url %}current{% endif %}" href="{{ nav.url | url }}">{{ nav.data.navtitle }}</a>
 		{%- endfor -%}

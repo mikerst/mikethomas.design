@@ -343,10 +343,12 @@ main > video {
 
 .cover p {
   font-size: 280%;
+  font-family: var(--display-text);
+  font-weight: 600;
   margin-bottom: 6rem;
 }
 .cover > * {
-  grid-column: 1 / 4 ;
+   grid-column: 1 / 4 ; 
 }
 
 .project {
@@ -409,6 +411,9 @@ screen view. Will update later. */
     }
     main.case-study > *, main.basic > * {
       grid-column: 1 / 4;
+    }
+    .cover {
+      display: block;
     }
     .cover p {
       font-size: 200%;

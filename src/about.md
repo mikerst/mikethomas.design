@@ -19,9 +19,7 @@ I recently concluded a six year stint at TotallyMoney, a FinTech scale-up near S
 
 Throughout this time, and prior, I've had the good fortune to work with clients and organisations such as the NHS, DB Schenker, Cognita Schools, Capital One, MBNA, Barclaycard, and Zeal to name but a few.
 
-Right now, I'm on a planned career break, and am looking for new opportunities to commence over the summer or thereabouts.
-
-I am currently living the quiet life in South West London with my amazing, supportive partner.
+Right now, I'm actively searching for The Next Right Role, and living the quiet life in South West London.
 
 ## Hats
 

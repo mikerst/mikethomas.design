@@ -44,7 +44,7 @@ What I (personally) as a customerin this scenario want to do is see a top level 
 
 __2: Automation__ 
 
-Looking at it from a higher vantage point, the outcome I want as a customer is—via getting an item on my list for the best possible price—to save money and get better value. Rather than do this manually, how might some this process be automated? And, how could such a feature work on behalf of both sellers and buyers (and Amazon itself, of course)?
+Looking at it from a higher vantage point, the outcome I want as a customer is—via getting an item on my list for the best possible price—to save money and get better value. Rather than do this manually, how might this process be automated? And, how could such a feature work on behalf of both sellers and buyers (and Amazon itself, of course)?
 
 Beyond the business-case, I'd want to consider how this might be implemented across multiple touchpoints, from the web, to the inbox, to device in your pocket.
 

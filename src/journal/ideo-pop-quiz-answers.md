@@ -2,15 +2,16 @@
 title: The best designed website in the world?
 date: 2019-12-18
 theme: 
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 ---
 
 This short piece was written in response to the 'Pop Quiz' questions posed in the application for the position of Interaction Designer @ IDEO.
 
 ## Q: What do you think is the most well designed website in the world?
 
-A: Potentially controversial, but my answer (without overthinking it) would be __Amazon.com__ (.co.uk, .de, etc).
 
+
+A: Potentially controversial, but my answer (without overthinking it) would be __Amazon.com__ (.co.uk, .de, etc).
 
 ## Q: Why do you like it?
 
@@ -40,7 +41,7 @@ Starting at a lower level, the UI on the web (large breakpoint) allows you to ea
 
 I should imagine that there are reasons for this point of difference, but I'd be interested in questioning whether or not this should be the case, and looking at some data (qual/quant) surrounding how customers use the feature across breakpoints and devices to see if some degree of closer alignment might occur, both in terms of flows, and labelling/nomenclature.
 
-What I (personally) as a customerin this scenario want to do is see a top level view of my lists and tap on the one I want to view as a first port of call. My hunch here is that I'm not alone and I'd want to investigate this further.
+What I (personally) as a customer in this scenario want to do is see a top level view of my lists and tap on the one I want to view as a first port of call. My hunch here is that I'm not alone and I'd want to investigate this further.
 
 __2: Automation__ 
 

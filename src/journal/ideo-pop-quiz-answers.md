@@ -2,7 +2,7 @@
 title: The best designed website in the world?
 date: 2019-12-18
 theme: 
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 ---
 
 This short piece was written in response to the 'Pop Quiz' questions posed in the application for the position of Interaction Designer @ IDEO.

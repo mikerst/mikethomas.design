@@ -14,7 +14,7 @@ Hey there, I'm [Mike](/about/), an experienced, multiple-hat-wearing designer wi
 
 </section>
 
-<h2>Selected works</h2>
+<h2>Projects</h2>
 
 <section class="projects">
  

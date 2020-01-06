@@ -1,7 +1,9 @@
 ---
 title: The best designed website in the world?
 date: 2019-12-18
-theme: 
+theme:
+intro: 
+hero:
 eleventyExcludeFromCollections: true
 ---
 

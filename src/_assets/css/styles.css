@@ -442,7 +442,7 @@ screen view. Will update later. */
 @media (prefers-color-scheme: dark) {
   :root {
     --bg-color:         #1b1b1b;
-    --text-color:       #f8f8f8;
+    --text-color:       #cccccc;
     --alt-text-color:   #cccccc;
     --accent-color:     #E5E8FF;
   }

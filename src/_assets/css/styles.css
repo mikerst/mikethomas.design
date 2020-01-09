@@ -438,12 +438,12 @@ screen view. Will update later. */
 
 /* ------------------- */
 /* OS-centric darkmode */
-/* ------------------- 
+/* ------------------- */
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg-color:         #000;
+    --bg-color:         #1b1b1b;
     --text-color:       #f8f8f8;
     --alt-text-color:   #cccccc;
-    --accent-color:     #FB7866
+    --accent-color:     #E5E8FF;
   }
-}*/
+}

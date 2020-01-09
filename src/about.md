@@ -13,13 +13,13 @@ navtitle: About
 
 Generalist designer at heart with GSOH that loves to work end-to-end.
 
-![Me, and some popcorn from Kyoto named after me.](/_assets/img/mike.jpg)
-
 I recently concluded a six year stint at TotallyMoney, a FinTech scale-up near Silicon Roundabout, where I've worked across Brand, Marketing and Product teams, helping to grow the business through two major pivots, and from zero to over 1.5 million customers (and counting).
 
 Throughout this time, and prior, I've had the good fortune to work with clients and organisations such as the NHS, DB Schenker, Cognita Schools, Capital One, MBNA, Barclaycard, and Zeal to name but a few.
 
 Right now, I'm actively searching for The Next Right Role, and living the quiet life in South West London.
+
+![Me, and some popcorn from Kyoto named after me.](/_assets/img/mike.jpg)
 
 ## Hats
 

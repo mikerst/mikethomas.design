@@ -2,8 +2,10 @@
 /* ## Styles for https://mikethomas.design ## */
 /* ######################################### */
 
-@import url('https://fonts.googleapis.com/css?family=PT+Serif:400,700');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif:400,700');
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,400i,600,600i,700,700i&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,600,600i,700,700i&display=swap');
 
 /* ------------------- */
 /* Baselining          */
@@ -51,8 +53,8 @@ img {
   --text-color:       #010101;
   --alt-text-color:   #6a6a6a;
   --accent-color:     #0072CE;
-  --body-text:          'PT Serif', Georgia, serif;
-  --display-text:       'Poppins', Arial, sans-serif;
+  --body-text:          'Noto Serif', Georgia, serif;
+  --display-text:       'Noto Sans', Arial, sans-serif;
   --spacer:             1.5rem;
 }
 
@@ -102,7 +104,7 @@ h1.homepage-heading {
 
 h2 {
   font-size: 2rem;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 h3 {
@@ -355,7 +357,7 @@ main > video {
 }
 
 .cover p {
-  font-size: 280%;
+  font-size: 220%;
   font-family: var(--display-text);
   font-weight: 600;
   margin-bottom: 6rem;

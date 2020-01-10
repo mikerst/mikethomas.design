@@ -128,7 +128,7 @@ p:first-of-type {
 a {
   color: var(--text-color);
   text-decoration: none;
-  border-bottom: 2px solid var(--accent-color);
+  border-bottom: 1px dotted var(--accent-color);
 }
 
 a:visited {
@@ -374,7 +374,7 @@ main > video {
 }
 
 .project h2 {
-  margin-top: var(--spacer);
+  margin-top: calc(var(--spacer)/2);
   font-size: 1.4rem;
 }
 

@@ -1,6 +1,6 @@
 ---
 title: Graphics for a product launch event
-worktype: TotallyMoney | Graphic Design
+worktype: Graphic Design
 intro: Large format boards, vinyl wall and window branding for a launch event held an art gallery in Fitzrovia. 
 hero: case-study__launch-party__hero.jpg
 thumb: case-study__launch-party__thumb.jpg

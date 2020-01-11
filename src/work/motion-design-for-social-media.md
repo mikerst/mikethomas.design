@@ -1,14 +1,14 @@
 ---
 title: Motion design for social media
-worktype: TotallyMoney | Motion Graphics
+worktype: Motion Graphics
 intro: Simple looping video ads for Facebook, with a few variations.
 hero: case-study__social__hero.jpg
 thumb: case-study__social__thumb.jpg
 date: 2018-03-14
-eleventyExcludeFromCollections: true
 tags: 
 - side
 theme: 
+eleventyExcludeFromCollections: true
 ---
 
 ## Background

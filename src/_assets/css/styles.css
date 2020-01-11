@@ -445,7 +445,7 @@ screen view. Will update later. */
 
 /* ------------------- */
 /* OS-centric darkmode */
-/* ------------------- */
+/* ------------------- 
 @media (prefers-color-scheme: dark) {
   :root {
     --bg-color:         #1b1b1b;
@@ -453,4 +453,4 @@ screen view. Will update later. */
     --alt-text-color:   #cccccc;
     --accent-color:     #E5E8FF;
   }
-}
+}*/

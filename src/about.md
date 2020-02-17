@@ -38,6 +38,9 @@ __Project Management__: Prioritising, estimating, assigning. Advocate for a Kanb
 	
 <ul class="timeline">
     <li>
+        <span>'20</span> <span>Joined <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> as a Product Designer, bringing human-centered design methodologies to the energy industry.</span>
+    </li>
+    <li>
         <span>'19</span> <span>Embarked on a planned career break in April to take-stock, re-energise, and figure some things out #askmeanything.</span>
     </li>
     <li>

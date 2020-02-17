@@ -13,7 +13,9 @@ navtitle: About
 
 Generalist designer at heart with GSOH that loves to work end-to-end.
 
-I recently concluded a six year stint at TotallyMoney, a FinTech scale-up near Silicon Roundabout, where I've worked across Brand, Marketing and Product teams, helping to grow the business through two major pivots, and from zero to over 1.5 million customers (and counting).
+Currently Product Designing @ Piclo in Shoreditch, bringing a human-centered design practice to the energy industry with a focus on renewable and sustainable energy markets.
+
+Previously work at TotallyMoney, a FinTech scale-up near Silicon Roundabout, where I worked across Brand, Marketing and Product teams, helping to grow the business through two major pivots, and from zero to over 1.5 million customers (and counting).
 
 Throughout this time, and prior, I've had the good fortune to work with clients and organisations such as the NHS, DB Schenker, Cognita Schools, Capital One, MBNA, Barclaycard, and Zeal to name but a few.
 

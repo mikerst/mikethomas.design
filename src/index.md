@@ -42,7 +42,7 @@ Hey there, I'm [Mike](/about/), an experienced, multiple-hat-wearing designer wi
   </ul>
   {% else %}
 
-  Coming soon 
+
 
   {% endif %}
 

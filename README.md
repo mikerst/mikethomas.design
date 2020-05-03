@@ -1,6 +1,5 @@
 # mikethomas.design
 
-My personal site. 
+My personal site, an always-being-tweaked work-in-progress.
 
-Based on a heavily trimmed-down version of EleventyOne. Lots of simplification and removal of things I didn't need combined with a bit of a folder re-organisation.
-
+This site was design using [Figma](https://www.figma.com/) and [11ty](https://www.11ty.dev/), with Github for source control and Netlify for deployment.

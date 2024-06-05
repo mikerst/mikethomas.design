@@ -4,7 +4,7 @@
   functions = "src/functions"
 
 [build.environment]
-  NODE_ENV = "20.14.0"
+  NODE_VERSION = "20.14.0"
 
 [dev]
   command = "npm run start"

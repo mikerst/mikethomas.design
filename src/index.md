@@ -1,16 +1,16 @@
 ---
-title: 
-intro: Multiple-hat-wearing designer based in London, with a love of old book smells, looking out for others, and posh coffee.
+title:
+intro: Multiple-hat-wearing design-lead based in London, with a love of old book smells, looking out for others, and great coffee.
 layout: default
 layoutClass: home
 theme:
 ---
 
-<h1 class="homepage-heading">Mike Thomas</h1>
+<h1 class="homepage-heading">Mike Thomas, Design Lead</h1>
 
 <section class="cover">
 
-Hey there, I'm [Mike](/about/), an experienced, multiple-hat-wearing designer with a love of old book smells, looking out for others, and great coffee. To me, design is more than a nine-to-five, it’s a vocation.
+Hey there, I'm [Mike](/about/), multiple-hat-wearing design-lead with a love of old book smells, looking out for others, and great coffee. To me, design is more than a nine-to-five, it’s a vocation.
 
 </section>
 

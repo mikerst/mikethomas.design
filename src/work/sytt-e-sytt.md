@@ -1,6 +1,6 @@
 ---
 title: ‘Sytt e sytt’ micro branding exercise
-worktype: Graphic Design
+worktype: Visual Design
 intro: A simple, quick turn-around logo to adorn the labels of a hobbyist’s apparel brand.
 hero: case-study__sytt__hero.jpg
 thumb: case-study__sytt__thumb.jpg
@@ -8,6 +8,7 @@ date: 2017-06-14
 tags: 
 - side
 theme: 
+eleventyExcludeFromCollections: true
 ---
 
 ## Background

@@ -1,6 +1,6 @@
 ---
 title: Motion design for social media
-worktype: Motion Graphics
+worktype: Visual Design
 intro: Simple looping video ads for Facebook, with a few variations.
 hero: case-study__social__hero.jpg
 thumb: case-study__social__thumb.jpg

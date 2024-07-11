@@ -4,7 +4,6 @@ layout: layouts/base.njk
 layoutClass: basic
 theme: 
 tags:
-  - nav
 navtitle: About
 ---
 
@@ -13,14 +12,13 @@ navtitle: About
 
 Generalist designer at heart with GSOH that loves to work end-to-end.
 
-Currently Product Designing @ Piclo in Shoreditch, bringing a human-centered design practice to the energy industry with a focus on renewable and sustainable energy markets.
+Recently wrapped up a four-year stint at @ Piclo in Shoreditch, bringing a human-centered design practice to the energy industry with a focus on renewable and sustainable energy markets.
 
 Previously designed at TotallyMoney, a FinTech scale-up near Silicon Roundabout, where I worked across Brand, Marketing and Product teams, helping to grow the business through two major pivots, and from zero to over 1.5 million customers (and counting).
 
 Throughout this time, and prior, I've had the good fortune to work with clients and organisations such as the NHS, DB Schenker, Cognita Schools, Capital One, MBNA, Barclaycard, and Zeal to name but a few.
 
-
-![Me, and some popcorn from Kyoto named after me.](/_assets/img/mike.jpg)
+<section class="hats">
 
 ## Hats
 
@@ -34,6 +32,9 @@ __Development__: Semantic HTML and extensible, modular CSS development (with a s
 
 __Project Management__: Prioritising, estimating, assigning. Advocate for a Kanban/Scrum hybrid practice.
 
+</section>
+
+<section class="career">
 
 ## Career
 	
@@ -90,8 +91,9 @@ __Project Management__: Prioritising, estimating, assigning. Advocate for a Kanb
     </li>
 </ul>
 
+</section>
 
-
+<section class="inputs">
 
 ## Inputs
 
@@ -105,6 +107,10 @@ __Playing__: <a title="Super Mario Maker 2" target="_blank" href="https://www.ni
 __Watching__: N/A
 
 __Sipping__: <a title="Whiskey Sour" target="_blank" href="https://en.wikipedia.org/wiki/Whiskey_sour">Whiskey Sour</a>
+
+</section>
+
+<section class="bucket-list">
 
 
 ## Creative bucket-list
@@ -121,3 +127,5 @@ A head-in-the-clouds list of creative projects I'd like to tackle now, and in th
 8. Create a competitive first-person-shooter.
 9. Release a tiny, indie print mag.
 10. Write a fantasy novel that isn't terrible and illustrate the maps myself.
+
+</section>

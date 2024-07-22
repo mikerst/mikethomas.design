@@ -49,12 +49,12 @@ img {
   --bg-color:         #FFF;
   --text-color:       #010101;
   --alt-text-color:   #6a6a6a;
-  --accent-color:     #5367FF;
+  --accent-color:     #0029FF;
   --display-text:     'Libre Baskerville', Georgia, serif;
   --body-text:        'Inter', Arial, sans-serif;
   --spacer:           1.5rem;
   --grid-gap:         4rem;
-  --grid-template:    auto / 2fr 5fr;
+  --grid-template:    auto / 1fr 1fr 1fr;
 }
 
 body.dark {
@@ -64,8 +64,11 @@ body.dark {
 }
 
 body.fun-mode {
-  --bg-color: pink;
+  --bg-color: #0029FF;
+  --text-color:       #EEE;
   --fun-mode-visibility: visible;
+  --accent-color:     #222222;
+  --alt-text-color:  var(--text-color);
 }
 
 .fun-mode-visibility {
@@ -197,15 +200,22 @@ video {
 
 header {
   margin: 0;
+  height:18vh;
   display: grid;
   grid-template: var(--grid-template);
   gap:var(--grid-gap);
 }
 
+header .mt {
+  width: 128px;
+  height:auto;
+  max-height:128px;
+}
+
 nav {
   display: flex;
-  align-items: center;
-  grid-column: 1 / 3 ; 
+  align-items: top;
+  grid-column: 1 / 4 ; 
   font-size: 1.2rem;
   font-family: var(--body-text);
   font-weight: 400;
@@ -241,6 +251,17 @@ nav a span.pronoun  {
 
 nav > a.current {
   border-bottom: 2px solid var(--accent-color);
+}
+
+.simple-button {
+  border: 2px solid var(--text-color);
+  border-radius: 2rem;
+  padding:0 1rem;
+}
+
+.simple-button:hover {
+  background:var(--text-color);
+  color:var(--bg-color);
 }
 
 /* ------------------- */
@@ -301,19 +322,20 @@ main.basic {
 }
 
 main.basic > * {
-  grid-column: 2 / 3;
+  grid-column: 2 / 4;
 }
 
 main.basic > .projects {
-  grid-column: 1 / 3;
+  grid-column: 1 / 4;
 }
 
 main.basic h1 {
-  grid-column: 2 / 3;
+ 
+  grid-column: 2 / 4;
 }
 
 main.basic img {
-  grid-column: 1 / 3;
+  grid-column: 1 / 4;
 }
 
 main.basic section {
@@ -390,15 +412,16 @@ main > video {
 }
 
 .intro h1 {
-  grid-column: 2 / 3;
-  font-size: 6rem;
+  grid-column: 2 / 4;
   margin-bottom: 3rem;
 }
+
+
 
 .intro p {
   font-family: var(--body-text);
   font-weight: 400;
-  grid-column: 2 / 3 ;
+  grid-column: 2 / 4 ;
   
 }
 
@@ -406,14 +429,24 @@ section.role {
   display:grid;
   grid-template: var(--grid-template);
   column-gap:  var(--grid-gap);
+  margin: 6rem 0 6rem 0;
+}
+
+.role p:first-of-type {
+  font-size:2rem;
+  color:#888888;
+}
+
+.role p {
+  grid-column: 2 / 4;
 }
 
 .projects {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(25rem, 1fr));
+  grid-template:var(--grid-template);
   grid-auto-rows: auto;
   gap:  var(--grid-gap);;
-  margin: calc(var(--spacer)*2) 0
+  margin: 0 0 calc(var(--spacer)*6) 0;
 }
 
 .project {
@@ -461,28 +494,77 @@ section.inputs {
   font-family: var(--display-text);
 }
 
+.decals {
+  display: grid;
+  position: absolute;
+  top:0;
+  left:0;
+  width:100vw;
+}
 .octagon {
   width: 100%;
+  background-color: #0029FF;
   margin:0;
+  transform:rotate(45deg);
   aspect-ratio: 1 / 1;
   grid-column: 1 / 1;
-  clip-path: polygon(
-      30% 0%, 70% 0%, 100% 30%, 100% 70%, 
-      70% 100%, 30% 100%, 0% 70%, 0% 30%
-  );
+  clip-path: polygon(16.6% 16.6%, 50% 0, 83.3% 16.6%, 100% 50%,
+                     83.3% 83.3%, 50% 100%, 16.6% 83.3%, 0 50%);
 }
 
 .octagon-1 {
-  background-color: #2569E6;
+  border:3px solid var(--accent-color);
   opacity: 0.08;
   grid-row: 1;
 }
 
 .octagon-2 {
-  background-color: #2569E6;
+  border:3px dashed var(--accent-color);
   opacity: 0.08;
   grid-row: 1;
   margin-left: 50%;
+}
+
+.svg-container {
+  position:absolute;
+  display:grid;
+  top:-5rem;
+  left:0;
+  z-index:-100;
+  width:100%;
+}
+
+.svg-octagon {
+  width:100%;
+  height:100%;
+  fill: none;
+  stroke: var(--accent-color);
+  stroke-width: 0.5;
+  animation: rotate 150s linear infinite;
+  transform-origin: center;
+  opacity:0.25;
+  
+}
+
+.oct1 {
+  grid-row:1;
+  margin-top:25%;
+}
+
+.oct2 {
+  stroke-dasharray: 2 2;
+  animation-direction: reverse;
+  grid-row:1;
+  margin-left:-50%;
+}
+
+@keyframes rotate {
+  from {
+      transform: rotate(0deg);
+  }
+  to {
+      transform: rotate(360deg);
+  }
 }
 
 
@@ -494,7 +576,7 @@ section.inputs {
 I'm just going for some simple overrides to help with the smaller 
 screen view. Will update later. */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
     :root {
       font-size: 75%;
     }
@@ -509,6 +591,13 @@ screen view. Will update later. */
     }
     .intro h1 {
       font-size: 4rem;
+    }
+    main.basic h1 {
+      grid-column: 1 / 3;
+      font-size: 4rem;
+    }
+    .decals {
+      display:none;
     }
 }
 

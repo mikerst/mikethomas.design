@@ -3,10 +3,10 @@
 		<a href="/" title="Mike Thomas">
 			<span class="name">Mike Thomas</span>, Design Lead <span class="pronoun">(He/Him)</span>
 		</a>
-		<span>Mode:</span>
-		<a id="theme-toggle" href="#" title="Mike Thomas">
+		<!--<a id="theme-toggle" class="simple-button" href="#" title="Mike Thomas">
 			<span id="theme-icon">Light</span>
-		</a>
+		</a>-->
+		<img class="mt" src="/_assets/img/mt.png" />
 		{%- for nav in collections.nav -%}
 			<a class="{% if nav.url == page.url %}current{% endif %}" href="{{ nav.url | url }}">{{ nav.data.navtitle }}</a>
 		{%- endfor -%}

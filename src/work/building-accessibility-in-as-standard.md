@@ -1,4 +1,5 @@
 ---
+tags: ["piclo"]
 title: Hitting AA accessibility standards
 worktype: Product Design
 intro: How we hit AA accessibility standards across our flagship product and built out the know-how to maintain this going forward.

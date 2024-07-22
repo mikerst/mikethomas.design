@@ -1,4 +1,5 @@
 ---
+tags: ["tm"]
 title: Improving the briefing process
 worktype: Ways of Working
 intro: Streamlining processes and making it easier for colleagues to initialise design briefs.
@@ -6,7 +7,6 @@ hero: case-study__briefing__hero.jpg
 thumb: case-study__briefing__thumb.jpg
 date: 2018-02-14
 theme: 
-eleventyExcludeFromCollections: true
 ---
 
 

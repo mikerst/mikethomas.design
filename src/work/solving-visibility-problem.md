@@ -1,4 +1,5 @@
 ---
+tags: ["piclo"]
 title: Creating a new product from scratch with innovation funding
 worktype: Product Design
 intro: Creating an innovative new platform for providers of Flexible enery services to buy and sell previously won contracts.

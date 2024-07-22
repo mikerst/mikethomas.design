@@ -1,4 +1,5 @@
 ---
+tags: ["piclo"]
 title: Standardising product thinking
 worktype: Scaling Design
 intro: Creating a baseline starting point for product work to ensure consistent quality of thought for new work from the get-go.

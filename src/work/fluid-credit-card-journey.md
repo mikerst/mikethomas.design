@@ -1,4 +1,5 @@
 ---
+tags: ["tm"]
 title: Acquisition Journey for Fluid
 worktype: B2C
 intro: Re-launch of the customer acquisition journey for Fluid, a credit card brand for people with lower credit scores who want to reduce interest payments on existing debt. 

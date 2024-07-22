@@ -1,4 +1,5 @@
 ---
+tags: ["tm"]
 title: Re-imagining how we made emails at TotallyMoney
 worktype: Design Systems
 intro: Improving the quality of life for team members working on new HTML email projects by centralising email design assets and simplifying the codebase.
@@ -6,7 +7,6 @@ hero: case-study__email__hero.jpg
 thumb: case-study__email__thumb.jpg
 date: 2018-12-31
 theme: 
-eleventyExcludeFromCollections: true
 ---
 
 ## The Problem(s)

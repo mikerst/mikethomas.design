@@ -1,12 +1,11 @@
 ---
+tags: ["tm"]
 title: Motion design for social media
 worktype: Visual Design
 intro: Simple looping video ads for Facebook, with a few variations.
 hero: case-study__social__hero.jpg
 thumb: case-study__social__thumb.jpg
 date: 2018-03-14
-tags: 
-- side
 theme: 
 eleventyExcludeFromCollections: true
 ---

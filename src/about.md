@@ -1,5 +1,5 @@
 ---
-title: About
+title: Generalist at heart who loves to work end-to-end.
 layout: layouts/base.njk
 layoutClass: basic
 theme: 
@@ -10,15 +10,13 @@ navtitle: About
 
 <h1>{{ title }}</h1>
 
-Generalist designer at heart with GSOH that loves to work end-to-end.
+I recently wrapped up a four-year tenure at <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> in Shoreditch, bringing a human-centered design practice to the energy industry with a focus on renewable and sustainable energy markets.
 
-Recently wrapped up a four-year stint at @ Piclo in Shoreditch, bringing a human-centered design practice to the energy industry with a focus on renewable and sustainable energy markets.
-
-Previously designed at TotallyMoney, a FinTech scale-up near Silicon Roundabout, where I worked across Brand, Marketing and Product teams, helping to grow the business through two major pivots, and from zero to over 1.5 million customers (and counting).
+Previously designed at TotallyMoney, a high-growth FinTech scale-up, where I enjoyed stints worked across Brand, Marketing and Product teams, helping to grow the business through two major pivots, and from zero to over 1.5 million customers (and counting).
 
 Throughout this time, and prior, I've had the good fortune to work with clients and organisations such as the NHS, DB Schenker, Cognita Schools, Capital One, MBNA, Barclaycard, and Zeal to name but a few.
 
-<section class="hats">
+
 
 ## Hats
 
@@ -32,9 +30,7 @@ __Development__: Semantic HTML and extensible, modular CSS development (with a s
 
 __Project Management__: Prioritising, estimating, assigning. Advocate for a Kanban/Scrum hybrid practice.
 
-</section>
 
-<section class="career">
 
 ## Career
 	
@@ -43,19 +39,22 @@ __Project Management__: Prioritising, estimating, assigning. Advocate for a Kanb
         <span>'24</span> <span>Departed <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> after a wonderful four-year tenure to reset again.</span>
     </li>
     <li>
+        <span>'22</span> <span>Promoted to Lead Designer <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a>, with a blend of both IC and management responsibilities.</span>
+    </li>
+    <li>
         <span>'20</span> <span>Joined <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> as a Product Designer, advocating for and practicing human-centered design in the energy sector.</span>
     </li>
     <li>
         <span>'19</span> <span>Embarked on a planned career break in April to take-stock, re-energise, and figure some things out #askmeanything.</span>
     </li>
     <li>
-        <span>'17</span> <span>Segue to Product team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/info/team/">TotallyMoney</a>, contributing end-to-end, from user research through to visual design and front-end development.</span>
+        <span>'17</span> <span>Segue to Product team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/">TotallyMoney</a>, contributing end-to-end, from user research through to visual design and front-end development.</span>
     </li>
     <li>
-        <span>'15</span> <span>Moved to Marketing team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/info/team/">TotallyMoney</a>, designing and managing workflows across all channels, from content and email, through to social media and print.</span>
+        <span>'15</span> <span>Moved to Marketing team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/">TotallyMoney</a>, designing and managing workflows across all channels, from content and email, through to social media and print.</span>
     </li>
     <li>
-        <span>'13</span> <span>Joined Brand team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/info/team/">TotallyMoney</a> as a Senior Designer in a generalist role.</span>
+        <span>'13</span> <span>Joined Brand team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/">TotallyMoney</a> as a Senior Designer in a generalist role.</span>
     </li>
     <li>
         <span>'09</span> <span>Cut my teeth working agency-side for <a title="Metaphors" target="_blank" href="https://www.metaphors.co.uk/">Metaphors</a>, a boutique brand agency in leafy Holland park.</span>
@@ -91,16 +90,14 @@ __Project Management__: Prioritising, estimating, assigning. Advocate for a Kanb
     </li>
 </ul>
 
-</section>
 
-<section class="inputs">
 
 ## Inputs
 
 
-__Reading__: <a title="The Shape of Design" target="_blank" href="https://shapeofdesignbook.com/">The Shape of Design</a>
+__Reading__: <a title="Range" target="_blank" href="https://davidepstein.com/range/">Range</a>, <a title="The Artist's Way" target="_blank" href="https://shop.barbican.org.uk/products/the-artists-way">The Artisit's Way</a>
 
-__Listening__: <a title="99% Invisible" target="_blank" href="https://99percentinvisible.org/">99% Invisible</a>
+__Listening__: <a title="Decoder" target="_blank" href="https://99percentinvisible.org/">Decoder</a>, <a title="9UX podcast" target="_blank" href="https://99percentinvisible.org/">UX Podcast</a>
 
 __Playing__: <a title="Super Mario Maker 2" target="_blank" href="https://www.nintendo.co.uk/Games/Nintendo-Switch/Super-Mario-Maker-2-1514009.html">Super Mario Maker 2</a>
 
@@ -108,9 +105,6 @@ __Watching__: N/A
 
 __Sipping__: <a title="Whiskey Sour" target="_blank" href="https://en.wikipedia.org/wiki/Whiskey_sour">Whiskey Sour</a>
 
-</section>
-
-<section class="bucket-list">
 
 
 ## Creative bucket-list
@@ -128,4 +122,3 @@ A head-in-the-clouds list of creative projects I'd like to tackle now, and in th
 9. Release a tiny, indie print mag.
 10. Write a fantasy novel that isn't terrible and illustrate the maps myself.
 
-</section>

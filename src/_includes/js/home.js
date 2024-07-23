@@ -49,11 +49,11 @@ document.addEventListener('DOMContentLoaded', () => {
   // Function to apply the theme
   const applyTheme = (theme) => {
     
-    body.classList.remove('light-mode', 'dark', 'fun-mode');
+    body.classList.remove('light-mode', 'dark');
     if (theme) {
         body.classList.add(theme);
         localStorage.setItem('theme', theme);
-        updateButtonContent(theme)
+        updateButtonContent(theme);
     } else {
         localStorage.removeItem('theme');
         updateButtonContent(theme);
@@ -66,11 +66,11 @@ document.addEventListener('DOMContentLoaded', () => {
 // Function to update the button content
 const updateButtonContent = (theme) => {
   if (theme === 'dark') {
-      themeIcon.textContent = 'Dark';
-  } else if (theme === 'fun-mode') {
-      themeIcon.textContent = 'Fun';
+      themeIcon.className = 'icon icon--sun';
+      themeIcon.setAttribute('title', 'Change to light mode ');
   } else {
-      themeIcon.textContent = 'Light';
+      themeIcon.className = 'icon icon--moon';
+      themeIcon.setAttribute('title', 'Change to dark mode');
   }
 };
 
@@ -86,14 +86,12 @@ const updateButtonContent = (theme) => {
   }
 
    // Define the theme options
-   const themes = ['light-mode', 'dark', 'fun-mode'];
+   const themes = ['light-mode', 'dark'];
 
    // Toggle between themes
    toggleButton.addEventListener('click', () => {
-       const currentTheme = body.classList.contains('dark') ? 'dark' :
-                            body.classList.contains('fun-mode') ? 'fun-mode' : 'light-mode';
+       const currentTheme = body.classList.contains('dark') ? 'dark' : 'light-mode';
        const nextTheme = themes[(themes.indexOf(currentTheme) + 1) % themes.length];
-       
        applyTheme(nextTheme);
        
    });

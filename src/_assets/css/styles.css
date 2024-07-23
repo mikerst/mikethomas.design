@@ -253,16 +253,30 @@ nav > a.current {
   border-bottom: 2px solid var(--accent-color);
 }
 
-.simple-button {
-  border: 2px solid var(--text-color);
-  border-radius: 2rem;
-  padding:0 1rem;
+#theme-toggle {
+  border:none;
+  background:none;
 }
 
-.simple-button:hover {
-  background:var(--text-color);
-  color:var(--bg-color);
+#theme-toggle:hover {
+  cursor:pointer;
 }
+
+.icon {
+  width:3rem;
+  height: 3rem;
+}
+
+.icon--sun {
+  content:url("/_assets/img/icon--sun.svg");
+  filter:invert(0.8);
+}
+
+.icon--moon {
+  content:url("/_assets/img/icon--moon.svg");
+}
+
+
 
 /* ------------------- */
 /* Footer              */
@@ -280,6 +294,12 @@ footer a,
 footer a:visited {
   color: inherit;
   border-bottom-color: inherit;
+}
+
+footer {
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 

@@ -96,9 +96,6 @@ I was involved in a successful rebrand project, the launch of a new product that
 
 Get in touch via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: mikerst@gmail.com">Email</a>, otherwise find me on <a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>, <a title="My Github prilfe" target="_blank" href="https://github.com/mikerst">Github</a>, <a title="My Pinterest profile" target="_blank" href="https://www.pinterest.co.uk/mikerst/">Pinterest</a>.<br/><br/>This site was made using <a title="Figma" target="_blank" href="https://www.figma.com/">Figma</a> and <a title="11ty" target="_blank" href="https://www.11ty.dev/">11ty</a>, with <a title="Github" target="_blank" href="https://www.github.com/">Github</a> for source control and <a title="Netlify" target="_blank" href="https://www.netlify.com/">Netlify</a> for deployment.</p>
 
-<p><a id="theme-toggle" class="simple-button" href="#" title="Mike Thomas">
-			<span id="theme-icon">Light</span>
-		</a></p>
 
 
 </section>

@@ -20,6 +20,8 @@ theme:
 
 <section class="intro">
 
+<div style="width:1rem;height:1rem;background:red;"></div>
+
 # _Hands-on_ design leadership for start-ups and scale-ups.
 
 I’m a _full-spectrum_ design lead with over 15 years of experience working across logistics, education, finance and energy sectors, with a blend of both IC and management experience.
@@ -59,8 +61,6 @@ During my time at Piclo, I was heavily involved in the development of two key ne
   {%- endfor -%}
   
 </section>
-
-##  Previously...
 
 <section class="role">
 

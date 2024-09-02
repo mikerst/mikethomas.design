@@ -12,6 +12,7 @@
 
 html {
   box-sizing: border-box;
+  font-size:16px;
 }
 
 *, *:before, *:after {
@@ -54,7 +55,7 @@ img {
   --body-text:        'Inter', Arial, sans-serif;
   --spacer:           1.5rem;
   --grid-gap:         4rem;
-  --grid-template:    auto / 1fr 1fr 1fr;
+  --grid-template:    auto / repeat(3, 1fr);
 }
 
 body.dark {
@@ -207,8 +208,9 @@ header {
 }
 
 header .mt {
-  width: 128px;
-  height:auto;
+  width: 8rem;
+  height: 8rem;
+  aspect-ratio: 1/1;
   max-height:128px;
 }
 
@@ -595,6 +597,18 @@ section.inputs {
 /* Would prefer to avoid MQs entirely, however in this instance 
 I'm just going for some simple overrides to help with the smaller 
 screen view. Will update later. */
+
+@media screen and (max-width: 480px) {
+  :root {
+    font-size:          50%;
+    --grid-gap:         0rem;
+    --grid-template:    auto / 1fr;
+  }
+
+  body {
+    padding:0;
+  }
+}
 
 @media screen and (max-width: 1024px) {
     :root {

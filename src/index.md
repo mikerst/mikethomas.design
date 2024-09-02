@@ -1,6 +1,6 @@
 ---
-title:
-intro: Multiple-hat-wearing design-lead based in London, with a love of old book smells, looking out for others, and great coffee.
+title: Mike Thoams, Product and Brand Designer
+intro: Hands-on design leadership for start-ups and growing orgs.
 layout: default
 layoutClass: home
 theme:

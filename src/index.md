@@ -6,45 +6,23 @@ layoutClass: home
 theme:
 ---
 
-<h1 class="homepage-heading">Mike Thomas, Design Lead</h1>
+__Mike Thomas__, Product and Brand Designer
 
-<section class="cover">
+<h1 class="major-heading"><span class="highlight">Hands-on design leadership</span> for start-ups and growing orgs.</h1>
 
-Hey there, I'm [Mike](/about/), multiple-hat-wearing design-lead with a love of old book smells, looking out for others, and great coffee. To me, design is more than a nine-to-five, it’s a vocation.
+Hello, I’m Mike, a full-spectrum design lead with over 14 years of experience working in product, brand and innovation contexts across a range of industries, from logistics and education, to consumer finance and energy.
 
-</section>
+I can offer the right organisation a purpose-driven, outcome-aligned blend of both IC and leadership experience at all levels, with a strong breadth of design craft nous, and a deeply collaborative approach to supporting the progress of colleagues while developing an energised and thriving team culture.
 
-<h2>Work Examples</h2>
+I very firmly believe that good design is a non-hierarchical, multi-disciplinary team sport, and successful teams win by raising each other up.
 
-<section class="projects">
- 
-  {%- for page in collections.work | reverse -%}
-      <div class="project">
-          <a href="{{ page.url }}"><img src="/_assets/img/{{ page.data.thumb }}" /></a>
-          <h2><a href="{{ page.url }}">{{ page.data.title }}</a></h2>
-          <span class="project__type">{{ page.data.worktype }}</span>
-      </div>
-  {%- endfor -%}
-  
-</section>
+<div class="notice">
+<p>Apologies for the lack of content—I'm currently overhauling my personal site. My portfolio and intro deck is available <a href="mailto:mikerst@gmail.com">on request.</a><p>
+</div>
 
-  {% if collections.journal %}
-
-  
-
-  <ul>
-  {%- for page in collections.journal | reverse -%}
-    <li>
-      <a href="{{ page.url }}">{{ page.data.title }}</a><br/>
-      <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time> 
-    </li>
-  {%- endfor -%}
-  </ul>
-  {% else %}
+Let's make the world better, <span class="highlight">together</span>.
 
 
-
-  {% endif %}
 
 
 

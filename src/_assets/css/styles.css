@@ -2,10 +2,7 @@
 /* ## Styles for https://mikethomas.design ## */
 /* ######################################### */
 
-@import url('https://fonts.googleapis.com/css?family=Noto+Serif:400,700');
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,400i,600,600i,700,700i&display=swap');
-
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,600,600i,700,700i&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
 /* ------------------- */
 /* Baselining          */
@@ -52,10 +49,10 @@ img {
   --bg-color:         #FFF;
   --text-color:       #010101;
   --alt-text-color:   #6a6a6a;
-  --accent-color:     #5367FF;
-  --body-text:          'Noto Serif', Georgia, serif;
-  --display-text:       'Noto Sans', Arial, sans-serif;
-  --spacer:             1.5rem;
+  --accent-color:     #0029FF;
+  --display-text:     'Libre Baskerville', Georgia, serif;
+  --body-text:        'Inter', Arial, sans-serif;
+  --spacer:            1.5rem;
 }
 
 :root[theme='dark'] {
@@ -90,6 +87,14 @@ h1 {
   font-size: 3rem;
 }
 
+h1.major-heading {
+  font-weight:400;
+  font-size:3.6rem;
+  line-height:1.2;
+  font-style:italic;
+  margin:4rem 0;
+}
+
 /* Honest, hidden H1 technique courtesy of BBC.co.uk */
 h1.homepage-heading {
   display: block;
@@ -114,15 +119,13 @@ h3 {
 
 p {
   line-height: 1.5;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
 }
 
-p:first-of-type {
-  font-family: var(--body-text);
-  font-weight: 400;
-  font-size: 1.8rem;
-  line-height: 1.5;
-  color: var(--text-color);
+ .highlight {
+  color:var(--accent-color);
+  font-family: var(--display-text);
+  font-style: italic;;
 }
 
 a {
@@ -214,7 +217,7 @@ nav a:first-of-type:active {
 }
 
 nav a img {
-  width: 5rem;
+  width: 7rem;
   height: auto;
   margin-right: 1rem;
 }
@@ -248,7 +251,7 @@ footer a:visited {
 
 body {
   margin: 0 auto;
-  max-width: 1600px;
+  max-width: 960px;
 }
 
 main, header, footer {
@@ -413,6 +416,16 @@ main > video {
 /* UI                  */
 /* ------------------- */
 
+.notice {
+  padding: 3rem;
+  border-radius: 6px;
+  background:#EBF0F8;
+  margin:4rem 0;
+}
+
+.notice p {
+  margin:0;
+}
 
 
 
@@ -427,6 +440,12 @@ screen view. Will update later. */
 @media screen and (max-width: 480px) {
     :root {
       font-size: 85%;
+    }
+    h1.major-heading {
+      font-size:2.5rem;
+    }
+    p {
+      font-size:1.2rem;
     }
     main, header, footer {
       padding: 2rem;

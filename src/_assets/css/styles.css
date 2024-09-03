@@ -427,6 +427,11 @@ main > video {
   margin:0;
 }
 
+.decal {
+  width:12rem;
+  height: auto;
+  margin: 0 0 3rem;
+}
 
 
 /* ------------------- */

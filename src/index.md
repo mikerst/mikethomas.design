@@ -10,7 +10,7 @@ theme:
 
 ## About
 
-Hello, I’m Mike, a full-spectrum design lead with over 14 years of experience working in product, brand and innovation contexts across a range of industries, from logistics and education, to consumer finance and energy.
+I’m a full-spectrum designer with over 14 years of experience working in product, brand and innovation contexts across a range of industries, from logistics and education, to consumer finance and energy.
 
 I can offer the right organisation a purpose-driven, outcome-aligned blend of both IC and leadership experience at all levels, with a strong breadth of design craft nous, and a deeply collaborative approach to supporting the progress of colleagues while developing an energised and thriving team culture.
 
@@ -23,7 +23,7 @@ Get in touch via <a title="Email me mikerst@gmail.com" target="_blank" href="mai
 ## Project write-ups
 
 <div class="notice">
-<p>The below work examples are pre-2020 work. I'm currently writing up several new additions covering 2020–2024. In the meantime, to get a better sense for how I work, please see this <a title="Mike Thomas Intro Deck" href="/_assets/files/mike-thomas-intro-deck-082024">intro deck</a> 🙏.<p>
+<p>The below work examples are pre-2020 work. I'm currently writing up several new additions covering 2020–2024. In the meantime, to get a better sense for how I work, please see this <a title="Mike Thomas Intro Deck" href="/_assets/files/mike-thomas-intro-deck-082024.pdf">intro deck</a> 🙏.<p>
 </div>
 
 <section class="projects">
@@ -41,6 +41,9 @@ Get in touch via <a title="Email me mikerst@gmail.com" target="_blank" href="mai
 <ul class="timeline">
     <li>
         <span>'24</span> <span>Departed <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> after a wonderful four-year tenure to reset again.</span>
+    </li>
+    <li>
+        <span>'22</span> <span>Promoted to Lead Designer at <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> with an expanded remit covering design systems, accesibility and zero-to-one products.</span>
     </li>
     <li>
         <span>'20</span> <span>Joined <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> as a Product Designer, advocating for and practicing human-centered design in the energy sector.</span>

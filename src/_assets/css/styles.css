@@ -46,7 +46,7 @@ img {
 
 
 :root {
-  --bg-color:         #F7FBFF;
+  --bg-color:         #FFFFFF;
   --text-color:       #010101;
   --alt-text-color:   #6a6a6a;
   --accent-color:     #0029FF;
@@ -210,6 +210,10 @@ nav a span.pronoun {
   font-size:0.8rem;
 }
 
+nav a:hover {
+  border-bottom: 2px solid transparent;
+}
+
 /* ------------------- */
 /* Footer              */
 /* ------------------- */
@@ -327,6 +331,7 @@ main > video {
   grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
   grid-auto-rows: auto;
   grid-gap: 0;
+  
 }
 
 .about__intro {
@@ -348,6 +353,7 @@ main > video {
   padding:2rem;
   border-radius: var(--radius);
   box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+  background: var(--bg-color);
 }
 
 .project h2 {
@@ -386,7 +392,7 @@ main > video {
 .notice {
   padding: 3rem;
   border-radius: var(--radius);
-  background:#EBF0F8;
+  background: #F0F3F7;
 }
 
 .notice p {

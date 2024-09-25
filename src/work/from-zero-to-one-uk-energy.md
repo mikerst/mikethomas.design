@@ -1,16 +1,17 @@
 ---
-title: Gathering insight through qualitative research
-worktype: UXR
-intro: A short research study aimed at helping to inform how a key customer touchpoint might be improved.
+title: From zero to one in the UK energy sector... almost
+worktype: 
+- Product Design
+intro: Working across industry to solve for a notable gap in secondary trading within UK energy markets, until Russia's invasion of Ukraine kiboshed the whole thing. 
 hero: case-study__research__hero.jpg
-thumb: case-study__research__thumb.jpg
-date: 2018-12-14
+date: 2024-07-01
 tags: 
 - ux
 theme: 
+eleventyExcludeFromCollections: true
 ---
 
-## Background
+## Background 
 
 Throughout 2018 TotallyMoney made ~£1.2 million in gross profit from sending product alert emails to customers—who&rsquo;d opted-in—providing them with the latest relevant offers from the credit cards and loans markets. However, during this time the content, structure, and design had remained largely unchanged.
 

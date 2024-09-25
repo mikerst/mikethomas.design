@@ -8,7 +8,7 @@ theme:
 
 <h1 class="major-heading"><span class="highlight">Hands-on design leadership</span> for start-ups and growing orgs.</h1>
 
-
+## About
 
 Hello, I’m Mike, a full-spectrum design lead with over 14 years of experience working in product, brand and innovation contexts across a range of industries, from logistics and education, to consumer finance and energy.
 
@@ -23,7 +23,7 @@ Get in touch via <a title="Email me mikerst@gmail.com" target="_blank" href="mai
 ## Project write-ups
 
 <div class="notice">
-<p>Quick note: I'm currently writing up 5-6 new projects, so not a lot to see here today. A newer portfolio and intro deck is available <a href="mailto:mikerst@gmail.com">on request.</a><p>
+<p>Quick note: I'm currently writing up 5-6 new projects, and the below is pre-2020 work. A newer portfolio and intro deck is available <a href="mailto:mikerst@gmail.com">on request.</a><p>
 </div>
 
 <section class="projects">
@@ -36,7 +36,7 @@ Get in touch via <a title="Email me mikerst@gmail.com" target="_blank" href="mai
 </section>
 
 
-## Career
+## Career journey
 
 <ul class="timeline">
     <li>

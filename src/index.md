@@ -18,12 +18,12 @@ I very firmly believe that good design is a non-hierarchical, multi-disciplinary
 
 ## Contact
 
-Get in touch via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: mikerst@gmail.com">Email</a> or find me on <a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>.
+Get in touch via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: mikerst@gmail.com">email</a> or find me on <a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>.
 
 ## Project write-ups
 
 <div class="notice">
-<p>Quick note: I'm currently writing up 5-6 new projects, and the below is pre-2020 work. A newer portfolio and intro deck is available <a href="mailto:mikerst@gmail.com">on request.</a><p>
+<p>The below work examples are pre-2020 work. I'm currently writing up several new additions covering 2020–2024. In the meantime, to get a better sense for how I work, please see this <a title="Mike Thomas Intro Deck" href="/_assets/files/mike-thomas-intro-deck-082024">intro deck</a> 🙏.<p>
 </div>
 
 <section class="projects">

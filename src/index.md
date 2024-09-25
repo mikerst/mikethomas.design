@@ -43,7 +43,7 @@ Get in touch via <a title="Email me mikerst@gmail.com" target="_blank" href="mai
         <span>'24</span> <span>Departed <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> after a wonderful four-year tenure to reset again.</span>
     </li>
     <li>
-        <span>'22</span> <span>Promoted to Lead Designer at <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> with an expanded remit covering design systems, accesibility and zero-to-one products.</span>
+        <span>'22</span> <span>Promoted to Lead Designer at <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> with an expanded remit covering design systems, accessibility and zero-to-one products.</span>
     </li>
     <li>
         <span>'20</span> <span>Joined <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> as a Product Designer, advocating for and practicing human-centered design in the energy sector.</span>
@@ -97,5 +97,5 @@ Get in touch via <a title="Email me mikerst@gmail.com" target="_blank" href="mai
 
 
 
-
+A more traditional CV can be downloaded <a title="Mike Thomas Intro Deck" href="/_assets/files/mike-thomas-cv-082024.pdf">here</a>.
 

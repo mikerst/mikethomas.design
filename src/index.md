@@ -16,9 +16,9 @@ I can offer the right organisation a purpose-driven, outcome-aligned blend of bo
 
 I very firmly believe that good design is a non-hierarchical, multi-disciplinary team sport, and successful teams win by raising each other up.
 
-## Contact
+## Contact + CV
 
-Get in touch via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: mikerst@gmail.com">email</a> or find me on <a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>.
+Get in touch via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: mikerst@gmail.com">email</a> or find me on <a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>. My CV can be downloaded <a title="Mike Thomas Intro Deck" href="/_assets/files/mike-thomas-cv-082024.pdf">here</a>.
 
 ## Project write-ups
 
@@ -97,5 +97,5 @@ Get in touch via <a title="Email me mikerst@gmail.com" target="_blank" href="mai
 
 
 
-A more traditional CV can be downloaded <a title="Mike Thomas Intro Deck" href="/_assets/files/mike-thomas-cv-082024.pdf">here</a>.
+
 

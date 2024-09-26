@@ -350,9 +350,7 @@ main > video {
   opacity: 0;
   transform: scale(0.9);
   transform: rotate(5deg);
-  padding:2rem;
-  border-radius: var(--radius);
-  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+
   background: var(--bg-color);
 }
 
@@ -416,13 +414,7 @@ screen view. Will update later. */
 
 @media screen and (max-width: 480px) {
     :root {
-      font-size: 85%;
-    }
-    h1.major-heading {
-      font-size:2.5rem;
-    }
-    p {
-      font-size:1.2rem;
+      font-size: 87.5%;
     }
     main, header, footer {
       padding: 2rem;

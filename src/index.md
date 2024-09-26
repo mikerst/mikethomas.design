@@ -18,12 +18,12 @@ I very firmly believe that good design is a non-hierarchical, multi-disciplinary
 
 ## Contact + CV
 
-Get in touch via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: mikerst@gmail.com">email</a> or find me on <a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>. My CV can be downloaded <a title="Mike Thomas Intro Deck" href="/_assets/files/mike-thomas-cv-082024.pdf">here</a>.
+Get in touch via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: mikerst@gmail.com">email</a> or find me on <a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>. My CV can be downloaded <a title="Mike Thomas Intro Deck" target="_blank" href="/_assets/files/mike-thomas-cv-082024.pdf">here</a>.
 
 ## Project write-ups
 
 <div class="notice">
-<p><em>09/24</em>: The below work examples are pre-2020 work. I'm currently writing up several new additions covering 2020–2024. In the meantime, to get a better sense for how I work, please see this <a title="Mike Thomas Intro Deck" href="/_assets/files/mike-thomas-intro-deck-082024.pdf">intro deck</a> 🙏.<p>
+<p><em>09/24</em>: The below work examples are pre-2020 work. I'm currently writing up several new additions covering 2020–2024. In the meantime, to get a better sense for how I work, please see this <a title="Mike Thomas Intro Deck" target="_blank" href="/_assets/files/mike-thomas-intro-deck-082024.pdf">intro deck</a> (9mb) 🙏.<p>
 </div>
 
 <section class="projects">

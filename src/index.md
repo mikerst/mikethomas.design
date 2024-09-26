@@ -8,6 +8,10 @@ theme:
 
 <h1 class="major-heading"><span class="highlight">Hands-on design leadership</span> for start-ups and growing orgs.</h1>
 
+<button id="theme-toggle" title="Swap mode" type="button">
+  <img id="theme-icon" src="/_assets/img/icon--sun.svg" />
+</button>
+
 ## About
 
 I’m a full-spectrum designer with over 14 years of experience working in product, brand and innovation contexts across a range of industries, from logistics and education, to consumer finance and energy.

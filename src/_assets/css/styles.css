@@ -398,6 +398,28 @@ main > video {
   margin: 0 0 3rem;
 }
 
+#theme-toggle {
+  border:none;
+  background:none;
+}
+
+#theme-toggle:hover {
+  cursor:pointer;
+}
+
+.icon {
+  width:3rem;
+  height: 3rem;
+}
+
+.icon--sun {
+  content:url("/_assets/img/icon--sun.svg");
+  filter:invert(0.8);
+}
+
+.icon--moon {
+  content:url("/_assets/img/icon--moon.svg");
+}
 
 /* ------------------- */
 /* Smaller Screens     */

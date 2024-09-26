@@ -1,5 +1,5 @@
 ---
-title: Mike Thoams, Product & Brand Designer
+title: Mike Thomas, Product & Brand Designer
 intro: Hands-on design leadership for start-ups and growing orgs.
 layout: default
 layoutClass: home

@@ -360,13 +360,13 @@ main > video {
 }
 
 .project h2 {
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .project .project__type {
   margin: calc(var(--spacer)/2) 0;
-  font-family: var(--display-text);
-  font-size: 0.9em;
+  font-family: var(--body-text);
+  font-size: var(--font-size);
   font-weight: 400;
   display: block;
 }

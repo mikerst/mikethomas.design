@@ -388,7 +388,7 @@ main > video {
 /* ------------------- */
 
 .notice {
-  padding: 3rem;
+  padding: 2.5rem;
   border-radius: var(--radius);
   background: #F0F3F7;
 }

@@ -5,8 +5,6 @@ intro: A short research study aimed at helping to inform how a key customer touc
 hero: case-study__research__hero.jpg
 thumb: case-study__research__thumb.jpg
 date: 2018-12-14
-tags: 
-- ux
 theme: 
 ---
 
@@ -39,7 +37,7 @@ We started by setting some primary and secondary objectives. We knew from our da
 
 The primary objective was written out as follows:
 
-_We want to re-design our product alert emails, but need to do so from an informed position. To help us identify <mark>where we should prioritise our efforts</mark>, we should speak to our customers in order to <mark>establish why</mark> some customers click out and apply for credit from our product alert emails, and why some do not complete this journey._
+_We want to re-design our product alert emails, but need to do so from an informed position. To help us identify where we should prioritise our efforts, we should speak to our customers in order to establish why some customers click out and apply for credit from our product alert emails, and why some do not complete this journey._
 
 The above was deliberately intended to be nice and broad, and sets the general direction of travel—the orientation—for a more detailed set of secondary objectives.
 

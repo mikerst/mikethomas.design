@@ -64,6 +64,12 @@ img {
   --accent-color:     #dbe2ef;
 }
 
+body.dark {
+  --bg-color:         rgb(24, 24, 24);
+  --text-color:       #EEE;
+  --accent-color:     #dbe2ef;
+}
+
 /* ------------------- */
 /* Global              */
 /* ------------------- */

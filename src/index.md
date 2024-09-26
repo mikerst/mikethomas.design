@@ -13,7 +13,7 @@ theme:
 
 ## About
 
-I’m a full-spectrum designer with over 14 years of experience working in product, brand and innovation contexts across a range of industries, from logistics and education, to consumer finance and energy.
+I’m a full-spectrum design lead with over 14 years of experience working in product, brand and innovation contexts across a range of industries, from logistics and education, to consumer finance and energy.
 
 I can offer the right organisation a purpose-driven, outcome-aligned blend of both IC and leadership experience at all levels, with a strong breadth of design craft nous, and a deeply collaborative approach to supporting the progress of colleagues while developing an energised and thriving team culture.
 

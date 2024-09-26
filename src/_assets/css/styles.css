@@ -46,7 +46,7 @@ img {
 
 
 :root {
-  --bg-color:         #FFFFFF;
+  --bg-color:         #F7FBFF;
   --text-color:       #010101;
   --alt-text-color:   #6a6a6a;
   --accent-color:     #0029FF;
@@ -57,12 +57,13 @@ img {
   --max-width:        39rem;
   --font-size:        1rem;
   --radius:           0.375rem;
+  --grid:             1fr 39rem 1fr;
 }
 
 body.dark {
   --bg-color:         #0c0c0c;
   --bg-tint:          color-mix(in srgb, var(--bg-color) 96%, white);
-  --text-color:       #DDD;
+  --text-color:       #F7FBFF;
   --alt-text-color:   #bfbfbf;
   --accent-color:     #FFFDC6;
 }
@@ -93,6 +94,7 @@ h1 {
   font-style:italic;
   font-size: 2.5rem;
   line-height:1.2;
+  margin-top:4rem;
 }
 
 h1.major-heading {
@@ -212,10 +214,6 @@ nav a span:first-of-type {
 
 nav a span.pronoun {
   font-size:0.8rem;
-}
-
-nav a:hover {
-  border-bottom: 2px solid transparent;
 }
 
 /* ------------------- */
@@ -450,6 +448,11 @@ screen view. Will update later. */
     .decal {
       margin: 2rem 0;
     }
+}
 
+@media screen and (min-width: 1280px) {
+  :root {
+    font-size: 112.5%;
+  }
 }
 

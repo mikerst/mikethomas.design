@@ -5,7 +5,7 @@ layout: default
 layoutClass: home
 theme:
 ---
-
+<img class="decal" src="/_assets/img/decal__highlight.svg" alt="A decorative zig zagging line in electric blue colour" />
 <h1 class="major-heading"><span class="highlight">Hands-on design leadership</span> for start-ups and growing orgs.</h1>
 
 ## About

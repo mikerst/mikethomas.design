@@ -63,6 +63,7 @@ body.dark {
   --bg-color:         #010101;
   --bg-tint:          color-mix(in srgb, var(--bg-color) 96%, white);
   --text-color:       #DDD;
+  --alt-text-color:   #bfbfbf;
   --accent-color:     #FFFFFF;
 }
 
@@ -391,13 +392,15 @@ main > video {
 .decal {
   width:12rem;
   height: auto;
-  margin: 0 0 3rem;
+  margin: 4rem 0 0rem;
 }
 
 #theme-toggle {
   border:none;
-  background:none;
+  background: var(--bg-color);
+  border-radius: var(--radius);
   position:fixed;
+  z-index:100;
   bottom: 2rem;
   right: 2rem;
 }

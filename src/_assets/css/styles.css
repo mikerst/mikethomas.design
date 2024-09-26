@@ -60,11 +60,11 @@ img {
 }
 
 body.dark {
-  --bg-color:         #010101;
+  --bg-color:         #0c0c0c;
   --bg-tint:          color-mix(in srgb, var(--bg-color) 96%, white);
   --text-color:       #DDD;
   --alt-text-color:   #bfbfbf;
-  --accent-color:     #FFFFFF;
+  --accent-color:     #0029FF;
 }
 
 /* ------------------- */

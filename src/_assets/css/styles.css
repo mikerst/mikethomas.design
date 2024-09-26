@@ -60,7 +60,7 @@ img {
 }
 
 body.dark {
-  --bg-color:         rgb(24, 24, 24);
+  --bg-color:         #010101;
   --bg-tint:          color-mix(in srgb, var(--bg-color) 96%, white);
   --text-color:       #DDD;
   --accent-color:     #FFFFFF;
@@ -397,8 +397,8 @@ main > video {
 #theme-toggle {
   border:none;
   background:none;
-  position:absolute;
-  top: 2rem;
+  position:fixed;
+  bottom: 2rem;
   right: 2rem;
 }
 

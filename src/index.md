@@ -23,7 +23,7 @@ Get in touch via <a title="Email me mikerst@gmail.com" target="_blank" href="mai
 ## Project write-ups
 
 <div class="notice">
-<p>The below work examples are pre-2020 work. I'm currently writing up several new additions covering 2020–2024. In the meantime, to get a better sense for how I work, please see this <a title="Mike Thomas Intro Deck" href="/_assets/files/mike-thomas-intro-deck-082024.pdf">intro deck</a> 🙏.<p>
+<p><em>09/24</em>: The below work examples are pre-2020 work. I'm currently writing up several new additions covering 2020–2024. In the meantime, to get a better sense for how I work, please see this <a title="Mike Thomas Intro Deck" href="/_assets/files/mike-thomas-intro-deck-082024.pdf">intro deck</a> 🙏.<p>
 </div>
 
 <section class="projects">

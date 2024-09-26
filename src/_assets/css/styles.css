@@ -442,5 +442,9 @@ screen view. Will update later. */
       grid-column: 1 / 4;
     }
 
+    .decal {
+      margin: 2rem 0;
+    }
+
 }
 

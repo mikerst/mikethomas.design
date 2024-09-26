@@ -391,7 +391,7 @@ main > video {
 .decal {
   width:12rem;
   height: auto;
-  margin: 4rem 0 0rem;
+  margin: 2rem 0 0rem;
   fill:var(--accent-color);
 }
 

@@ -53,13 +53,13 @@ Get in touch via <a title="Email me mikerst@gmail.com" target="_blank" href="mai
         <span>'19</span> <span>Embarked on a planned career break in April to take-stock, re-energise, and figure some things out #askmeanything.</span>
     </li>
     <li>
-        <span>'17</span> <span>Segue to Product team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/info/team/">TotallyMoney</a>, contributing end-to-end, from user research through to visual design and front-end development.</span>
+        <span>'17</span> <span>Segue to Product team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/">TotallyMoney</a>, contributing end-to-end, from user research through to visual design and front-end development.</span>
     </li>
     <li>
-        <span>'15</span> <span>Moved to Marketing team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/info/team/">TotallyMoney</a>, designing and managing workflows across all channels, from content and email, through to social media and print.</span>
+        <span>'15</span> <span>Moved to Marketing team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com">TotallyMoney</a>, designing and managing workflows across all channels, from content and email, through to social media and print.</span>
     </li>
     <li>
-        <span>'13</span> <span>Joined Brand team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/info/team/">TotallyMoney</a> as a Senior Designer in a generalist role.</span>
+        <span>'13</span> <span>Joined Brand team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/">TotallyMoney</a> as a Senior Designer in a generalist role.</span>
     </li>
     <li>
         <span>'09</span> <span>Cut my teeth working agency-side for <a title="Metaphors" target="_blank" href="https://www.metaphors.co.uk/">Metaphors</a>, a boutique brand agency in leafy Holland park.</span>

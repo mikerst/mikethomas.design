@@ -291,6 +291,10 @@ main.case-study > * {
   grid-column: 1;
 } 
 
+main.case-study img {
+  border-radius: var(--radius);
+}
+
 
 /* ------------------- */
 /* Page Rhythm         */

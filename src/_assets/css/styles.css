@@ -105,18 +105,6 @@ h1.major-heading {
   margin:4rem 0;
 }
 
-/* Honest, hidden H1 technique courtesy of BBC.co.uk */
-h1.homepage-heading {
-  display: block;
-  overflow: hidden;
-  text-indent: 100%;
-  white-space: nowrap;
-  font-size: 0px;
-  margin: 0;
-  padding: 0;
-  line-height: 1;
-}
-
 h2 {
   font-size: 1.25rem;
   font-weight: 600;
@@ -133,7 +121,7 @@ p {
   font-size: var(--font-size)
 }
 
- .highlight {
+.highlight {
   color:var(--accent-color);
   font-family: var(--display-text);
   font-style: italic;;
@@ -170,7 +158,6 @@ img {
   height: auto;
 }
 
-
 figcaption {
   color: var(--alt-text-color);
 }
@@ -179,12 +166,12 @@ blockquote {
   margin: 0;
   padding: 0 5ch;
 }
+
 blockquote > p {
   font-style: italic;
   padding:0;
   margin:0;
 }
-
 
 video {
   width: 100%;
@@ -192,7 +179,7 @@ video {
 }
 
 /* ------------------- */
-/* Navigation          */
+/* Header + Nav        */
 /* ------------------- */
 
 nav {
@@ -220,6 +207,9 @@ nav a span.pronoun {
 /* Footer              */
 /* ------------------- */
 
+footer {
+  padding: 4rem 0;
+}
 
 footer p,
 footer p:first-of-type {
@@ -236,7 +226,7 @@ footer a:visited {
 
 
 /* ------------------- */
-/* Page Layouts        */
+/* Layout              */
 /* ------------------- */
 
 body {
@@ -244,13 +234,6 @@ body {
   max-width: var(--max-width);
   padding:4rem 0;
 }
-
-footer {
-  padding: 4rem 0;
-}
-
-
-/* Case Study */
 
 
 
@@ -260,7 +243,7 @@ main img {
 
 
 /* ------------------- */
-/* Page Rhythm         */
+/* Vertical Rhythm         */
 /* ------------------- */
 
 
@@ -294,7 +277,6 @@ main > video {
 /* Various Sections    */
 /* ------------------- */
 
-
 .projects {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
@@ -312,13 +294,11 @@ main > video {
   background: var(--bg-color);
 }
 
-.project h2 {
+.project h3 {
   margin-top: calc(var(--spacer)/2);
   font-size: 1rem;
-}
-
-.project h2 {
   font-weight: 600;
+  font-family: var(--body-text);
 }
 
 .project .project__type {
@@ -340,9 +320,8 @@ main > video {
   font-family: var(--display-text);
 }
 
-
 /* ------------------- */
-/* UI                  */
+/* Misc UI             */
 /* ------------------- */
 
 .notice {
@@ -393,7 +372,6 @@ main > video {
 /* ------------------- */
 /* Smaller Screens     */
 /* ------------------- */
-
 
 @media screen and (max-width: 640px) {
     :root {

@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-layoutClass: case-study
+layoutClass:
 templateEngineOverride: njk, md
 ---
 

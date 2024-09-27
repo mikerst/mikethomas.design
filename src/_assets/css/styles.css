@@ -50,7 +50,7 @@ img {
   --text-color:       #010101;
   --alt-text-color:   #6a6a6a;
   --accent-color:     #0029FF;
-  --bg-tint:          color-mix(in srgb, var(--bg-color) 96%, black);
+  --bg-tint:          color-mix(in srgb, var(--bg-color) 97%, black);
   --display-text:     'Libre Baskerville', Georgia, serif;
   --body-text:        'Inter', Arial, sans-serif;
   --spacer:           1.5rem;
@@ -245,53 +245,16 @@ body {
   padding:4rem 0;
 }
 
-main, header {
-}
-
 footer {
   padding: 4rem 0;
 }
 
-/* Basic Centered */
-
-main.home {
-  padding-top: 0;
-}
-
-main.about {
-  display: grid;
-}
-
-main.basic {
-  display: grid;
-  column-gap: 2rem;
-  grid-auto-flow: column;
-  grid-template-columns: 
-  minmax(1rem, 1fr)
-    minmax(0, 75ch)
-    minmax(1rem, 1fr) 
-}
-
-main.basic > * {
-  grid-column: 2 / 3;
-}
-
-main.basic > .projects {
-  grid-column: 1 / 4;
-}
 
 /* Case Study */
 
-main.case-study {
-  display: grid;
-  column-gap: 2rem;
-}
 
-main.case-study > * {
-  grid-column: 1;
-} 
 
-main.case-study img {
+main img {
   border-radius: var(--radius);
 }
 
@@ -431,9 +394,6 @@ main > video {
 /* Smaller Screens     */
 /* ------------------- */
 
-/* Would prefer to avoid MQs entirely, however in this instance 
-I'm just going for some simple overrides to help with the smaller 
-screen view. Will update later. */
 
 @media screen and (max-width: 640px) {
     :root {
@@ -442,13 +402,6 @@ screen view. Will update later. */
     body {
       padding:2rem;
     }
-    main, header, footer {
-    
-    }
-    main.case-study > *, main.basic > * {
-      grid-column: 1 / 4;
-    }
-
     .decal {
       margin: 2rem 0;
     }

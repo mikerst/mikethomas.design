@@ -1,21 +1,23 @@
 ---
-title: Mike Thomas, Product & Brand Designer
-intro: Hands-on design leadership for start-ups and growing orgs.
+title: Mike Thomas, Lead Product Designer
+intro: Product design and team leadership for start-ups, scale-ups and enterprise.
 layout: default
 layoutClass: 
 theme:
 ---
 
 
-<h1 class="major-heading"><span class="highlight">Hands-on design leadership</span> for start-ups and growing orgs.</h1>
+<h1 class="major-heading"><span class="highlight">Product design</span> and <span class="highlight">team leadership</span> for start-ups, scale-ups and enterprise.</h1>
 
 ## About
 
-I’m a full-spectrum design lead with over 14 years of experience working in product, brand and innovation contexts across a range of industries, from logistics and education, to consumer finance and energy.
+I’m a multiple-hat-wearing, purpose-driven design lead with 14+ years of experience working in B2B SaaS, enterprise and B2C contexts in logistics, education, consumer finance and energy.
 
-I can offer the right organisation a purpose-driven, outcome-aligned blend of both IC and leadership experience at all levels, with a strong breadth of design craft nous, and a deeply collaborative approach to supporting the progress of colleagues while developing an energised and thriving team culture.
+__As an individual contributor__ I bring a broad, collaborative, and human-centered practice that sits at the intersection of product, brand, and innovation, with strong experience in zero-to-one stage projects, storytelling, design systems, accessibility, qualitative research and visual design. I also bring hands-on proficiency with modern front-end technologies
 
-I very firmly believe that good design is a non-hierarchical, multi-disciplinary team sport, and successful teams win by raising each other up.
+__As a leader__ I bring a deeply empathetic approach to supporting the progress of colleagues while maintaining an energised and thriving team culture, with experience in strategy, ops, project management, hiring, and coaching.
+
+I believe that good design is a non-hierarchical, multi-disciplinary team sport, and successful teams win by raising each other up.
 
 ## Contact + CV
 

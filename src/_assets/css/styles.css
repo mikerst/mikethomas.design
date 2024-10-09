@@ -86,12 +86,11 @@ body {
 
 
 h1, h2, h3 {
-  font-family: var(--display-text);
+  font-family: var(--body-text);
 }
 
 h1 {
   font-weight: 400;
-  font-style:italic;
   font-size: 2.5rem;
   line-height:1.2;
   margin-top:4rem;
@@ -101,7 +100,6 @@ h1.major-heading {
   font-weight:400;
   font-size:2.5rem;
   line-height:1.2;
-  font-style:italic;
   margin:4rem 0;
 }
 
@@ -323,6 +321,17 @@ main > video {
 /* ------------------- */
 /* Misc UI             */
 /* ------------------- */
+
+.tracks {
+  display:grid;
+  grid-template-rows: 1fr;
+  gap: 2rem;
+}
+.track {
+ padding:2rem;
+ margin:0;
+ border-left: 0.25rem solid var(--accent-color);
+}
 
 .notice {
   padding: 2.5rem;

@@ -1,6 +1,7 @@
 ---
 title: Gathering insight through qualitative research
-worktype: UXR
+worktype: 
+- UXR
 intro: A short research study aimed at helping to inform how a key customer touchpoint might be improved.
 hero: case-study__research__hero.jpg
 thumb: case-study__research__thumb.jpg

@@ -304,7 +304,7 @@ main > video {
   font-family: var(--body-text);
   font-size: var(--font-size);
   font-weight: 400;
-  display: block;
+  display: inline-block;
 }
 
 .timeline li {
@@ -321,16 +321,15 @@ main > video {
 /* ------------------- */
 /* Misc UI             */
 /* ------------------- */
-
-.tracks {
-  display:grid;
-  grid-template-rows: 1fr;
-  gap: 2rem;
+.chip-list {
+  margin-bottom:4rem;
 }
-.track {
- padding:2rem;
- margin:0;
- border-left: 0.25rem solid var(--accent-color);
+.chip {
+  border: 1px solid var(--accent-color);
+  font-size: 0.75rem;
+  border-radius: calc( var(--radius) * 3);
+  padding:0.5rem 1rem;
+  display:inline;
 }
 
 .notice {

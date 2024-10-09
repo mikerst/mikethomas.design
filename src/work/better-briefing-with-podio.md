@@ -1,6 +1,7 @@
 ---
 title: Improving the briefing process
-worktype: DesignOps 
+worktype: 
+- DesignOps 
 intro: Streamlining processes and making it easier for colleagues to initialise design briefs.
 hero: case-study__briefing__hero.jpg
 thumb: case-study__briefing__thumb.jpg

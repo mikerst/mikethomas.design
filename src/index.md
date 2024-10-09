@@ -21,19 +21,21 @@ I believe that good design is a non-hierarchical, multi-disciplinary team sport,
 
 ## Contact + CV
 
-Get in touch via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: mikerst@gmail.com">email</a> or find me on <a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>. My CV can be downloaded <a title="Mike Thomas Intro Deck" target="_blank" href="/_assets/files/mike-thomas-cv-082024.pdf">here</a>.
+Get in touch via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: mikerst@gmail.com">email</a> or find me on <a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>. My CV can be downloaded <a title="Mike Thomas Intro Deck" target="_blank" href="/_assets/files/mike-thomas-cv-102024.pdf">here</a>.
 
 ## Work examples
 
 <div class="notice">
-<p><em>09/24</em>: The below work examples are pre-2020 work. I'm currently writing up several new additions covering 2020–2024. In the meantime, to get a better sense for how I work, please see this <a title="Mike Thomas Intro Deck" target="_blank" href="/_assets/files/mike-thomas-intro-deck-082024.pdf">intro deck</a> (9mb) 🙏.<p>
+<p><em>09/24</em>: The below work examples are pre-2020 work. I'm currently writing up several new additions covering 2020–2024. In the meantime, to get a better sense for how I work, please see this <a title="Mike Thomas Intro Deck" target="_blank" href="/_assets/files/mike-thomas-intro-deck-102024.pdf">intro deck</a> (9mb) 🙏.<p>
 </div>
 
 <section class="projects">
   {%- for page in collections.work | reverse -%}
       <div class="project">
           <h3><a href="{{ page.url }}">{{ page.data.title }}</a></h3>
-          <span class="project__type">{{ page.data.worktype }}</span>
+          {%- for worktype in page.data.worktype -%}
+          <span class="project__type">{{ worktype }}</span>
+          {%- endfor -%}
       </div>
   {%- endfor -%}
 </section>

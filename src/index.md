@@ -13,7 +13,7 @@ theme:
 
 I’m a multiple-hat-wearing, purpose-driven design lead with 14+ years of experience working in B2B SaaS, enterprise and B2C contexts in logistics, education, consumer finance and energy.
 
-__As an individual contributor__ I bring a broad, collaborative, and human-centered practice that sits at the intersection of product, brand, and innovation, with strong experience in zero-to-one stage projects, storytelling, design systems, accessibility, qualitative research and visual design. I also bring hands-on proficiency with modern front-end technologies
+__As an individual contributor__ I bring a broad, collaborative, and human-centered practice that sits at the intersection of product, brand, and innovation, with strong experience in zero-to-one stage projects, storytelling, design systems, accessibility, qualitative research and visual design. I also bring hands-on proficiency with modern front-end technologies.
 
 __As a leader__ I bring a deeply empathetic approach to supporting the progress of colleagues while maintaining an energised and thriving team culture, with experience in strategy, ops, project management, hiring, and coaching.
 

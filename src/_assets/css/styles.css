@@ -464,6 +464,9 @@ span.metric {
 /* ------------------- */
 
 @media screen and (max-width: 640px) {
+  :root {
+    font-size: 87.5%;
+  }
     body {
       padding:2rem;
     }

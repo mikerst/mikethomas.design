@@ -7,39 +7,109 @@ theme:
 ---
 
 
-<h1 class="major-heading"><span class="highlight">Product design</span> and <span class="highlight">team leadership</span> for start-ups, scale-ups and enterprise.</h1>
+<h1 class="stagger">
+    Product design and leadership for orgs making a difference.
+</h1>
 
-## About
+Zero-to-one projects, design systems, accessibility, growing design teams, and solving gnarly problems.
 
-I’m a multiple-hat-wearing, purpose-driven design lead with 14+ years of experience working in B2B SaaS, enterprise and B2C contexts in logistics, education, consumer finance and energy.
+## Recent work
 
-__As a designer__ I bring a broad, collaborative, and human-centered practice that sits at the intersection of product, brand, and innovation, with strong experience in zero-to-one stage projects, storytelling, design systems, accessibility, qualitative research and visual design. I also bring hands-on proficiency with modern front-end technologies.
-
-__As a leader__ I bring a deeply empathetic approach to supporting the progress of colleagues while maintaining an energised and thriving team culture, with experience in strategy, ops, project management, hiring, and coaching.
-
-I believe that good design is a non-hierarchical, multi-disciplinary team sport, and successful teams win by raising each other up.
-
-## Contact + CV
-
-Get in touch via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: mikerst@gmail.com">email</a> or find me on <a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>. My CV can be downloaded <a title="Mike Thomas Intro Deck" target="_blank" href="/_assets/files/mike-thomas-cv-102024.pdf">here</a>.
-
-## Work examples
-
-<div class="notice">
-<p><em>09/24</em>: The below work examples are pre-2020 work. I'm currently writing up several new additions covering 2020–2024. In the meantime, to get a better sense for how I work, please see this <a title="Mike Thomas Intro Deck" target="_blank" href="/_assets/files/mike-thomas-intro-deck-102024.pdf">intro deck</a> (9mb) 🙏.<p>
-</div>
 
 <section class="projects">
-  {%- for page in collections.work | reverse -%}
-      <div class="project">
+  {%- for page in collections.work | reverse  | filterByTag("recent") -%}
+      <div class="project stagger"">
           <h3><a href="{{ page.url }}">{{ page.data.title }}</a></h3>
           {%- for worktype in page.data.worktype -%}
-          <span class="project__type">{{ worktype }}</span>
+          <span class="project__type">{{ worktype }}</span> 
           {%- endfor -%}
       </div>
   {%- endfor -%}
 </section>
 
+<!--
+<div class="stat-area">
+    <div class="stat-block stagger">
+        <span class="metric" data-target="14">-</span>
+        <span class="label">Years experience</span>
+    </div>
+    <div class="stat-block stagger"">
+        <span class="metric" data-target="5">-</span>
+        <span class="label">Sectors</span>
+    </div>
+    <div class="stat-block stagger"">
+        <span class="metric" data-target="5">-</span>
+        <span class="label">Organisations</span>
+    </div>
+    <div class="stat-block stagger"">
+        <span class="metric" data-target="150" data-unit="%">-</span>
+        <span class="label">Team happiness when I'm around</span>
+    </div>
+</div>
+-->
+
+
+## About
+
+I’m a multiple-hat-wearing, purpose-driven design lead with 14+ years of experience working in B2B SaaS, enterprise and B2C contexts in logistics, education, consumer finance and energy.
+
+I believe that good design is a non-hierarchical, multi-disciplinary team sport, and successful teams win by raising each other up.
+
+My design stack includes a lot of Figma, Miro, Obsidian for writing, and ChatGPT for moving faster.
+
+Outside of work, I'm passionate about running, great coffee, and old book smells. I'm currently teaching myself how to play chess properly, how to prompt in Midjourney, and am also informally developing some coaching skills targeting early career designers and technologists.
+
+Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: mikerst@gmail.com">email</a> or find me on <a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>. 
+
+<!--
+<div class="tactical-area">
+    <div class="tactical-block">
+        <h3>As a designer</h3>
+        <p>I bring a broad, collaborative, and human-centered practice that sits at the intersection of product, brand, and innovation, with experience in...</p>
+        <ul>
+            <li>Zero-to-one stage projects</li>
+            <li>Design systems</li>
+            <li>Accessibility</li>
+            <li>Qualitative research methodologies</li>
+            <li>Visual design</li>
+            <li>Service design</li>
+            <li>Modern front-end technologies</li>
+        </ul>
+    </div>
+    <div class="tactical-block">
+        <h3>As a leader</h3>
+        <p>I bring a deeply empathetic approach to supporting the progress of colleagues while maintaining an energised and thriving team culture, with experience in...</p>
+        <ul>
+            <li>Product strategy and prioritisation</li>
+            <li>Product and design ops</li>
+            <li>Project management</li>
+            <li>Hiring</li>
+            <li>Mentoring and coaching</li>
+        </ul>
+    </div>
+    <div class="tactical-block cta">
+        Hire Mike
+    </div>
+</div>
+-->
+
+
+
+
+
+
+## Colleague reviews
+
+<blockquote cite="https://www.linkedin.com/in/mikerst/">
+    <p>"Mike's blend of <b>leadership, design expertise, and genuine care</b> for his colleagues made a lasting impact on both the team and the products we created. I have no doubt that any team would greatly benefit from his talent and leadership."</p>
+    <p>— <cite>Hua Zhang, Lead Service Designer</cite></p>
+</div>
+
+
+<blockquote cite="https://www.linkedin.com/in/mikerst/">
+    <p>"Mike is a talented designer and thoughtful leader. His <b>expertise in all aspects of design from research, to UX and UI was extremely valuable</b> to have within our product team. Additionally, Mike is an absolute pleasure to work with and would be an asset to any company."</p>
+    <p>— <cite>Pat Potestas, Senior Product Manager</cite></p>
+</blockquote>
 
 ## Career journey
 

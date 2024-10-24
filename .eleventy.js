@@ -12,6 +12,11 @@ module.exports = function(config) {
   // Allows things like tag merging
   config.setDataDeepMerge(true);
 
+  // Filter by tag
+  config.addFilter("filterByTag", function(posts, tag) {
+    return posts.filter(post => post.data.tags && post.data.tags.includes(tag));
+  });
+
 
   // compress and combine js files
   config.addFilter("jsmin", function(code) {

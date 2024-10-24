@@ -1,9 +1,10 @@
 // Full credit to this thread here...
 // https://greensock.com/forums/topic/17790-gsap-stagger-reveal-on-load-followed-by-scroll-revealing/
 
+
+
 // Grab all of the project divs
-const projects = document.querySelectorAll('.project');
-const cover = document.querySelectorAll('.cover');
+const projects = document.querySelectorAll('.stagger');
 
 // Set some basic config vars
 const config = {
@@ -17,7 +18,7 @@ const tl = new TimelineMax();
 let observer = new IntersectionObserver(function(entries, self) {
   entries.forEach(entry => {
     if (entry.isIntersecting) {
-      let overlap = '-=0.25';
+      let overlap = '-=0.35';
       
       if (!tl.isActive()) {
         overlap = '+=0';
@@ -91,4 +92,60 @@ if (themeParam) {
 		applyTheme(nextTheme);
 		
 	});
+});
+
+
+// Easing function for smooth ease-out effect
+function easeOutQuad(t) {
+    return t * (2 - t);
+}
+
+// Function to animate the counter with easing
+function animateCounter(counter, delay = 0) {
+    const target = +counter.getAttribute('data-target');
+	const unit = counter.getAttribute('data-unit') || ''; 
+    const duration = 2000; // Animation duration in milliseconds
+
+    // Start the animation after a delay
+    setTimeout(() => {
+        const startTime = performance.now();
+
+        function updateCounter(currentTime) {
+            const elapsedTime = currentTime - startTime;
+            let progress = Math.min(elapsedTime / duration, 1); // Cap progress at 1
+
+            // Apply easing to progress
+            progress = easeOutQuad(progress);
+
+            const currentValue = Math.floor(progress * target);
+			counter.innerText = currentValue + unit; 
+
+            counter.innerText = currentValue + unit;
+
+            if (progress < 1) {
+                requestAnimationFrame(updateCounter); // Continue the animation
+            } else {
+                counter.innerText = target + unit; // Ensure the counter reaches the exact target
+            }
+        }
+
+        requestAnimationFrame(updateCounter); // Start the animation
+    }, delay);
+}
+
+// Intersection Observer to detect when the counter is visible
+const counters = document.querySelectorAll('.metric');
+
+const newobserver = new IntersectionObserver((entries) => {
+    entries.forEach((entry, index) => {
+        if (entry.isIntersecting) {
+            // Stagger the counters by adding a delay (e.g., 200ms between each counter)
+            animateCounter(entry.target, index * 300);
+            newobserver.unobserve(entry.target); // Stop observing once the animation starts
+        }
+    });
+}, { threshold: 0.5 }); // Trigger when 50% of the counter is visible
+
+counters.forEach(counter => {
+    newobserver.observe(counter);
 });

@@ -14,14 +14,14 @@ theme:
 
 Over a two week period, I designed and implemented a Webflow-powered solution that enabled Piclo customer support to work together with external market operator teams to centralise and standardise how key market information was distributed and presented to end users, including support for multiple languages.
 
-What worked:
+### What worked
 
 - __End-users only had to visit one location__ to get the majority of the information they needed.
 - __We built stronger relationships__ with key market operator partners.
 - Customer support were __empowered to manage this work__ with minimal design and zero engineering input.
 - We were able to __scale this added-value to market operator partners globally__—localised to their regionn—for existing orgs and those in our sales pipeline.
 
-Key lessons:
+### Key lessons
 
 - We underestimated the time-burden managing this content would become for our internal team. This later lead to us __forming a squad with colleagues from across the business__ who shared the upkeep responsibility.
 

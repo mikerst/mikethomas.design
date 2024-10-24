@@ -162,11 +162,12 @@ a:hover {
 ul {
   margin:0;
   padding:0;
-  list-style:inside disc;
+  list-style:disc;
 }
 
 li {
   line-height: 1.5;
+  margin-left:1.25rem;
   font-size: var(--font-size);
 }
 

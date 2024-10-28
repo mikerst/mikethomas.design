@@ -1,7 +1,7 @@
 ---
-title: Designing a CMS-driven knowledge-base to improve market liquidity
+title: Designing a content portal to help improve market liquidity
 worktype: 
-- Doing Design
+- Lean UX
 intro: Lean, two-week project aimed at trying to tackle a key area of pain being experienced by end-users.
 hero: case-study__2024__dso-profiles.jpg
 date: 2024-07-01
@@ -12,14 +12,14 @@ theme:
 
 ## Summary
 
-Over a two week period, I designed and implemented a Webflow-powered solution that enabled Piclo customer support to work together with external market operator teams to centralise and standardise how key market information was distributed and presented to end users, including support for multiple languages.
+Over a two week period, I designed and implemented a Webflow-powered content portal that enabled Piclo customer support to work together with external partners to centralise and standardise how market information was distributed and presented to end users, including support for multiple languages.
 
 ### What worked
 
 - __End-users only had to visit one location__ to get the majority of the information they needed.
-- __We built stronger relationships__ with key market operator partners.
+- __We built stronger relationships__ with key business partners.
 - Customer support were __empowered to manage this work__ with minimal design and zero engineering input.
-- We were able to __scale this added-value to market operator partners globally__—localised to their regionn—for existing orgs and those in our sales pipeline.
+- We were able to __scale this added-value to more partners globally__—localised to their region—for existing orgs and those in our sales pipeline.
 
 ### Key lessons
 
@@ -30,7 +30,7 @@ Over a two week period, I designed and implemented a Webflow-powered solution th
 ## My role
 
 - Solo end-to-end design and implementation
-- Co-ordinate internal team to ensure feasability 
+- Co-ordinate internal team to ensure feasibility 
 - Onboard external partners to set and manage expectations
 - Train internal team to manage things going forward
 
@@ -85,7 +85,7 @@ The following evidences some of the design artefacts I produced during the proje
 
 - Moved on to create several mockup iterations (not all of which are shown).
 - So as not to design in isolation, I was able to hi-jack some time on pre-arranged calls with external partners to get a little bit of feedback to help us zoom in what we felt their priorities might be.
-- Internal colleagues were able also invited to provide feedback.
+- Internal colleagues were also invited to provide feedback.
 - These leveraged pre-existing design language I had created as part of an earlier project.
 
 <figure>
@@ -94,8 +94,8 @@ The following evidences some of the design artefacts I produced during the proje
 
 ### Simple scenario map
 
-- I chose to use a simple support scenario with Piclo's customer support team in order to identify important questions and sanity check that we weren't creating a problem for ourselves.
-- While very simple, this excercise helped shape some service terms we'd communicate to key customers at a later date.
+- I chose to walk Piclo's customer support team through a simple scenario in order to identify important questions and sanity check that we weren't creating a problem for ourselves.
+- While very simple, this exercise helped shape some service terms we'd communicate to key customers at a later date.
 - This also helped to identify what we could scope in or out early on. For example, we chose early on not to host files ourselves, but link directly to those files off-platform (something we'd later change).
 
 <figure>
@@ -105,7 +105,7 @@ The following evidences some of the design artefacts I produced during the proje
 ### OOUX
 
 - Object oriented UX techniques provide a great way to ground a project in the actual terms and mental models of users. 
-- I did this short excercise so I had some structure to work from when considering future mockup iterations and when buliding out the CMS components in Webflow.
+- I did this short exercise so I had some structure to work from when considering future mockup iterations and when building out the CMS components in Webflow.
 - I opted to orient the solution around the "Operator" concept as this is typically how end-users saw things: they were offering their services to company X and wanted to find relevant information to that company.
 
 <figure>
@@ -144,18 +144,17 @@ The following evidences some of the design artefacts I produced during the proje
 </figure>
 
 ### Training guide
-- Lastly, as other colleagues would need to help add and maintain content, I wrote a short guide detailing how to markup content for use in Webflow.
+- Lastly, as other colleagues would need to help add and maintain content, I wrote a short tutorial detailing how to prepare and input content for use in Webflow.
 - This wasn't strictly necessary, but helped reduce the need for technical input.
 
 <figure>
     <img src="/_assets/img/case-study__2024__dso-profiles--guide.jpg" />
-    <figcaption>Very early Miro sketch to lay down some basic ideas and uncover key questions.</figcaption>
 </figure>
 
 
 ## Notes for hiring managers
 
-- Given the quick turn-around nature of this project, I moved through the gears fairly quickly and jumped in to buliding out a prototype fairly quickly, thus meaning there isn't a great deal of design process material to see here.
+- Given the quick turn-around nature of this project, I moved through the gears fairly quickly and jumped in to building out a prototype fairly quickly, thus meaning there isn't a great deal of design process material to see here.
 - I no longer have access to the Webflow account associated with this project and was unable to develop any visual material about the CMS implementation work.
 - Validating success for this work relied very heavily on qualitative feedback gathered via customer support channels.
 

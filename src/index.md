@@ -1,5 +1,5 @@
 ---
-title: Mike Thomas, Lead Product Designer
+title: Mike Thomas, Product Designer
 intro: Product design and team leadership for start-ups, scale-ups and enterprise.
 layout: default
 layoutClass: 

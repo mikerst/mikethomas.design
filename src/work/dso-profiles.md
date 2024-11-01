@@ -35,7 +35,7 @@ Over a two week period, I designed and implemented a Webflow-powered content por
 - Train internal team to manage things going forward
 
 
-## The Problem
+## Problem
 
 From evidence gathered via qualitative research, we learned users were having difficulty locating and parsing all of the information they needed in order to effectively participate in flexibility markets on Piclo Flex. Typically, each market operator would host important information on their own web platforms, often with differing terminology, processes, information architecture, and experience quality.
 

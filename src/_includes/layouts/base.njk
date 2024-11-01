@@ -46,14 +46,10 @@
     {% include "js/core.js" %}
     {% include "js/home.js" %}
   {% endset %}
-  <script>{{ js | jsmin | safe }}</script>
-
-
-  
+  <script>
+    {{ js | jsmin | safe }}
+  </script>
 
 </body>
 
 </html>
-
-
-

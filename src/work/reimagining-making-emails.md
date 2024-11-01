@@ -76,10 +76,13 @@ We didn't get it right immediately, initially opting to go for a naming conventi
 
 After adding the library to sketch, starting a new email design from one of the base templates takes a very short space of time.
 
-<video controls autoplay loop>
-  <source src="/_assets/mov/case-study__email__template.mp4" type="video/mp4">
-  <p>This browser does not support the video element.</p>
-</video>
+
+<figure>
+  <video controls autoplay loop>
+    <source src="/_assets/mov/case-study__email__template.mp4" type="video/mp4">
+    <p>This browser does not support the video element.</p>
+  </video>
+</figure>
 
 ### Governance and distribution
 

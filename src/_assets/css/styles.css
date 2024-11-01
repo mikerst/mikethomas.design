@@ -200,6 +200,24 @@ video {
   height: auto;
 }
 
+table {
+  width:var(--max-width);
+  margin-right:auto;
+  margin-left: auto;
+  border-spacing: 0;
+  border-top: 2px solid var(--accent-color);
+  background:var(--bg-color);
+  & td, th {
+    text-align: left;
+    width:50%;
+    padding:0.5rem;
+  }
+
+  & td {
+    border-top:1px solid black;
+  }
+}
+
 /* ------------------- */
 /* Header + Nav        */
 /* ------------------- */
@@ -275,7 +293,14 @@ main > figure {
 
 main img {
   border-radius: var(--radius);
+  &.inline {
+    max-width:var(--max-width);
+    margin-left:auto;
+    margin-right:auto;
+  }
 }
+
+
 
 footer {
   max-width:var(--max-width);
@@ -310,7 +335,7 @@ main > h3 + p {
 main > figure, 
 main > video {
   text-align: center;
-  margin-bottom: calc(4rem - var(--spacer));
+  margin-bottom: 4rem;
   margin-top: 4rem;
 }
 main li {
@@ -322,7 +347,6 @@ main li {
 
 .projects {
   display: grid;
-  
   grid-template-columns:repeat(1, 1fr);
   grid-auto-rows: auto;
   grid-gap: 0;
@@ -460,6 +484,20 @@ span.metric {
   content:url("/_assets/img/icon--moon.svg");
 }
 
+.tag-row {
+  display:grid;
+  gap:1rem;
+  grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+  margin:2rem auto 4rem;
+}
+.tag {
+  border:1px var(--alt-text-color) solid;
+  border-radius: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  margin:0;
+  font-weight:600;
+  font-size:1rem;
+}
 
 /* ------------------- */
 /* Smaller Screens     */

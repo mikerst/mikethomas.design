@@ -1,6 +1,10 @@
 module.exports = function(config) {
 
-  // A useful way to reference the context we are runing eleventy in
+  config.setServerOptions({
+    liveReload: false,
+  });
+
+  // A useful way to reference the context we are running eleventy in
   let env = process.env.ELEVENTY_ENV;
 
   // Layout aliases can make templates more portable
@@ -11,6 +15,8 @@ module.exports = function(config) {
 
   // Allows things like tag merging
   config.setDataDeepMerge(true);
+
+  config.setWatchThrottleWaitTime(100);
 
   // Filter by tag
   config.addFilter("filterByTag", function(posts, tag) {

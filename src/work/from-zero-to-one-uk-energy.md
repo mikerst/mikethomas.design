@@ -257,7 +257,7 @@ Not only that, but I'd made some UI choices that were also running counter to te
 </figure>
 
 <figure>
-    <img alt="An image showing key stages of a user journey src="/_assets/img/case-study__2024__exchange--future4.jpg" />
+    <img alt="An image showing key stages of a user journey" src="/_assets/img/case-study__2024__exchange--future4.jpg" />
     <figcaption>Then, breaking down our prototype in to clear and concise journey steps helped to orient viewers.</figcaption>
 </figure>
 

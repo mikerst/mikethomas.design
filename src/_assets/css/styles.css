@@ -92,7 +92,7 @@ h1, h2, h3 {
 
 h1 {
   font-weight: 500;
-  font-size: 2.5rem;
+  font-size: 2.75rem;
   line-height:1.2;
   margin-top:4rem;
 }
@@ -519,6 +519,10 @@ span.metric {
 /* ------------------- */
 
 @media screen and (max-width: 640px) {
+
+    h1 {
+      font-size: 2.25rem;
+    }
   
     body {
       padding:2rem;

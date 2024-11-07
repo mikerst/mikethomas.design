@@ -99,7 +99,7 @@ As you can see from the empty cell highlighted above, this last sheet wasn't ent
 
 ### Standardising ideation for efficiency
 
-We used Miro as a place to gather visual evidence accumulated during our audit. I chose to create an repeatable ideation canvas we could 'fill in te blanks on' to smoothly move through each issue consistently.
+We used Miro as a place to gather visual evidence accumulated during our audit. I chose to create a repeatable ideation canvas we could 'fill in te blanks on' to smoothly move through each issue consistently.
 
 <div class="notice">
     Please note, evidence of the actual solutions we ideated on, and our process (including the ideation canvas), are currently not on show while I obtain permission to display the work. 🙏

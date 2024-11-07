@@ -17,6 +17,10 @@ theme:
 
 Over a six month period, I worked with Piclo's innovation lead, as well as colleagues from the wider energy industry, including UK government and Ofgem, to prototype and iterate on the vision for a new B2B SaaS product, designed to enable the trading of obligations to provide service in to various UK energy markets.
 
+<div class="notice">
+    Quick note...it's been fed back to me that this case study may be a little on the long side. I'll be republishing this soon in a more snackable format. 🙏
+</div>
+
 ### My role
 
 - Running workshops with key stakeholders,
@@ -90,7 +94,7 @@ We were able to leverage experience and knowledge gained from building our curre
 In addition to the above, I also interviewed our in-house commercial team to understand, of all the energy markets available, which might be most lucrative to our audience? Something we would corroborate later via user interviews.
 
 <figure>
-    <img class="inline" lt="A simple sketch showing a depiction of a revenue stack" src="/_assets/img/case-study__2024__exchange--stack.png" />
+    <img alt="A simple sketch showing a depiction of a revenue stack" src="/_assets/img/case-study__2024__exchange--stack.png" />
     <figcaption>Sketch detailing an estimated revenue stack for a specific business archetype.</figcaption>
 </figure>
 

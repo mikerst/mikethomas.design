@@ -106,7 +106,7 @@ We used Miro as a place to gather visual evidence accumulated during our audit. 
 </div>
 
 ### Codifying what good looks like
-Towards the end of the project, we had built high confidence in our domain knowledge and working practices. Referring back to several of the principles highlighted earlier, I wanted to use part of our remaining time to decentralising that knowledge and onboarding other teams.
+Towards the end of the project, we had built high confidence in our domain knowledge and working practices. Referring back to several of the principles highlighted earlier, I wanted to use part of our remaining time to decentralise that knowledge and onboarding other teams.
 
 To aid this process, I created a serious of slides that walked teams through everything we had learned. 
 

@@ -92,7 +92,7 @@ h1, h2, h3 {
 
 h1 {
   font-weight: 500;
-  font-size: 2.75rem;
+  font-size: 2.5rem;
   line-height:1.2;
   margin-top:4rem;
 }
@@ -407,9 +407,14 @@ main li {
   display:grid;
   gap:2rem;
   grid-template-columns:repeat(4, 1fr);
+  margin:4rem auto;
 }
 .stat-block {
   margin:0;
+  background:var(--accent-color);
+  border-radius: var(--radius);
+  padding:0.5rem 1rem;
+  color:var(--bg-color);
 }
 .stat-block span {
   display:block;
@@ -514,9 +519,7 @@ span.metric {
 /* ------------------- */
 
 @media screen and (max-width: 640px) {
-  :root {
-    font-size: 87.5%;
-  }
+  
     body {
       padding:2rem;
     }

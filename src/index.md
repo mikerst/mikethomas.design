@@ -12,6 +12,21 @@ theme:
 
 0-1 initiatives / design systems / accessibility / visual design / nurturing design teams / front-end development / thoughtful problem solving / workshop facilitation
 
+<!--<div class="stat-area">
+    <div class="stat-block stagger">
+        <span class="metric" data-target="14" data-unit="+">-</span>
+        <span class="label">Years experience</span>
+    </div>
+    <div class="stat-block stagger"">
+        <span class="metric" data-target="5">-</span>
+        <span class="label">Sectors</span>
+    </div>
+    <div class="stat-block stagger"">
+        <span class="metric" data-target="5">-</span>
+        <span class="label">Organisations</span>
+    </div>
+</div>-->
+
 ## Work examples
 
 <section class="projects">
@@ -58,30 +73,8 @@ theme:
 </section>
 
 
-
-<!--
-<div class="stat-area">
-    <div class="stat-block stagger">
-        <span class="metric" data-target="14">-</span>
-        <span class="label">Years experience</span>
-    </div>
-    <div class="stat-block stagger"">
-        <span class="metric" data-target="5">-</span>
-        <span class="label">Sectors</span>
-    </div>
-    <div class="stat-block stagger"">
-        <span class="metric" data-target="5">-</span>
-        <span class="label">Organisations</span>
-    </div>
-    <div class="stat-block stagger"">
-        <span class="metric" data-target="150" data-unit="%">-</span>
-        <span class="label">Team happiness when I'm around</span>
-    </div>
-</div>
--->
-
-
 ## About me
+
 
 I’m a multiple-hat-wearing, purpose-driven design lead with 14+ years of experience working in B2B SaaS, enterprise and B2C contexts in logistics, education, consumer finance and energy.
 
@@ -94,43 +87,6 @@ Outside of work, I'm passionate about running, great coffee, and old book smells
 Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: mikerst@gmail.com">email</a> or find me on <a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>. 
 
 <img src="/_assets/img/me.jpg" />
-
-<!--
-<div class="tactical-area">
-    <div class="tactical-block">
-        <h3>As a designer</h3>
-        <p>I bring a broad, collaborative, and human-centered practice that sits at the intersection of product, brand, and innovation, with experience in...</p>
-        <ul>
-            <li>Zero-to-one stage projects</li>
-            <li>Design systems</li>
-            <li>Accessibility</li>
-            <li>Qualitative research methodologies</li>
-            <li>Visual design</li>
-            <li>Service design</li>
-            <li>Modern front-end technologies</li>
-        </ul>
-    </div>
-    <div class="tactical-block">
-        <h3>As a leader</h3>
-        <p>I bring a deeply empathetic approach to supporting the progress of colleagues while maintaining an energised and thriving team culture, with experience in...</p>
-        <ul>
-            <li>Product strategy and prioritisation</li>
-            <li>Product and design ops</li>
-            <li>Project management</li>
-            <li>Hiring</li>
-            <li>Mentoring and coaching</li>
-        </ul>
-    </div>
-    <div class="tactical-block cta">
-        Hire Mike
-    </div>
-</div>
--->
-
-
-
-
-
 
 ## Feedback
 

@@ -137,8 +137,8 @@ To aid this process, I created a serious of slides that walked teams through eve
 
 ### Questions for the future
 
-- How might we automate some of our testing processes to we become better at catching issues and reducing manual work?
-- Going beyond technical... how might we asses the accessibility of out copywriting, content design, and other fuzzier concerns?
+- How might we automate some of our testing processes so we become better at catching issues and reducing manual work?
+- Going beyond technical... how might we asses the accessibility of our copywriting, content design, and anything else requiring a more qualitative measure of success?
 - How might we continue to build an inclusive experience that will also, by it's nature, become more information and data rich? 
 
 ### Reflections

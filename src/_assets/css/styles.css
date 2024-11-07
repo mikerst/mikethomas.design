@@ -48,7 +48,7 @@ img {
 
 :root {
   --bg-color:         #FFFBF7;
-  --text-color:       #010101;
+  --text-color:       #171717;
   --alt-text-color:   #6a6a6a;
   --accent-color:     #295EE2;
   --bg-tint:          color-mix(in srgb, var(--bg-color) 97%, black);
@@ -62,7 +62,7 @@ img {
 }
 
 body.dark {
-  --bg-color:         #0c0c0c;
+  --bg-color:         #171717;
   --bg-tint:          color-mix(in srgb, var(--bg-color) 96%, white);
   --text-color:       #F7FBFF;
   --alt-text-color:   #bfbfbf;

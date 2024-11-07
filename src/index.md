@@ -41,33 +41,33 @@ theme:
       </div>
   {%- endfor -%}
     <div class="project stagger">
-        <h3>Coming Soon: Laying design system foundations</h3>
+        <h3>Laying design system foundations</h3>
         <ul>
-            <li>#design systems</li><li>#ui/ux</li><li>#figma</li><li>#storybook</li> 
+            <li>#coming soon</li>
         </ul>
     </div>
     <div class="project stagger">
-        <h3>Coming Soon: 0-1 in the UK energy sector... almost (part 2)</h3>
+        <h3>0-1 in the UK energy sector... almost (part 2)</h3>
         <ul>
-            <li>#mvp design</li> <li>#lean ux</li> <li>#user roles/permissions</li> 
+            <li>#coming soon</li>
         </ul>
     </div>
     <div class="project stagger">
-        <h3>Coming Soon: Baselining design culture</h3>
+        <h3>Baselining design culture</h3>
         <ul>
-            <li>#leading design</li> <li>#growth</li>
+            <li>#coming soon</li>
         </ul>
     </div>
     <div class="project stagger">
-        <h3>Coming Soon: Designing remote interview spaces</h3>
+        <h3>Designing remote interview spaces</h3>
         <ul>
-            <li>#leading design</li> <li>#hiring</li>
+            <li>#coming soon</li>
         </ul>
     </div>
     <div class="project stagger">
-        <h3>Coming Soon: Implementing better data tables</h3>
+        <h3>Implementing better data tables</h3>
         <ul>
-            <li>#ui/ux</li> <li>#figma</li>
+            <li>#coming soon</li>
         </ul>
     </div>
 </section>

@@ -176,6 +176,7 @@ img {
   height: auto;
 }
 
+
 figcaption {
   color: var(--alt-text-color);
 }
@@ -225,6 +226,7 @@ table {
 nav {
   display: flex;
   align-items: center;
+  justify-content: space-between;;
 }
 
 nav a {
@@ -345,16 +347,9 @@ main li {
 /* Various Sections    */
 /* ------------------- */
 
-.projects {
-  display: grid;
-  grid-template-columns:repeat(1, 1fr);
-  grid-auto-rows: auto;
-  grid-gap: 0;
-  
-}
 
 .project {
-  margin:0 0 1rem 0;
+  margin:0 0 1.5rem 0;
   background: var(--bg-color);
 }
 
@@ -363,14 +358,27 @@ main li {
   font-size: 1.25rem;
   font-weight: 400;
   font-family: var(--body-text);
+  color:var(--alt-text-color);
+  & a {
+    color:var(--text-color);
+  }
 }
 
-.project .project__type {
-  margin: calc(var(--spacer)/2) 0;
-  font-family: var(--body-text);
-  font-size: var(--font-size);
-  font-weight: 400;
-  display: inline-block;
+.project ul {
+  margin:0.25rem 0 0 0;
+  padding:0;
+}
+
+.project li {
+  padding:0;
+  margin:0 0.5rem 0 0;
+  display:inline;
+  font-size: 0.875rem;
+  color:var(--alt-text-color);
+}
+
+.project p {
+  margin:0.5rem 0 0 0;
 }
 
 .timeline li {
@@ -388,6 +396,7 @@ main li {
 /* ------------------- */
 /* Misc UI             */
 /* ------------------- */
+
 
 .stagger {
   opacity: 0;
@@ -442,7 +451,8 @@ span.metric {
 .notice {
   padding: 2.5rem;
   border-radius: var(--radius);
-  background-color: var(--bg-tint);
+  background-color: var(--accent-color);
+  color:var(--bg-color);
 }
 
 .notice p {

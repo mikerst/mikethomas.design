@@ -1,7 +1,10 @@
 ---
 title: Designing a content portal to help improve market liquidity
 worktype: 
-- Lean UX
+- web design
+- content management
+- ooux
+- training
 intro: Lean, two-week project aimed at trying to tackle a key area of pain being experienced by end-users.
 hero: case-study__2024__dso-profiles.jpg
 date: 2024-07-01

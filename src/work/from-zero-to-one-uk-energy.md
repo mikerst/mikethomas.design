@@ -1,7 +1,10 @@
 ---
 title: 0-1 in the UK energy sector... almost (part 1)
 worktype: 
-- Zero-to-one
+- zero-to-one
+- prototyping
+- qualitative research
+- ui/ux
 intro: Prototyping to find product-market-fit, build key relationships, and lay the groundwork for an MVP.
 hero: case-study__2024__exchange.jpg
 date: 2024-07-01

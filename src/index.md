@@ -6,26 +6,58 @@ layoutClass:
 theme:
 ---
 
-
 <h1 class="stagger">
-    Product design and leadership for orgs making a difference.
+    Making a better world via thoughtful design and leadership
 </h1>
 
-Zero-to-one projects, design systems, accessibility, growing design teams, and solving gnarly problems.
+0-1 initiatives / design systems / accessibility / visual design / nurturing design teams / front-end development / thoughtful problem solving / workshop facilitation
 
-## Recent work
-
+## Work examples
 
 <section class="projects">
   {%- for page in collections.work | reverse  | filterByTag("recent") -%}
-      <div class="project stagger"">
+      <div class="project stagger">
           <h3><a href="{{ page.url }}">{{ page.data.title }}</a></h3>
+          <ul>
           {%- for worktype in page.data.worktype -%}
-          <span class="project__type">{{ worktype }}</span> 
+          <li>#{{ worktype }}</li> 
           {%- endfor -%}
+          </ul>
       </div>
   {%- endfor -%}
+    <div class="project stagger">
+        <h3>Coming Soon: Laying design system foundations</h3>
+        <ul>
+            <li>#design systems</li><li>#ui/ux</li><li>#figma</li><li>#storybook</li> 
+        </ul>
+    </div>
+    <div class="project stagger">
+        <h3>Coming Soon: 0-1 in the UK energy sector... almost (part 2)</h3>
+        <ul>
+            <li>#mvp design</li> <li>#lean ux</li> <li>#user roles/permissions</li> 
+        </ul>
+    </div>
+    <div class="project stagger">
+        <h3>Coming Soon: Baselining design culture</h3>
+        <ul>
+            <li>#leading design</li> <li>#growth</li>
+        </ul>
+    </div>
+    <div class="project stagger">
+        <h3>Coming Soon: Designing remote interview spaces</h3>
+        <ul>
+            <li>#leading design</li> <li>#hiring</li>
+        </ul>
+    </div>
+    <div class="project stagger">
+        <h3>Coming Soon: Implementing better data tables</h3>
+        <ul>
+            <li>#ui/ux</li> <li>#figma</li>
+        </ul>
+    </div>
 </section>
+
+
 
 <!--
 <div class="stat-area">
@@ -49,7 +81,7 @@ Zero-to-one projects, design systems, accessibility, growing design teams, and s
 -->
 
 
-## About
+## About me
 
 I’m a multiple-hat-wearing, purpose-driven design lead with 14+ years of experience working in B2B SaaS, enterprise and B2C contexts in logistics, education, consumer finance and energy.
 
@@ -57,9 +89,11 @@ I believe that good design is a non-hierarchical, multi-disciplinary team sport,
 
 My design stack includes a lot of Figma, Miro, Obsidian for writing, and ChatGPT for moving faster.
 
-Outside of work, I'm passionate about running, great coffee, and old book smells. I'm currently teaching myself how to play chess properly, how to prompt in Midjourney, and am also informally developing some coaching skills targeting early career designers and technologists.
+Outside of work, I'm passionate about running, great coffee, and old book smells. I'm currently teaching myself how to play chess properly, how to prompt in Midjourney, and informally developing some coaching skills targeting early career designers and technologists.
 
 Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: mikerst@gmail.com">email</a> or find me on <a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>. 
+
+<img src="/_assets/img/me.jpg" />
 
 <!--
 <div class="tactical-area">
@@ -98,7 +132,7 @@ Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: m
 
 
 
-## Colleague reviews
+## Feedback
 
 <blockquote cite="https://www.linkedin.com/in/mikerst/">
     <p>"Mike's blend of <b>leadership, design expertise, and genuine care</b> for his colleagues made a lasting impact on both the team and the products we created. I have no doubt that any team would greatly benefit from his talent and leadership."</p>
@@ -124,7 +158,7 @@ Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: m
         <span>'20</span> <span>Joined <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> as a Product Designer, advocating for and practicing human-centered design in the energy sector.</span>
     </li>
     <li>
-        <span>'19</span> <span>Embarked on a planned career break in April to take-stock, re-energise, and figure some things out #askmeanything.</span>
+        <span>'19</span> <span>Embarked on a career break in April to take-stock, re-energise, and figure some things out #askmeanything.</span>
     </li>
     <li>
         <span>'17</span> <span>Segue to Product team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/">TotallyMoney</a>, contributing end-to-end, from user research through to visual design and front-end development.</span>
@@ -133,16 +167,16 @@ Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: m
         <span>'15</span> <span>Moved to Marketing team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com">TotallyMoney</a>, designing and managing workflows across all channels, from content and email, through to social media and print.</span>
     </li>
     <li>
-        <span>'13</span> <span>Joined Brand team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/">TotallyMoney</a> as a Senior Designer in a generalist role.</span>
+        <span>'13</span> <span>Joined Brand team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/">TotallyMoney</a> as a Digital Designer in a generalist role.</span>
     </li>
     <li>
         <span>'09</span> <span>Cut my teeth working agency-side for <a title="Metaphors" target="_blank" href="https://www.metaphors.co.uk/">Metaphors</a>, a boutique brand agency in leafy Holland park.</span>
     </li>
     <li>
-        <span>'08</span> <span>Arrived in London as a self-employed designer-for-hire. Slept on many couches.</span>
+        <span>'08</span> <span>Arrived in London as a self-employed designer. Slept on many couches.</span>
     </li>
     <li>
-        <span>'08</span> <span>Completed MA Digital Art & Technology from <a title="i-DAT" target="_blank" href="https://www.plymouth.ac.uk/research/i-dat">i-DAT</a>.</span>
+        <span>'08</span> <span>Completed MSc Digital Art & Technology from <a title="i-DAT" target="_blank" href="https://www.plymouth.ac.uk/research/i-dat">i-DAT</a>.</span>
     </li>
     <li>
         <span>'07</span><span>Adventuring in New Zealand for a time. Made some more friends.</span>

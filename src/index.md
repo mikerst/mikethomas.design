@@ -7,10 +7,10 @@ theme:
 ---
 
 <h1 class="stagger">
-    Making a better world via thoughtful design and leadership
+    Making a better world via thoughtful design & leadership
 </h1>
 
-0-1 initiatives / design systems / accessibility / visual design / nurturing design teams / front-end development / thoughtful problem solving / workshop facilitation
+0-1 initiatives &bull; design systems &bull; accessibility &bull; visual design &bull; nurturing design teams &bull; front-end development &bull; thoughtful problem solving &bull; workshop facilitation
 
 <!--<div class="stat-area">
     <div class="stat-block stagger">

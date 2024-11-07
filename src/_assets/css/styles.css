@@ -113,7 +113,7 @@ h1.major-heading span {
 
 h1 + p {
   margin-top:3rem;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
 }
 
 mark {
@@ -225,7 +225,7 @@ table {
 
 nav {
   display: flex;
-  align-items: center;
+  align-items: start;
   justify-content: space-between;;
 }
 
@@ -475,10 +475,8 @@ span.metric {
   border:none;
   background: var(--bg-color);
   border-radius: var(--radius);
-  position:fixed;
   z-index:100;
-  bottom: 2rem;
-  right: 2rem;
+  padding:0;
 }
 
 #theme-toggle:hover {
@@ -521,11 +519,11 @@ span.metric {
 @media screen and (max-width: 640px) {
 
     h1 {
-      font-size: 2.25rem;
+      font-size: 2rem;
+      margin-top:0;
     }
-  
     body {
-      padding:2rem;
+      padding:1.75rem;
     }
     .decal {
       margin: 2rem 0;

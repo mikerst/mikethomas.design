@@ -17,7 +17,7 @@ Over a 6 month period, I worked both individually, and as part of a small cross-
 
 ## Why
 
-At Piclo, hadn't yet formalised our approach to designing accessible digital services, and we didn't know how well we were doing (or not doing) across our ecosystem of customer touchpoints.
+At Piclo, we hadn't yet formalised our approach to designing accessible digital services, and we didn't know how well we were doing (or not doing) across our ecosystem of customer touchpoints.
 
 In addition, Piclo's SaaS product and business services were being procured by a UK public sector organisation. A key requirement of this process asked that we commit to ensuring our web app adhered to <a title="GOV UK accessibility standard guidance" href="#https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps" target="_blank">key accessibility standards</a>, which we did. 
 

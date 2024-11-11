@@ -6,6 +6,7 @@ module.exports = function(config) {
 
   // A useful way to reference the context we are running eleventy in
   let env = process.env.ELEVENTY_ENV;
+  config.addGlobalData("environment", env);
 
   // Layout aliases can make templates more portable
   config.addLayoutAlias('default', 'layouts/base.njk');

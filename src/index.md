@@ -6,7 +6,7 @@ layoutClass:
 theme:
 ---
 
-<h1 class="stagger">
+<h1 class="salutation stagger">
     Hey, hoi, hello
 </h1>
 

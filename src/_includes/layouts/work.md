@@ -21,7 +21,7 @@ templateEngineOverride: njk, md
 
 {% if company %}
 <div class="notice">
-    Please note that all product screenshots and images of Figma, Miro, or other cloud-based work spaces are © {{company}} (Open Utility Ltd).
+    Please note that all product screenshots and images of Figma, Miro, or other cloud-based work spaces are © {{company}}.
 </div>
 {% endif %}
 

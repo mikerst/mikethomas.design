@@ -25,8 +25,9 @@
 </head>
 
 <body>
-
+  {% if process.env.ELEVENTY_ENV == "prod" %}
   {% include "password.njk" %}
+  {% endif %}
   {% include "header.njk" %}
 
   <main {% if layoutClass %}class="{{ layoutClass }}"{% endif %}>

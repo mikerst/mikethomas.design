@@ -32,6 +32,7 @@ theme:
 <section class="projects">
   {%- for page in collections.work | reverse  | filterByTag("recent") -%}
       <div class="project stagger">
+          <a href="{{ page.url }}"><img alt="{{ page.data.title }}" src="/_assets/img/{{page.data.hero}}"/></a>
           <h3><a href="{{ page.url }}">{{ page.data.title }}</a></h3>
           <ul>
           {%- for worktype in page.data.worktype -%}

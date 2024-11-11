@@ -8,6 +8,7 @@ worktype:
 intro: Prototyping to find product-market-fit, build key relationships, and lay the groundwork for an MVP.
 hero: case-study__2024__exchange.jpg
 date: 2024-07-01
+company: Piclo
 tags: 
 - recent
 - protected

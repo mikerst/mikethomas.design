@@ -25,7 +25,7 @@
 </head>
 
 <body>
-  {% if process.env.ELEVENTY_ENV == "prod" %}
+  {% if environment == "prod" %}
   {% include "password.njk" %}
   {% endif %}
   {% include "header.njk" %}

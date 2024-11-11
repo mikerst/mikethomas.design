@@ -458,6 +458,7 @@ span.metric {
   border-radius: var(--radius);
   background-color: var(--accent-color);
   color:var(--bg-color);
+  margin-top:4rem;
 }
 
 .notice p {

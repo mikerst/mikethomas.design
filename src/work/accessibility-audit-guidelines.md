@@ -101,11 +101,24 @@ As you can see from the empty cell highlighted above, this last sheet wasn't ent
 
 ### Standardising ideation for efficiency
 
-We used Miro as a place to gather visual evidence accumulated during our audit. I chose to create a repeatable ideation canvas we could 'fill in te blanks on' to smoothly move through each issue consistently.
+We used Miro as a place to gather visual evidence accumulated during our audit. I chose to create a repeatable ideation canvases we could 'fill in te blanks on' to smoothly move through each issue consistently.
 
-<div class="notice">
-    Hello. Quick note... visual evidence of the actual solutions we ideated on, and our process (including the ideation canvas mentioned above), are currently not on show while I obtain permission to display the work. 🙏
-</div>
+<figure>
+    <img src="/_assets/img/case-study__2024__a11y--audit1.jpg" />
+    <figcaption>Auditing journeys, identifying issues and prioritising.</figcaption>
+</figure>
+
+I created two types of canvas. One for looking across journeys in a more visual way, where we could log issues and attach our own notes and commentary as needed.
+
+Secondly, I created a lower-level version that helped us focus on individual issues and ideate on solutions.
+
+My aim was to make it as easy as possible for the team to fly through the work as smoothly as possible, with a good baseline of thought and time being afforded to each issue discovered.
+
+<figure>
+    <img src="/_assets/img/case-study__2024__a11y--audit2.jpg" />
+    <figcaption>Drilling down in to specific issues..</figcaption>
+</figure>
+
 
 ### Codifying what good looks like
 Towards the end of the project, we had built high confidence in our domain knowledge and working practices. Referring back to several of the principles highlighted earlier, I wanted to use part of our remaining time to decentralise that knowledge and onboarding other teams.
@@ -125,6 +138,13 @@ To aid this process, I created a serious of slides that walked teams through eve
 <figure>
     <img src="/_assets/img/case-study__2024__a11y--guide3.jpg" />
     <figcaption>Setting a clear standard with acceptance criteria for product teams to use when working on new features.</figcaption>
+</figure>
+
+Lastly, I needed to write-up an accessibility statement. I conducted a short analysis of what other businesses were doing in this space to identify good practice and align with our own business needs. The latest version of his can be seen live <a title="Piclo's A11y Statement" href="https://www.piclo.energy/accessibility" target="_blank">here</a>.
+
+<figure>
+    <img src="/_assets/img/case-study__2024__a11y--statement.jpg" />
+    <figcaption>One-size fits one. Identifying good practice for writing an accessibility statement.</figcaption>
 </figure>
 
 ## Wrap-up
@@ -157,3 +177,4 @@ To aid this process, I created a serious of slides that walked teams through eve
 - From a visual design perspective, we used plugins for Figma such as ABLE and STARK to help us achieve AA in terms of things like colour contrast well before most work even reached implementation stage. 
 
 Thank you 🙏
+

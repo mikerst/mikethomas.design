@@ -1,5 +1,5 @@
 ---
-title: Improving the accessibility of B2B SaaS app
+title: Improving the accessibility of a B2B SaaS app
 worktype: 
 - accessibility
 - project management

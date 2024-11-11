@@ -25,6 +25,31 @@
 </head>
 
 <body>
+  {% if tags.includes("protected") %}
+
+<script>
+    function checkPassword() {
+      const password = document.getElementById("password").value;
+      const correctPassword = "nicetomeetyou"; // Set securely
+      if (password === correctPassword) {
+        document.getElementById("passwordModal").style.display = "none";
+      } else {
+        alert("Bummer. That doesn't look quite right, please try again.");
+      }
+    }
+  </script>
+  <div id="passwordModal" class="form-wrapper">
+    <div class="form">
+      
+      <h2>Password required to view</h2>
+      <p>As a courtesy to {{ company }}, I've hidden this content behind a password. If you need access please <a title="Content Mike via Email" href="mailto:mikerst@gmail.com">let me know</a>, otherwise, exit <a href="/">back to home</a>.</p>
+      <label for="password">Enter password to view:</label>
+      <input type="password" id="password" />
+      <button tabindex="0" type="button" onclick="checkPassword()">Submit password</button>
+      
+    </div>
+  </div>
+{% endif %}
 
   {% include "header.njk" %}
 

@@ -72,9 +72,20 @@ theme:
     </div>
 </section>
 
+## Nice words from others
+
+<blockquote cite="https://www.linkedin.com/in/mikerst/">
+    <p>"Mike's blend of <b>leadership, design expertise, and genuine care</b> for his colleagues made a lasting impact on both the team and the products we created. I have no doubt that any team would greatly benefit from his talent and leadership."</p>
+    <p>— <cite>Hua Zhang, Lead Service Designer</cite></p>
+</blockquote>
+
+
+<blockquote cite="https://www.linkedin.com/in/mikerst/">
+    <p>"Mike is a talented designer and thoughtful leader. His <b>expertise in all aspects of design from research, to UX and UI was extremely valuable</b> to have within our product team. Additionally, Mike is an absolute pleasure to work with and would be an asset to any company."</p>
+    <p>— <cite>Pat Potestas, Senior Product Manager</cite></p>
+</blockquote>
 
 ## About me
-
 
 I’m a multiple-hat-wearing, purpose-driven design lead with 14+ years of experience working in B2B SaaS, enterprise and B2C contexts in logistics, education, consumer finance and energy.
 
@@ -88,18 +99,7 @@ Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: m
 
 <img src="/_assets/img/me.jpg" />
 
-## Feedback
 
-<blockquote cite="https://www.linkedin.com/in/mikerst/">
-    <p>"Mike's blend of <b>leadership, design expertise, and genuine care</b> for his colleagues made a lasting impact on both the team and the products we created. I have no doubt that any team would greatly benefit from his talent and leadership."</p>
-    <p>— <cite>Hua Zhang, Lead Service Designer</cite></p>
-</div>
-
-
-<blockquote cite="https://www.linkedin.com/in/mikerst/">
-    <p>"Mike is a talented designer and thoughtful leader. His <b>expertise in all aspects of design from research, to UX and UI was extremely valuable</b> to have within our product team. Additionally, Mike is an absolute pleasure to work with and would be an asset to any company."</p>
-    <p>— <cite>Pat Potestas, Senior Product Manager</cite></p>
-</blockquote>
 
 ## Career journey
 

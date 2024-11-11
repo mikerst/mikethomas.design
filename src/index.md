@@ -27,7 +27,7 @@ I'm Mike, a multiple-hat-wearing designer mixing product, service and visual des
     </div>
 </div>-->
 
-## Work examples
+## Recent projects
 
 <section class="projects">
   {%- for page in collections.work | reverse  | filterByTag("recent") -%}

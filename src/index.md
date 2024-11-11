@@ -7,10 +7,10 @@ theme:
 ---
 
 <h1 class="stagger">
-    Making a better world via thoughtful design & leadership
+    Hey, hoi, hello
 </h1>
 
-0-1 initiatives &bull; design systems &bull; accessibility &bull; visual design &bull; nurturing design teams &bull; front-end development &bull; thoughtful problem solving &bull; workshop facilitation
+I'm Mike, a multiple-hat-wearing designer mixing product, service and visual design disciplines to create impactful experiences that really move the needle.
 
 <!--<div class="stat-area">
     <div class="stat-block stagger">
@@ -88,7 +88,7 @@ theme:
 
 ## About me
 
-I’m a multiple-hat-wearing, purpose-driven design lead with 14+ years of experience working in B2B SaaS, enterprise and B2C contexts in logistics, education, consumer finance and energy.
+I’m a purpose-driven design lead with 14+ years of experience working in B2B SaaS, enterprise and B2C contexts in logistics, education, consumer finance and energy.
 
 I believe that good design is a non-hierarchical, multi-disciplinary team sport, and successful teams win by raising each other up.
 

@@ -19,9 +19,9 @@ templateEngineOverride: njk, md
 {{ content | safe }}
 
 
-{% if company == "Piclo" %}
+{% if company %}
 <div class="notice">
-    Please note that all product screenshots and images of Figma, Miro, or other cloud-base applications are © Piclo (Open Utility Ltd).
+    Please note that all product screenshots and images of Figma, Miro, or other cloud-based work spaces are © {{company}} (Open Utility Ltd).
 </div>
 {% endif %}
 

@@ -151,7 +151,7 @@ Lastly, I needed to write-up an accessibility statement. I conducted a short ana
 
 ### What worked
 
-- As a result of our robust and thorough processes, we were able to identify and deploy solutions to dozens of accessibility issues that in come cases took us to AAA compliance. 
+- As a result of our robust and thorough processes, we were able to identify and deploy solutions to dozens of accessibility issues that in some cases took us to AAA compliance. 
 - Our team also had other projects and responsibilities to juggle, and we are able to target deploying a11y improvements alongside other strategically relent work.
 - I was able to help the business arrive at a set of processes that could help the team maintain standards with as little impact on existing workflows as possible.
 - We met our contractual requirements.

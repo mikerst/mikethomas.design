@@ -5,7 +5,7 @@ worktype:
 - prototyping
 - qualitative research
 - ui/ux
-intro: Prototyping to find product-market-fit, build key relationships, and lay the groundwork for an MVP.
+intro: Prototyping to find product-market-fit, build key relationships, and laying the groundwork for an MVP.
 hero: case-study__2024__exchange.jpg
 date: 2024-07-01
 company: Piclo (Open Utility Ltd)
@@ -282,7 +282,7 @@ Not only that, but I'd made some UI choices that were also running counter to te
 
 <figure>
     <img alt="An image showing key design details" src="/_assets/img/case-study__2024__exchange--future7.jpg" />
-    <figcaption>I also prototyped a 'create new listing' flow to help illustrate our vision for a how we could enable to creation of listings beyond just one the market.</figcaption>
+    <figcaption>I also prototyped a 'create new listing' flow to help illustrate our vision for a how we could enable the creation of listings beyond just one the market.</figcaption>
 </figure>
 
 <figure>

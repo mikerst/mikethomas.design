@@ -10,7 +10,7 @@ theme:
     Hello, hola, namaste, 你好
 </h1>
 
-I'm Mike, a multiple-hat-wearing designer mixing Product, Service and Visual Design disciplines to create impactful experiences that really move the needle.
+I'm Mike, a multiple-hat-wearing designer combining Product, Service and Visual Design disciplines, with a side-order of front-end, to create impactful experiences that really move the needle.
 
 <!--<div class="stat-area">
     <div class="stat-block stagger">
@@ -83,17 +83,19 @@ I'm Mike, a multiple-hat-wearing designer mixing Product, Service and Visual Des
 
 ## About
 
+<img src="/_assets/img/mike-grid.png" />
+
 I’m a purpose-driven design lead with 14+ years of experience working in B2B SaaS, enterprise and B2C contexts in logistics, education, consumer finance and energy.
 
 I believe that good design is a non-hierarchical, multi-disciplinary team sport, and successful teams win by raising each other up.
 
 My design stack includes a lot of Figma, Miro, Obsidian for writing, and ChatGPT for moving faster.
 
-Outside of work, I'm passionate about running, great coffee, and old book smells. I'm currently teaching myself how to play chess properly, how to prompt in Midjourney, and informally developing some coaching skills targeting early career designers and technologists.
+Outside of work, I'm passionate about running, great coffee, and old book smells. I'm currently teaching myself how to play <a href="https://www.chess.com/member/multiplehatguy" target="_blank">chess properly</a>, how to prompt in Midjourney, and informally developing some coaching skills targeting early career designers and technologists.
 
 Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: mikerst@gmail.com">email</a> or find me on <a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>. 
 
-<img src="/_assets/img/me.jpg" />
+
 
 
 

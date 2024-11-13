@@ -6,7 +6,7 @@ intro: Improving the quality of life for team members working on new HTML email 
 hero: case-study__email__hero.jpg
 thumb: case-study__email__thumb.jpg
 date: 2018-12-31
-theme: 
+tags:
 ---
 
 ## The Problem(s)

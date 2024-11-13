@@ -32,7 +32,7 @@ I'm Mike, a multiple-hat-wearing designer mixing Product, Service and Visual Des
 <section class="projects">
   {%- for page in collections.work | reverse  | filterByTag("recent") -%}
       <div class="project stagger">
-          <a href="{{ page.url }}"><img alt="{{ page.data.title }}" src="/_assets/img/{{page.data.hero}}"/></a>
+          <a title="{{ page.data.title }}" href="{{ page.url }}"><img alt="{{ page.data.title }}" src="/_assets/img/{{page.data.hero}}"/></a>
           <h3><a href="{{ page.url }}">{{ page.data.title }}</a></h3>
       </div>
   {%- endfor -%}
@@ -68,7 +68,7 @@ I'm Mike, a multiple-hat-wearing designer mixing Product, Service and Visual Des
     </div>
 </section>
 
-## Nice words from others
+## Feedback
 
 <blockquote cite="https://www.linkedin.com/in/mikerst/">
     <p>"Mike's blend of <b>leadership, design expertise, and genuine care</b> for his colleagues made a lasting impact on both the team and the products we created. I have no doubt that any team would greatly benefit from his talent and leadership."</p>
@@ -81,7 +81,7 @@ I'm Mike, a multiple-hat-wearing designer mixing Product, Service and Visual Des
     <p>— <cite>Pat Potestas, Senior Product Manager</cite></p>
 </blockquote>
 
-## About me
+## About
 
 I’m a purpose-driven design lead with 14+ years of experience working in B2B SaaS, enterprise and B2C contexts in logistics, education, consumer finance and energy.
 
@@ -97,7 +97,7 @@ Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: m
 
 
 
-## Career journey
+## Career
 
 <ul class="timeline">
     <li>

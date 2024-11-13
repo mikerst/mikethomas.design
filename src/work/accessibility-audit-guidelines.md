@@ -1,16 +1,13 @@
 ---
 title: Improving the accessibility of a B2B SaaS app
-worktype: 
-- accessibility
-- project management
 intro: Auditing, prioritising, sequencing, and ensuring standards could be upheld.
 hero: case-study__2024__a11y.jpg
+thumb:
 date: 2024-08-01
 company: Piclo (Open Utility Ltd)
 tags: 
 - recent
 - protected
-theme: 
 ---
 
 ## What

@@ -101,7 +101,7 @@ As you can see from the empty cell highlighted above, this last sheet wasn't ent
 
 ### Standardising ideation for efficiency
 
-We used Miro as a place to gather visual evidence accumulated during our audit. I chose to create a repeatable ideation canvases we could 'fill in te blanks on' to smoothly move through each issue consistently.
+We used Miro as a place to gather visual evidence accumulated during our audit. I chose to create repeatable ideation canvases we could 'fill in te blanks' on to smoothly move through each issue consistently.
 
 <figure>
     <img src="/_assets/img/case-study__2024__a11y--audit1.jpg" />
@@ -116,7 +116,7 @@ My aim was to make it as easy as possible for the team to fly through the work a
 
 <figure>
     <img src="/_assets/img/case-study__2024__a11y--audit2.jpg" />
-    <figcaption>Drilling down in to specific issues..</figcaption>
+    <figcaption>Drilling down in to specific issues.</figcaption>
 </figure>
 
 
@@ -152,7 +152,7 @@ Lastly, I needed to write-up an accessibility statement. I conducted a short ana
 ### What worked
 
 - As a result of our robust and thorough processes, we were able to identify and deploy solutions to dozens of accessibility issues that in some cases took us to AAA compliance. 
-- Our team also had other projects and responsibilities to juggle, and we are able to target deploying a11y improvements alongside other strategically relent work.
+- Our team also had other projects and responsibilities to juggle, and we are able to target deploying a11y improvements alongside other strategically relevant work.
 - I was able to help the business arrive at a set of processes that could help the team maintain standards with as little impact on existing workflows as possible.
 - We met our contractual requirements.
 - In some cases, solving accessibility issues led to more general improvements for all audiences.

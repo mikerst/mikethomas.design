@@ -7,7 +7,7 @@ theme:
 ---
 
 <h1 class="salutation stagger">
-    Hey, hoi, hello
+    Hello, hola, namaste, 你好
 </h1>
 
 I'm Mike, a multiple-hat-wearing designer mixing product, service and visual design disciplines to create impactful experiences that really move the needle.
@@ -34,11 +34,6 @@ I'm Mike, a multiple-hat-wearing designer mixing product, service and visual des
       <div class="project stagger">
           <a href="{{ page.url }}"><img alt="{{ page.data.title }}" src="/_assets/img/{{page.data.hero}}"/></a>
           <h3><a href="{{ page.url }}">{{ page.data.title }}</a></h3>
-          <ul>
-          {%- for worktype in page.data.worktype -%}
-          <li>#{{ worktype }}</li> 
-          {%- endfor -%}
-          </ul>
       </div>
   {%- endfor -%}
     <div class="project stagger">

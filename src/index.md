@@ -10,7 +10,7 @@ theme:
     Hello, hola, namaste, 你好
 </h1>
 
-I'm Mike, a multiple-hat-wearing designer mixing product, service and visual design disciplines to create impactful experiences that really move the needle.
+I'm Mike, a multiple-hat-wearing designer mixing Product, Service and Visual Design disciplines to create impactful experiences that really move the needle.
 
 <!--<div class="stat-area">
     <div class="stat-block stagger">
@@ -27,7 +27,7 @@ I'm Mike, a multiple-hat-wearing designer mixing product, service and visual des
     </div>
 </div>-->
 
-## Recent projects
+## Projects
 
 <section class="projects">
   {%- for page in collections.work | reverse  | filterByTag("recent") -%}

@@ -47,7 +47,7 @@ img {
 
 
 :root {
-  --bg-color:         #FFFBF7;
+  --bg-color:         #FAFBFB;
   --text-color:       #171717;
   --alt-text-color:   #6a6a6a;
   --accent-color:     #295EE2;
@@ -57,14 +57,14 @@ img {
   --spacer:           1.5rem;
   --max-width:        42rem;
   --font-size:        1rem;
-  --radius:           0.375rem;
+  --radius:           0.75rem;
   --grid:             1fr 39rem 1fr;
 }
 
 body.dark {
   --bg-color:         #171717;
   --bg-tint:          color-mix(in srgb, var(--bg-color) 96%, white);
-  --text-color:       #F7FBFF;
+  --text-color:       #FAFBFB;
   --alt-text-color:   #bfbfbf;
   --accent-color:     #FFFDC6;
 }
@@ -295,7 +295,7 @@ main > * {
 }
 
 main > figure {
-  max-width:64rem;
+  max-width:80rem;
 }
 
 main img {
@@ -471,7 +471,7 @@ span.metric {
 }
 
 .decal {
-  width:12rem;
+  width:8rem;
   height: auto;
   margin: 2rem 0 0rem;
   fill:var(--accent-color);

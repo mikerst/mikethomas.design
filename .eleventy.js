@@ -41,6 +41,7 @@ module.exports = function(config) {
   config.addPassthroughCopy("./src/_assets/css");
   config.addPassthroughCopy("./src/_assets/mov");
   config.addPassthroughCopy("./src/_assets/files");
+  config.addPassthroughCopy("./src/site.webmanifest");
 
   return {
     dir: {

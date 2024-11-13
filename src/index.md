@@ -1,6 +1,6 @@
 ---
-title: Mike Thomas, Lead Designer
-intro: Creating impactful experiences that really move the needle with a mix of Product, Service, and Visual Design.
+title: Mike Thomas
+intro: Multiple-hat-wearing design lead mixing Product, Service and Visual Design disciplines to create impactful experiences.
 layout: default
 layoutClass: 
 theme:

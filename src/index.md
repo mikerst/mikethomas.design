@@ -12,7 +12,8 @@ theme:
 
 I'm Mike, a multiple-hat-wearing designer combining Product, Service and Visual Design disciplines—with a side-order of front-end—to create impactful experiences that really move the needle.
 
-I can offer any business a well-rounded and deeply committed design practitioner, with strong experience in zero-to-one stage projects, UI/UX, design systems, accessibility, qualitative research, branding, and nurturing design teams in both B2B and B2C contexts.
+I can offer any business a well-rounded and deeply committed design practitioner, with strong experience in zero-to-one stage projects, UI/UX, design systems, accessibility, <span style="opacity:0.8">qualitative research,</span> <span style="opacity:0.65">branding,</span> <span style="opacity:0.5">nurturing design teams,</span> <span style="opacity:0.4">strategy,</span> <span style="opacity:0.25">B2B <em>and</em> B2C,</span> <span style="opacity:0.1">workshop facilitation...</span>
+
 
 ## Past collaborators
 

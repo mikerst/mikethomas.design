@@ -6,8 +6,8 @@ layoutClass:
 theme:
 ---
 
-<h1 class="salutation stagger">
-    Hello, hola, 你好, привіт, namaste
+<h1 class="salutation">
+    <span class="stagger">Hello,</span> <span class="stagger">hola,</span> <span class="stagger">你好,</span> <span class="stagger">привіт,</span> <span class="stagger">namaste</span>
 </h1>
 
 I'm Mike, a multiple-hat-wearing designer combining Product, Service and Visual Design disciplines—with a side-order of front-end—to create impactful experiences that really move the needle.

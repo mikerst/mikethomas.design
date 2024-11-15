@@ -25,7 +25,7 @@ let observer = new IntersectionObserver(function(entries, self) {
       }
       
       
-      tl.to(entry.target, 0.5, { autoAlpha: 1, scale: 1, y: 0, rotation: 0 }, overlap);
+      tl.to(entry.target, 0.60, { autoAlpha: 1, scale: 1, y: 0, rotation: 0 }, overlap);
 
       self.unobserve(entry.target);
     }

@@ -59,6 +59,7 @@ img {
   --font-size:        1rem;
   --radius:           0.75rem;
   --grid:             1fr 39rem 1fr;
+  --filter:           grayscale(100%);
 }
 
 body.dark {
@@ -67,6 +68,7 @@ body.dark {
   --text-color:       #FAFBFB;
   --alt-text-color:   #bfbfbf;
   --accent-color:     #295EE2;
+  --filter:           brightness(0) invert(1);
 }
 
 /* ------------------- */
@@ -461,7 +463,7 @@ span.metric {
     margin:0;
     padding:0;
     width:100%;
-    filter: grayscale(100%);
+    filter: var(--filter);
     opacity: .35;
     height:auto;
   }

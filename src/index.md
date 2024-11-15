@@ -10,9 +10,45 @@ theme:
     Hello, hola, namaste, 你好
 </h1>
 
-I'm Mike, a multiple-hat-wearing designer combining Product, Service and Visual Design disciplines, with a side-order of front-end, to create impactful experiences that really move the needle.
+I'm Mike, a multiple-hat-wearing designer combining Product, Service and Visual Design disciplines—with a side-order of front-end—to create impactful experiences that really move the needle.
 
-<!--<div class="stat-area">
+I can offer any business a well-rounded and deeply committed design practitioner, with strong experience in zero-to-one stage projects, UI/UX, design systems, accessibility, qualitative research, branding, and nurturing design teams in both B2B and B2C contexts.
+
+## Past collaborators
+
+<div class="clients"> 
+    <div>
+        <img alt="Piclo Logo" src="/_assets/img/client--piclo.png">
+    </div>
+    <div>
+        <img alt="National Grid Logo" src="/_assets/img/client--nationalgrid.png">
+    </div>
+    <div>
+        <img alt="UK Power Networks Logo" src="/_assets/img/client--ukpn.png">
+    </div>
+    <div>
+        <img alt="BEIS Logo" src="/_assets/img/client--beis.png">
+    </div>
+    <div>
+        <img alt="TotallyMoney Logo" src="/_assets/img/client--totallymoney.png">
+    </div>
+    <div>
+        <img alt="MBNA Logo" src="/_assets/img/client--mbna.png">
+    </div>
+    <div>
+        <img alt="Cognita Logo" src="/_assets/img/client--cognita.png">
+    </div>
+    <div>
+        <img alt="DB Schenker Logo" src="/_assets/img/client--db.png">
+    </div>
+    <div>
+        <img alt="NHS Logo" src="/_assets/img/client--nhs.png">
+    </div>
+</div>
+
+<!--
+
+<div class="stat-area">
     <div class="stat-block stagger">
         <span class="metric" data-target="14" data-unit="+">-</span>
         <span class="label">Years experience</span>
@@ -27,7 +63,8 @@ I'm Mike, a multiple-hat-wearing designer combining Product, Service and Visual 
     </div>
 </div>-->
 
-## Projects
+
+## Recent projects
 
 <section class="projects">
   {%- for page in collections.work | reverse  | filterByTag("recent") -%}
@@ -37,29 +74,29 @@ I'm Mike, a multiple-hat-wearing designer combining Product, Service and Visual 
       </div>
   {%- endfor -%}
     <div class="project stagger">
-        <h3>Laying design system foundations</h3>
-        <ul>
-            <li>#coming soon</li>
-        </ul>
-    </div>
+            <h3>Laying design system foundations</h3>
+            <ul>
+                <li>#coming soon</li>
+            </ul>
+        </div>
     <div class="project stagger">
-        <h3>0-1 in the UK energy sector... almost (part 2)</h3>
-        <ul>
-            <li>#coming soon</li>
-        </ul>
-    </div>
+            <h3>0-1 in the UK energy sector... almost (part 2)</h3>
+            <ul>
+                <li>#coming soon</li>
+            </ul>
+        </div>
     <div class="project stagger">
-        <h3>Baselining design culture</h3>
-        <ul>
-            <li>#coming soon</li>
-        </ul>
-    </div>
+            <h3>Baselining design culture</h3>
+            <ul>
+                <li>#coming soon</li>
+            </ul>
+        </div>
     <div class="project stagger">
-        <h3>Designing remote interview spaces</h3>
-        <ul>
-            <li>#coming soon</li>
-        </ul>
-    </div>
+            <h3>Designing remote interview spaces</h3>
+            <ul>
+                <li>#coming soon</li>
+            </ul>
+        </div>
     <div class="project stagger">
         <h3>Implementing better data tables</h3>
         <ul>
@@ -80,6 +117,9 @@ I'm Mike, a multiple-hat-wearing designer combining Product, Service and Visual 
     <p>"Mike is a talented designer and thoughtful leader. His <b>expertise in all aspects of design from research, to UX and UI was extremely valuable</b> to have within our product team. Additionally, Mike is an absolute pleasure to work with and would be an asset to any company."</p>
     <p>— <cite>Pat Potestas, Senior Product Manager</cite></p>
 </blockquote>
+
+
+
 
 ## About
 

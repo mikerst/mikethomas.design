@@ -121,6 +121,10 @@ h1 + p {
   font-size: 1.25rem;
 }
 
+h1 + p + p {
+  font-size: 1.25rem;
+}
+
 mark {
   background:none;
 }
@@ -410,16 +414,16 @@ main li {
 
 .stat-area {
   display:grid;
-  gap:2rem;
-  grid-template-columns:repeat(4, 1fr);
+  gap:1rem;
+  grid-template-columns:repeat(3, 1fr);
   margin:4rem auto;
 }
 .stat-block {
   margin:0;
-  background:var(--accent-color);
+  background:#ffffff;
   border-radius: var(--radius);
   padding:0.5rem 1rem;
-  color:var(--bg-color);
+  color:var(--text-color);
 }
 .stat-block span {
   display:block;
@@ -432,30 +436,35 @@ span.metric {
   font-weight:500;
 }
 
-.tactical-area {
+.clients {
+  display:grid;
+  gap:6rem;
+  row-gap: 0;
+  grid-template-columns:repeat(3, 1fr);
+  margin:4rem auto;
+  
+  @media screen and (max-width: 480px) {
+    grid-template-columns:repeat(3, 1fr);
+    gap: 2rem;
+    row-gap: 1rem;
+  }
+}
+.clients div {
+  margin:0;
+  padding:1rem 0;
   display:flex;
-  flex-wrap: wrap;
-  border:1px solid black;
-  border-radius: 6px;
-}
-.tactical-area > div {
-  padding:1.5rem;
-}
-.tactical-block:first-of-type {
-  border-right:1px solid black;
-}
-.tactical-block {
-  width:50%;
-  margin:0;
-}
-
-.tactical-area li {
-  margin:0;
-}
-
-.tactical-block.cta {
-  width: 100%;
-  border-top:1px solid black;
+  align-items: center;
+  justify-content: center;
+  border:0;
+  img {
+    border-radius:0;
+    margin:0;
+    padding:0;
+    width:100%;
+    filter: grayscale(100%);
+    opacity: .35;
+    height:auto;
+  }
 }
 
 .notice {

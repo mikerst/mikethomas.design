@@ -1,5 +1,5 @@
 ---
-title: 0-1 in the UK energy sector... almost (part 1)
+title: Designing new B2B SaaS application in UK energy (part 1)
 worktype: 
 - zero-to-one
 - prototyping

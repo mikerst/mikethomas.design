@@ -1,5 +1,5 @@
 ---
-title: Improving the accessibility of a B2B SaaS app
+title: Designing a process to identify and implement AA accessibility
 intro: Auditing, prioritising, sequencing, and ensuring standards could be upheld.
 hero: case-study__2024__a11y.jpg
 thumb:

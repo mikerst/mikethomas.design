@@ -16,6 +16,67 @@ I can offer any business a well-rounded and deeply committed design practitioner
 
 
 
+
+
+<!--
+
+<div class="stat-area">
+    <div class="stat-block stagger">
+        <span class="metric" data-target="14" data-unit="+">-</span>
+        <span class="label">Years experience</span>
+    </div>
+    <div class="stat-block stagger"">
+        <span class="metric" data-target="5">-</span>
+        <span class="label">Sectors</span>
+    </div>
+    <div class="stat-block stagger"">
+        <span class="metric" data-target="5">-</span>
+        <span class="label">Organisations</span>
+    </div>
+</div>-->
+
+
+## Recent projects
+
+<section class="projects">
+  {%- for page in collections.work | reverse  | filterByTag("recent") -%}
+      <div class="project stagger">
+          <a title="{{ page.data.title }}" href="{{ page.url }}"><img alt="{{ page.data.title }}" src="/_assets/img/{{page.data.hero}}"/></a>
+          <h3><a href="{{ page.url }}">{{ page.data.title }}</a></h3>
+      </div>
+  {%- endfor -%}
+  <!--  <div class="project stagger">
+            <h3>Laying design system foundations</h3>
+            <ul>
+                <li>#coming soon</li>
+            </ul>
+        </div>
+    <div class="project stagger">
+            <h3>0-1 in the UK energy sector... almost (part 2)</h3>
+            <ul>
+                <li>#coming soon</li>
+            </ul>
+        </div>
+    <div class="project stagger">
+            <h3>Baselining design culture</h3>
+            <ul>
+                <li>#coming soon</li>
+            </ul>
+        </div>
+    <div class="project stagger">
+            <h3>Designing remote interview spaces</h3>
+            <ul>
+                <li>#coming soon</li>
+            </ul>
+        </div>
+    <div class="project stagger">
+        <h3>Implementing better data tables</h3>
+        <ul>
+            <li>#coming soon</li>
+        </ul>
+    </div>-->
+</section>
+
 ## Past collaborators
 
 <div class="clients"> 
@@ -47,65 +108,6 @@ I can offer any business a well-rounded and deeply committed design practitioner
         <img alt="NHS Logo" src="/_assets/img/client--nhs.png">
     </div>
 </div>
-
-<!--
-
-<div class="stat-area">
-    <div class="stat-block stagger">
-        <span class="metric" data-target="14" data-unit="+">-</span>
-        <span class="label">Years experience</span>
-    </div>
-    <div class="stat-block stagger"">
-        <span class="metric" data-target="5">-</span>
-        <span class="label">Sectors</span>
-    </div>
-    <div class="stat-block stagger"">
-        <span class="metric" data-target="5">-</span>
-        <span class="label">Organisations</span>
-    </div>
-</div>-->
-
-
-## Recent projects
-
-<section class="projects">
-  {%- for page in collections.work | reverse  | filterByTag("recent") -%}
-      <div class="project stagger">
-          <a title="{{ page.data.title }}" href="{{ page.url }}"><img alt="{{ page.data.title }}" src="/_assets/img/{{page.data.hero}}"/></a>
-          <h3><a href="{{ page.url }}">{{ page.data.title }}</a></h3>
-      </div>
-  {%- endfor -%}
-    <div class="project stagger">
-            <h3>Laying design system foundations</h3>
-            <ul>
-                <li>#coming soon</li>
-            </ul>
-        </div>
-    <div class="project stagger">
-            <h3>0-1 in the UK energy sector... almost (part 2)</h3>
-            <ul>
-                <li>#coming soon</li>
-            </ul>
-        </div>
-    <div class="project stagger">
-            <h3>Baselining design culture</h3>
-            <ul>
-                <li>#coming soon</li>
-            </ul>
-        </div>
-    <div class="project stagger">
-            <h3>Designing remote interview spaces</h3>
-            <ul>
-                <li>#coming soon</li>
-            </ul>
-        </div>
-    <div class="project stagger">
-        <h3>Implementing better data tables</h3>
-        <ul>
-            <li>#coming soon</li>
-        </ul>
-    </div>
-</section>
 
 ## Feedback
 

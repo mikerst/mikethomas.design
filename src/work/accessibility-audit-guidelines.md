@@ -4,7 +4,7 @@ intro: Auditing, prioritising, sequencing, and ensuring standards could be uphel
 hero: case-study__2024__a11y.jpg
 thumb:
 date: 2024-08-01
-company: Piclo (Open Utility Ltd)
+company: Open Utility Ltd
 tags: 
 - recent
 - protected

@@ -7,8 +7,8 @@ worktype:
 - ui/ux
 intro: Prototyping to find product-market-fit, build key relationships, and laying the groundwork for an MVP.
 hero: case-study__2024__exchange.jpg
-date: 2024-07-01
-company: Piclo (Open Utility Ltd)
+date: 2024-09-01
+company: Open Utility Ltd
 tags: 
 - recent
 - protected

@@ -7,8 +7,8 @@ worktype:
 - training
 intro: Lean, two-week project aimed at trying to tackle a key area of pain being experienced by end-users.
 hero: case-study__2024__dso-profiles.jpg
-date: 2024-07-01
-company: Piclo (Open Utility Ltd)
+date: 2024-08-01
+company: Open Utility Ltd
 tags: 
 - recent
 - protected

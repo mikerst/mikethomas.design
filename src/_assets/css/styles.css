@@ -473,7 +473,7 @@ span.metric {
   padding: 2.5rem;
   border-radius: var(--radius);
   background-color: var(--accent-color);
-  color:var(--bg-color);
+  color:white;
   margin-top:4rem;
 }
 

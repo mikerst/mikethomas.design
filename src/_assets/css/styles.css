@@ -100,7 +100,6 @@ h1 {
 }
 h1.salutation {
   font-weight:400;
-  font-size:3.5rem;
   color:var(--accent-color);
 }
 

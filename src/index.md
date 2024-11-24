@@ -6,13 +6,17 @@ layoutClass:
 theme:
 ---
 
-<h1 class="salutation">
+<!--<h1 class="salutation">
     <span class="stagger">Hello,</span> <span class="stagger">hola,</span> <span class="stagger">你好,</span> <span class="stagger">привіт,</span> <span class="stagger">namaste</span>
+</h1>-->
+
+<h1 class="salutation">
+    I'm Mike, and I create digital experiences that move the needle.
 </h1>
 
-I'm Mike, a multiple-hat-wearing designer combining Product, Service and Visual Design disciplines—with a side-order of front-end—to create impactful experiences that really move the needle.
+I'm a multiple-hat-wearing designer combining Product, Service and Visual Design disciplines—with a side-order of front-end—to create thoughtful and impactful solutions for other humans.
 
-I can offer any business a well-rounded and deeply committed design practitioner, with strong experience in... <b>*inhales*</b>... zero-to-one stage projects, UI/UX, design systems, accessibility, <span style="opacity:0.8">qualitative research,</span> <span style="opacity:0.65">branding,</span> <span style="opacity:0.5">nurturing design teams,</span> <span style="opacity:0.4">strategy,</span> <span style="opacity:0.25">B2B <em>and</em> B2C,</span> <span style="opacity:0.175">workshop facilitation,</span> <span style="opacity:0.1">copywriting...</span> <span style="opacity:0.1">a</span><span style="opacity:0.2">a</span><span style="opacity:0.3">a</span><span style="opacity:0.4">a</span><span style="opacity:0.5">a</span><span style="opacity:0.7">a</span>and a whole lot more. Phew.
+I can offer any business a well-rounded and deeply committed design practitioner, with experience in... *deep breath*... zero-to-one stage projects, UI/UX, design systems, accessibility, <span style="opacity:0.8">qualitative research,</span> <span style="opacity:0.65">branding,</span> <span style="opacity:0.5">nurturing design teams,</span> <span style="opacity:0.4">strategy,</span> <span style="opacity:0.25">B2B <em>and</em> B2C,</span> <span style="opacity:0.175">workshop facilitation,</span> <span style="opacity:0.1">copywriting...sort of,</span> <span style="opacity:0.1">a</span><span style="opacity:0.2">a</span><span style="opacity:0.3">a</span><span style="opacity:0.4">a</span><span style="opacity:0.5">a</span><span style="opacity:0.7">a</span>and a whole lot more. Phew.
 
 
 

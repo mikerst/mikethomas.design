@@ -1,5 +1,5 @@
 ---
-title: Designing new B2B SaaS application in UK energy (part 1)
+title: Designing a new B2B SaaS application in UK energy (part 1)
 worktype: 
 - zero-to-one
 - prototyping

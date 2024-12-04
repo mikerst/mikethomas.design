@@ -20,7 +20,7 @@ theme:
 
 
 
-<!--
+
 
 <div class="stat-area">
     <div class="stat-block stagger">
@@ -32,10 +32,10 @@ theme:
         <span class="label">Sectors</span>
     </div>
     <div class="stat-block stagger"">
-        <span class="metric" data-target="5">-</span>
+        <span class="metric" data-target="4">-</span>
         <span class="label">Organisations</span>
     </div>
-</div>-->
+</div>
 
 
 ## Recent projects

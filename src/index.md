@@ -11,12 +11,10 @@ theme:
 </h1>-->
 
 <h1 class="salutation">
-    I'm Mike, and I create digital experiences that move the needle.
+    Hello! I’m Mike, and I help teams create <span>thoughtful digital solutions</span> to problems that matter.
 </h1>
 
-I'm a multiple-hat-wearing designer combining Product, Service and Visual Design disciplines—with a side-order of front-end—to create thoughtful and impactful solutions for other humans.
 
-I can offer any business a well-rounded and deeply committed design practitioner, with experience in... *deep breath*... zero-to-one stage projects, UI/UX, design systems, accessibility, <span style="opacity:0.8">qualitative research,</span> <span style="opacity:0.65">branding,</span> <span style="opacity:0.5">nurturing design teams,</span> <span style="opacity:0.4">strategy,</span> <span style="opacity:0.25">B2B <em>and</em> B2C,</span> <span style="opacity:0.175">workshop facilitation,</span> <span style="opacity:0.1">copywriting...sort of,</span> <span style="opacity:0.1">a</span><span style="opacity:0.2">a</span><span style="opacity:0.3">a</span><span style="opacity:0.4">a</span><span style="opacity:0.5">a</span><span style="opacity:0.7">a</span>and a whole lot more. Phew.
 
 
 
@@ -133,11 +131,11 @@ I can offer any business a well-rounded and deeply committed design practitioner
 
 <img src="/_assets/img/mike-grid.png" />
 
-I’m a purpose-driven design lead with 14+ years of experience working in B2B SaaS, enterprise and B2C contexts in logistics, education, consumer finance and energy.
+For nearly fifteen years, I’ve combined Product, Service and Visual Design disciplines—with a side-order of front-end—to help start-ups, scale-ups and enterprises grow, level-up, and move faster.
 
-I believe that good design is a non-hierarchical, multi-disciplinary team sport, and successful teams win by raising each other up.
+I am deeply purpose driven, and believe that good design should be an inclusive, multi-disciplinary team sport.
 
-My design stack includes a lot of Figma, Miro, Obsidian for writing, and ChatGPT for moving faster.
+My design stack currently includes a lot of Figma, Miro, Obsidian for writing, and ChatGPT for moving faster, although I’ll never tire of getting messy with pens and paper.
 
 Outside of work, I'm passionate about running, great coffee, and old book smells. I'm currently teaching myself how to play <a href="https://www.chess.com/member/multiplehatguy" target="_blank">chess properly</a>, how to prompt in Midjourney, and informally developing some coaching skills targeting early career designers and technologists.
 

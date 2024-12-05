@@ -628,8 +628,11 @@ span.metric {
 @media screen and (max-width: 640px) {
 
     h1 {
-      font-size: 2rem;
+      font-size: 1.75rem;
       margin-top: 2rem;
+    }
+    h2 {
+      font-size:1.25rem;
     }
     body {
       padding:1.75rem;

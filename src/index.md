@@ -83,10 +83,10 @@ Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: m
 
 <ul class="timeline">
     <li>
-        <span>'24</span> <span>Departed <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> after a wonderful four-year tenure to reset again.</span>
+        <span>'24</span> <span>Departed <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> after a very positive 4.5 year stint due to a company re-structure.</span>
     </li>
     <li>
-        <span>'22</span> <span>Promoted to Lead Designer at <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> with an expanded remit covering design systems, accessibility and zero-to-one products.</span>
+        <span>'22</span> <span>Promoted to Lead Product Designer at <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> with an expanded remit covering design systems, accessibility, zero-to-one products, line-management and more.</span>
     </li>
     <li>
         <span>'20</span> <span>Joined <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> as a Product Designer, advocating for and practicing human-centered design in the energy sector.</span>

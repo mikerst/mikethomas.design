@@ -6,39 +6,13 @@ layoutClass:
 theme:
 ---
 
-<!--<h1 class="salutation">
-    <span class="stagger">Hello,</span> <span class="stagger">hola,</span> <span class="stagger">你好,</span> <span class="stagger">привіт,</span> <span class="stagger">namaste</span>
-</h1>-->
-
 <h1 class="salutation">
-    Hello! I’m Mike, and I help teams create <span>thoughtful digital solutions</span> to problems that matter.
+    Hello! I’m Mike, and I help teams create thoughtful digital solutions to problems that matter.
 </h1>
 
+I most recently held a Lead Product Design role at Piclo, an EnTech on a mission to decarbonise the world's electricity grids. Below you can find some examples of my impact.
 
-
-
-
-
-
-<!--
-
-<div class="stat-area">
-    <div class="stat-block stagger">
-        <span class="metric" data-target="14" data-unit="+">-</span>
-        <span class="label">Years experience</span>
-    </div>
-    <div class="stat-block stagger"">
-        <span class="metric" data-target="5">-</span>
-        <span class="label">Sectors</span>
-    </div>
-    <div class="stat-block stagger"">
-        <span class="metric" data-target="4">-</span>
-        <span class="label">Organisations</span>
-    </div>
-</div> -->
-
-
-## Recent projects
+## Recent work @ [Piclo](https://www.piclo.energy)
 
 <section class="projects">
   {%- for page in collections.work | reverse  | filterByTag("recent") -%}
@@ -47,41 +21,9 @@ theme:
           <h3><a href="{{ page.url }}">{{ page.data.title }}</a></h3>
       </div>
   {%- endfor -%}
-  <!--  <div class="project stagger">
-            <h3>Laying design system foundations</h3>
-            <ul>
-                <li>#coming soon</li>
-            </ul>
-        </div>
-    <div class="project stagger">
-            <h3>0-1 in the UK energy sector... almost (part 2)</h3>
-            <ul>
-                <li>#coming soon</li>
-            </ul>
-        </div>
-    <div class="project stagger">
-            <h3>Baselining design culture</h3>
-            <ul>
-                <li>#coming soon</li>
-            </ul>
-        </div>
-    <div class="project stagger">
-            <h3>Designing remote interview spaces</h3>
-            <ul>
-                <li>#coming soon</li>
-            </ul>
-        </div>
-    <div class="project stagger">
-        <h3>Implementing better data tables</h3>
-        <ul>
-            <li>#coming soon</li>
-        </ul>
-    </div>-->
 </section>
 
 ## About
-
-<img src="/_assets/img/mike-grid.png" />
 
 For nearly fifteen years, I’ve combined Product, Service and Visual Design disciplines—with a side-order of front-end—to help start-ups, scale-ups and enterprises grow, level-up, and move faster.
 
@@ -132,20 +74,10 @@ Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: m
     <p>— <cite>Hua Zhang, Lead Service Designer</cite></p>
 </blockquote>
 
-
 <blockquote cite="https://www.linkedin.com/in/mikerst/">
     <p>"Mike is a talented designer and thoughtful leader. His <b>expertise in all aspects of design from research, to UX and UI was extremely valuable</b> to have within our product team. Additionally, Mike is an absolute pleasure to work with and would be an asset to any company."</p>
     <p>— <cite>Pat Potestas, Senior Product Manager</cite></p>
 </blockquote>
-
-
-
-
-
-
-
-
-
 
 ## Career
 
@@ -204,9 +136,3 @@ Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: m
         <span>'89</span> <span>Wrote some code to make a white blob move across the screen on a Commodore 64 (Dad helped).</span>
     </li>
 </ul>
-
-
-
-
-
-

@@ -63,10 +63,10 @@ const applyTheme = (theme) => {
 // Function to update the button content
 const updateButtonContent = (theme) => {
 if (theme === 'dark') {
-	themeIcon.className = 'icon icon--sun';
+	themeIcon.className = 'icon icon--moon';
 	themeIcon.setAttribute('title', 'Change to light mode ');
 } else {
-	themeIcon.className = 'icon icon--moon';
+	themeIcon.className = 'icon icon--sun';
 	themeIcon.setAttribute('title', 'Change to dark mode');
 }
 };

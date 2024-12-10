@@ -49,7 +49,7 @@ img {
 
 
 :root {
-  --bg-color:         #F7F7F9;
+  --bg-color:         #FFFFFF;
   --text-color:       #171717;
   --alt-text-color:   #6a6a6a;
   --accent-color:     #0029FF;
@@ -83,6 +83,7 @@ body {
   color: var(--text-color);
   background: var(--bg-color);
   line-height: 1.5;
+  text-rendering: optimizeLegibility;
 }
 
 /* ------------------- */
@@ -95,16 +96,15 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-weight: 700;
+  font-weight: 600;
   font-size: 2.75rem;
   line-height:1.2;
   margin-top:4rem;
 }
+
 h1.salutation span {
   color:var(--accent-color);
 }
-
-
 
 h1 + p {
   margin-top:3rem;
@@ -122,13 +122,12 @@ mark {
 
 h2 {
   font-size: 1.5rem;
-  font-weight: 600;
-  font-family: var(--body-text);
+  font-weight: 500;
 }
 
 h3 {
   font-size: 1rem;
-  font-weight: 400;
+  font-weight: 500;
 }
 
 p {
@@ -224,8 +223,8 @@ table {
 
 nav {
   display: flex;
-  align-items: start;
-  justify-content: space-between;;
+  align-items: end;
+  justify-content: space-between;
 }
 
 nav a {
@@ -235,6 +234,8 @@ nav a {
   font-size: 1rem;
   text-decoration: none;
 }
+
+
 
 nav a span:first-of-type {
   font-weight:600;
@@ -346,16 +347,24 @@ main li {
 /* Various Sections    */
 /* ------------------- */
 
+.projects {
+  display:grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+}
+
+.project:first-child {
+  grid-column: 1 / 3;
+}
 
 .project {
-  margin:0 0 2.5rem 0;
-  background: var(--bg-color);
+  margin: 0 0 0 0;
 }
 
 .project h3 {
-  margin-top: calc(var(--spacer)/2);
+  margin-top: 1rem;
   font-size: 1.25rem;
-  font-weight: 400;
+  font-weight: 500;
   font-family: var(--body-text);
   color:var(--alt-text-color);
   & a {
@@ -495,11 +504,20 @@ span.metric {
 
 .icon--sun {
   content:url("/_assets/img/icon--sun.svg");
-  filter:invert(0.8);
+  opacity: 0.4
+}
+
+.icon--sun:hover {
+  opacity: 1;
 }
 
 .icon--moon {
   content:url("/_assets/img/icon--moon.svg");
+  filter:invert(0.4);
+}
+
+.icon--moon:hover {
+  filter:invert(1);
 }
 
 .tag-row {
@@ -642,6 +660,15 @@ span.metric {
     }
     table {
       width:100%;
+    }
+    .projects {
+      display:grid;
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+
+    .project:first-child {
+      grid-column: 1/2;
     }
 }
 

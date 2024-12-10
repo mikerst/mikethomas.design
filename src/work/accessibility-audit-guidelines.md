@@ -1,5 +1,5 @@
 ---
-title: Designing a process to identify and implement AA accessibility
+title: Designing an approach to get to AA accessibility 
 intro: Auditing, prioritising, sequencing, and ensuring standards could be upheld.
 hero: case-study__2024__a11y.jpg
 thumb:

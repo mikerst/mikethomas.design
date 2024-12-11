@@ -59,7 +59,7 @@ img {
   --spacer:           1.5rem;
   --max-width:        43rem;
   --font-size:        1rem;
-  --radius:           0.75rem;
+  --radius:           0.5rem;
   --grid:             1fr 39rem 1fr;
   --filter:           grayscale(100%);
 }

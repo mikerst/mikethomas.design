@@ -12,7 +12,7 @@ theme:
 
 I most recently held a Lead Product Design role at Piclo, an EnTech on a mission to decarbonise the world's electricity grids. Below you can find some examples of my impact.
 
-## Recent work @ [Piclo](https://www.piclo.energy)
+## Recent work @ Piclo
 
 <section class="projects">
   {%- for page in collections.work | reverse  | filterByTag("recent") -%}
@@ -31,7 +31,7 @@ I am deeply purpose driven, and believe that good design should be an inclusive,
 
 My design stack currently includes a lot of Figma, Miro, Obsidian for writing, and ChatGPT for moving faster, although I’ll never tire of getting messy with pens and paper.
 
-Outside of work, I'm passionate about running, great coffee, and old book smells. I'm currently teaching myself how to play <a href="https://www.chess.com/member/multiplehatguy" target="_blank">chess properly</a>, how to prompt in Midjourney, and informally developing some coaching skills targeting early career designers and technologists.
+Outside of work, I'm passionate about running, great coffee, and old book smells. I'm currently teaching myself how to play <a href="https://www.chess.com/member/multiplehatguy" target="_blank">chess properly</a>, targeting a half marathon pb, and am informally developing some coaching skills aimed at early-career designers and creatives.
 
 Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: mikerst@gmail.com">email</a> or find me on <a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>. 
 

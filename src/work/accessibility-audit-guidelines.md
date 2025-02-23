@@ -8,6 +8,8 @@ company: Open Utility Ltd
 tags: 
 - recent
 - protected
+type: A11y
+rt: 6 mins
 ---
 
 ## What

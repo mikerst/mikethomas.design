@@ -1,10 +1,5 @@
 ---
 title: Designing a new B2B SaaS marketplace for UK energy
-worktype: 
-- zero-to-one
-- prototyping
-- qualitative research
-- ui/ux
 intro: Prototyping to find product-market-fit, build key relationships, and laying the groundwork for an MVP.
 hero: case-study__2024__exchange.jpg
 date: 2024-10-01
@@ -13,6 +8,8 @@ tags:
 - recent
 - protected
 theme: 
+type: 0-1
+rt: 13 mins
 ---
 
 ## Project summary
@@ -20,7 +17,7 @@ theme:
 Over a six month period, I worked with Piclo's innovation lead, as well as colleagues from the wider energy industry, including UK government and Ofgem, to prototype and iterate on the vision for a new B2B SaaS product, designed to enable the trading of obligations to provide service in to various UK energy markets.
 
 <div class="notice">
-    Hey! Mike here. Sorry to interupt. It's been fed back to me that this case study may be a little on the long side, which I agree with. I'll be republishing this in a more snackable format soon. 🙏
+    Hey! Mike here. Sorry to interrupt. It's been fed back to me that this case study may be a little on the long side, which I agree with. I'll be republishing this in a more snackable format soon. 🙏
 </div>
 
 ### My role

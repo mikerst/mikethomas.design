@@ -5,6 +5,8 @@ templateEngineOverride: njk, md
 ---
 
 <h1>{{ title }}</h1>
+<span>{{type}} | {{rt}}</span>
+
 
 {{ intro }}
 

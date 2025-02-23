@@ -7,10 +7,10 @@ theme:
 ---
 
 <h1 class="salutation">
-    Hello! I’m Mike, and I help teams create thoughtful digital solutions to problems that matter.
+    Hello! I’m Mike, and I help businesses create thoughtful responses to problems worth solving.
 </h1>
 
-I most recently held a Lead Product Design role at Piclo, an EnTech on a mission to decarbonise the world's electricity grids. Below you can find some examples of my impact.
+I most recently held a __Lead Product Design__ role at <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a>, an EnTech on a mission to decarbonise the world's electricity grids. Below you can find some examples of my impact.
 
 ## Recent work @ Piclo
 

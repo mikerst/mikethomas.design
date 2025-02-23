@@ -56,7 +56,7 @@ img {
   --body-text:        'Inter', Arial, sans-serif;
   --emphasis-text:    'Libre Baskerville', Georgia, serif;
   --spacer:           1.5rem;
-  --max-width:        60rem;
+  --max-width:        1200px;
   --font-size:        1rem;
   --radius:           0.5rem;
   --grid:             1fr 39rem 1fr;
@@ -99,6 +99,10 @@ h1 {
   font-weight: 400;
   font-size: 3rem;
   line-height:1.2;
+  margin:0;
+}
+
+h1.salutation {
   margin:6rem 0;
 }
 
@@ -106,6 +110,10 @@ h1.salutation .emphasis-text {
   color:var(--accent-color);
   font-family: var(--emphasis-text);
   font-style: italic;
+}
+
+.intro h1 {
+  margin:0.5rem 0 1.125rem;
 }
 
 h1 + p {
@@ -291,8 +299,17 @@ main > * {
   margin-right:auto;
 }
 
-main > figure {
-  max-width:80rem;
+main.work > * {
+  max-width:48rem;
+}
+
+main.work .intro {
+  max-width:var(--max-width);
+  padding-right:25rem;
+}
+
+main.work > figure {
+  max-width:var(--max-width);
 }
 
 main img {
@@ -303,6 +320,11 @@ main img {
     margin-right:auto;
   }
 }
+
+main.work {
+  padding-top:calc(var(--spacer)*2);
+}
+
 
 
 
@@ -658,7 +680,7 @@ span.metric {
 @media screen and (max-width: 640px) {
 
     h1 {
-      font-size: 1.75rem;
+      font-size: 2rem;
       margin-top: 3rem;
     }
     h2 {
@@ -673,15 +695,13 @@ span.metric {
     table {
       width:100%;
     }
-    .projects {
-      display:grid;
-      grid-template-columns: 1fr;
-      gap: 2rem;
+    main.work .intro {
+      padding:0;
     }
-
-    .project:first-child {
-      grid-column: 1/2;
-    }
+   .project {
+    display:block;
+    padding:2rem 0;
+   }
 }
 
 @media screen and (min-width: 1280px) {

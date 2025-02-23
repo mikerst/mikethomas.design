@@ -9,7 +9,7 @@ tags:
 - recent
 - protected
 type: A11y
-rt: 6 mins
+rt: 6 min read
 ---
 
 ## What

@@ -9,7 +9,7 @@ tags:
 - recent
 theme:
 type: Design Systems
-rt: 7 mins
+rt: 7 min read
 ---
 
 ## Summary

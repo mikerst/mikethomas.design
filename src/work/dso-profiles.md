@@ -9,7 +9,7 @@ tags:
 - protected
 theme: 
 type: Design + Build
-rt: 4 mins
+rt: 4 min read
 ---
 
 ## Summary

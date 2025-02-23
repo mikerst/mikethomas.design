@@ -2,13 +2,14 @@
 title: Mike Thomas
 intro: Multiple-hat-wearing design lead mixing Product Design, Visual Design and front-end disciplines to create impactful experiences.
 layout: default
-layoutClass: 
-theme:
+layoutClass: home
 ---
 
+<section>
 <h1 class="salutation">
     I help teams create <br/><span class="emphasis-text">thoughtful</span> digital solutions<br/> to problems that matter.
 </h1>
+</section>
 
 <section class="projects">
   {%- for page in collections.work | reverse  | filterByTag("recent") -%}

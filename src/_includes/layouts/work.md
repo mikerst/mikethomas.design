@@ -1,23 +1,25 @@
 ---
 layout: layouts/base.njk
-layoutClass:
+layoutClass: work
 templateEngineOverride: njk, md
 ---
 
-<h1>{{ title }}</h1>
-<span>{{type}} | {{rt}}</span>
+<section class="intro">
+  <p class="project-type">{{type}} </p>
+  <h1>{{ title }}</h1>
+  <span class="read-time">{{rt}} </span>
+  
+</section>
 
 
-{{ intro }}
 
-{% if hero %}
-<figure>
-  <img src="/_assets/img/{{ hero }}" />
-</figure>
-{% endif %}
+ {% if hero %}
+  <figure>
+    <img src="/_assets/img/{{ hero }}" />
+  </figure>
+  {% endif %}
 
 {{ content | safe }}
-
 
 {% if company %}
 <div class="notice">

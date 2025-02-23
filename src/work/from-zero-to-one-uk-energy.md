@@ -9,7 +9,7 @@ tags:
 - protected
 theme: 
 type: 0-1
-rt: 13 mins
+rt: 13 min read
 ---
 
 ## Project summary

@@ -304,7 +304,9 @@ main.work > * {
 }
 
 main.work .intro {
+  border-top: 1px solid var(--accent-tint);
   max-width:var(--max-width);
+  padding-top: 4rem;
   padding-right:25rem;
 }
 

@@ -13,7 +13,7 @@ layoutClass: about
 
 
 <figure>
-    <img src="/_assets/img/mike-grid.png" />
+    <img src="/_assets/img/mike-marker.jpg" />
 </figure>
 
 For nearly fifteen years, I’ve combined Product, Service and Visual Design disciplines—with a side-order of front-end—to help start-ups, scale-ups and enterprises grow, level-up, and move faster.

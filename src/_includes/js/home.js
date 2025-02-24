@@ -8,7 +8,7 @@ const projects = document.querySelectorAll('.stagger');
 
 // Set some basic config vars
 const config = {
-  threshold: 0.5
+  threshold: 0.4
 };
 
 // Trigger a new timeline for animation
@@ -18,7 +18,7 @@ const tl = new TimelineMax();
 let observer = new IntersectionObserver(function(entries, self) {
   entries.forEach(entry => {
     if (entry.isIntersecting) {
-      let overlap = '-=0.35';
+      let overlap = '-=0.15';
       
       if (!tl.isActive()) {
         overlap = '+=0';

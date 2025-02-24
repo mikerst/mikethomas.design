@@ -56,9 +56,9 @@ img {
   --body-text:        'Inter', Arial, sans-serif;
   --emphasis-text:    'Libre Baskerville', Georgia, serif;
   --spacer:           1.5rem;
-  --max-width:        1200px;
+  --max-width:        80rem;
   --font-size:        1rem;
-  --radius:           0.5rem;
+  --radius:           0.25rem;
   --grid:             1fr 39rem 1fr;
   --filter:           grayscale(100%);
 }
@@ -348,6 +348,14 @@ main.work {
   padding-top:calc(var(--spacer)*2);
 }
 
+main.about > * {
+  max-width:48rem;
+}
+
+main.about .intro {
+  max-width:var(--max-width);
+  padding-top: 4rem;
+}
 
 
 
@@ -494,7 +502,7 @@ span.metric {
 
 .clients {
   display:grid;
-  gap:6rem;
+  gap:8rem;
   row-gap: 0;
   grid-template-columns:repeat(3, 1fr);
   margin:4rem auto;

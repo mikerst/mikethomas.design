@@ -6,9 +6,9 @@ layoutClass: home
 ---
 
 <section>
-<h1 class="salutation">
-    I help teams create <br/><span class="emphasis-text">thoughtful</span> digital solutions<br class="hide-if-small" /> to problems that matter.
-</h1>
+    <h1 class="salutation">
+        I help teams create <br/><span class="emphasis-text">thoughtful</span> digital solutions<br class="hide-if-small" /> to problems that matter.
+    </h1>
 </section>
 
 <section class="projects">

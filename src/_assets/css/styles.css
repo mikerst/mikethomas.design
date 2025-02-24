@@ -158,9 +158,7 @@ a {
   text-underline-offset: 0.1rem;
 }
 
-a:visited {
-  color: inherit;
-}
+
 
 a:hover {
   color: var(--text-color);
@@ -231,13 +229,13 @@ table {
 /* Header + Nav        */
 /* ------------------- */
 
-nav {
-  display: flex;
-  align-items: center;
+header {
+  display:flex;
   justify-content: space-between;
+  align-items: center;
 }
 
-nav a {
+header > a {
   border: 0;
   line-height: 1.4;
   font-family: var(--body-text);
@@ -245,15 +243,34 @@ nav a {
   text-decoration: none;
 }
 
-
-
-nav a span:first-of-type {
+header > a span.name {
   font-weight:600;
 }
 
-nav a span.pronoun {
-  font-size:0.8rem;
+header > a span.location {
+  color:var(--alt-text-color);
 }
+
+nav {
+  display:flex;
+  align-items: center;
+}
+nav a {
+  line-height: 1.4;
+  font-family: var(--body-text);
+  font-size: 1.125rem;
+  text-decoration: none;
+  color:var(--alt-text-color);
+}
+
+nav > * {
+  margin-left: 2rem;
+}
+
+nav a[aria-current="page"] {
+ color:var(--text-color);
+}
+
 
 /* ------------------- */
 /* Footer              */
@@ -299,6 +316,10 @@ main > * {
   margin-right:auto;
 }
 
+main > section {
+  display:block;
+}
+
 main.work > * {
   max-width:48rem;
 }
@@ -307,7 +328,7 @@ main.work .intro {
   border-top: 1px solid var(--accent-tint);
   max-width:var(--max-width);
   padding-top: 4rem;
-  padding-right:25rem;
+  padding-right:25%;
 }
 
 main.work > figure {
@@ -478,11 +499,7 @@ span.metric {
   grid-template-columns:repeat(3, 1fr);
   margin:4rem auto;
   
-  @media screen and (max-width: 480px) {
-    grid-template-columns:repeat(3, 1fr);
-    gap: 2rem;
-    row-gap: 1rem;
-  }
+ 
 }
 .clients div {
   margin:0;
@@ -527,6 +544,7 @@ span.metric {
   border-radius: var(--radius);
   z-index:100;
   padding:0;
+  width:1.875rem;
 }
 
 #theme-toggle:hover {
@@ -587,10 +605,7 @@ span.metric {
   left:0;
   z-index:999;
   backdrop-filter: blur(6rem);
-  
-  @media screen and (max-width: 640px) {
-    padding:1rem;
-  }
+
 }
 
 .form {
@@ -600,9 +615,7 @@ span.metric {
   border-radius: var(--radius);
   box-shadow: rgba(14, 63, 126, 0.04) 0px 0px 0px 1px, rgba(42, 51, 69, 0.04) 0px 1px 1px -0.5px, rgba(42, 51, 70, 0.04) 0px 3px 3px -1.5px, rgba(42, 51, 70, 0.04) 0px 6px 6px -3px, rgba(14, 63, 126, 0.04) 0px 12px 12px -6px, rgba(14, 63, 126, 0.04) 0px 24px 24px -12px;
 
-  @media screen and (max-width: 640px) {
-    padding:2rem;
-  }
+  
 }
 
 .form > a {
@@ -679,17 +692,38 @@ span.metric {
 /* Smaller Screens     */
 /* ------------------- */
 
+@media screen and (max-width: 480px) {
+  .clients {
+    grid-template-columns:repeat(3, 1fr);
+    gap: 2rem;
+    row-gap: 1rem;
+  }
+}
+
 @media screen and (max-width: 640px) {
 
     h1 {
       font-size: 2rem;
       margin-top: 3rem;
     }
+    h1.salutation {
+      margin: 2rem 0;
+    }
     h2 {
       font-size:1.25rem;
     }
     body {
       padding:1.75rem;
+    }
+    header {
+      display:block;
+    }
+    header > a {
+      margin-bottom:2rem;
+      display:block;
+    }
+    nav a {
+      margin:0 2rem 0 0;
     }
     .decal {
       margin: 2rem 0;
@@ -703,6 +737,16 @@ span.metric {
    .project {
     display:block;
     padding:2rem 0;
+   }
+   .project h3 {
+    font-size:1.5rem;
+   }
+   .hide-if-small {
+    display:none;
+    visibility:hidden;
+   }
+   .form {
+    padding: 2rem;
    }
 }
 

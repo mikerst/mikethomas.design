@@ -1,13 +1,14 @@
+{% set currentUrl = page.url %}
 <header>
+	<a title="Mike Thomas" href="/">
+		<span class="name">Mike Thomas</span><br/>
+		<span class="role">Product Design Lead</span><br/>
+		<span class="location">London</span>
+	</a>
 	<nav>
-		<a href="/" title="Mike Thomas">
-			<span class="name">Mike Thomas</span><br/>
-			<span class="role">Product Design Lead</span><br/>
-			<span class="location">London</span>
-		</a>
-		<button id="theme-toggle" title="Swap mode" type="button">
-			<img id="theme-icon" src="/_assets/img/icon--sun.svg" />
-		</button>
+		<a {% if currentUrl === '/' %}aria-current="page"{% endif %} title="Work" href="/">Work</a>
+		<a {% if currentUrl === '/about/' %}aria-current="page"{% endif %} title="About" href="/about">About</a>
+		<a title="Contact me via LinkedIn" href="https://www.linkedin.com/in/mikerst/" target="_blank">LinkedIn</a>
 	</nav>
 </header>
 

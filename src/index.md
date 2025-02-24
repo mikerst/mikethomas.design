@@ -7,7 +7,7 @@ layoutClass: home
 
 <section>
 <h1 class="salutation">
-    I help teams create <br/><span class="emphasis-text">thoughtful</span> digital solutions<br/> to problems that matter.
+    I help teams create <br/><span class="emphasis-text">thoughtful</span> digital solutions<br class="hide-if-small" /> to problems that matter.
 </h1>
 </section>
 
@@ -26,17 +26,7 @@ layoutClass: home
   {%- endfor -%}
 </section>
 
-## About
 
-For nearly fifteen years, I’ve combined Product, Service and Visual Design disciplines—with a side-order of front-end—to help start-ups, scale-ups and enterprises grow, level-up, and move faster.
-
-I am deeply purpose driven, and believe that good design should be an inclusive, multi-disciplinary team sport.
-
-My design stack currently includes a lot of Figma, Miro, Obsidian for writing, and ChatGPT for moving faster, although I’ll never tire of getting messy with pens and paper.
-
-Outside of work, I'm passionate about running, great coffee, and old book smells. I'm currently teaching myself how to play <a href="https://www.chess.com/member/multiplehatguy" target="_blank">chess properly</a>, targeting a half marathon pb, and am informally developing some coaching skills aimed at early-career designers and creatives.
-
-Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: mikerst@gmail.com">email</a> or find me on <a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>. 
 
 
 

@@ -325,6 +325,10 @@ main > section {
   display:block;
 }
 
+main .intro {
+  padding:4rem 0;
+}
+
 main.work > * {
   max-width:48rem;
 }

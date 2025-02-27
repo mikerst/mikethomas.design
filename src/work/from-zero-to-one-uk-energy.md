@@ -16,10 +16,6 @@ rt: 13 min read
 
 Over a six month period, I worked with Piclo's innovation lead, as well as colleagues from the wider energy industry, including UK government and Ofgem, to prototype and iterate on the vision for a new B2B SaaS product, designed to enable the trading of obligations to provide service in to various UK energy markets.
 
-<div class="notice">
-    Hey! Mike here. Sorry to interrupt. It's been fed back to me that this case study may be a little on the long side, which I agree with. I'll be republishing this in a more snackable format soon. 🙏
-</div>
-
 ### My role
 
 - Running workshops with key stakeholders,

@@ -110,6 +110,11 @@ h1.salutation .emphasis-text {
   color:var(--accent-color);
   font-family: var(--emphasis-text);
   font-style: italic;
+  margin:0;
+}
+h1.salutation div {
+  display: block;
+  margin:0;
 }
 
 .intro h1 {
@@ -716,6 +721,9 @@ span.metric {
     }
     h1.salutation {
       margin: 2rem 0;
+    }
+    h1.salutation div {
+      display:inline;
     }
     h2 {
       font-size:1.25rem;

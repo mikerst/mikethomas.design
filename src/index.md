@@ -5,7 +5,7 @@ layout: default
 layoutClass: home
 ---
 
-<section>
+<section class="intro">
     <h1 class="salutation">
         <div>I help teams create </div>
         <div><span class="emphasis-text">thoughtful</span> digital solutions</div>
@@ -27,6 +27,8 @@ layoutClass: home
       </div>
   {%- endfor -%}
 </section>
+
+
 
 
 

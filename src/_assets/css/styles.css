@@ -359,7 +359,6 @@ main.about > * {
 
 main.about .intro {
   max-width:var(--max-width);
-  padding-top: 4rem;
 }
 
 
@@ -748,7 +747,7 @@ span.metric {
       width:100%;
     }
     main .intro {
-      padding:4rem 0 0 0;
+      padding:3rem 0;
     }
    .project {
     display:block;

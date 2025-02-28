@@ -1,12 +1,13 @@
 ---
 title: Re-imagining how we made emails at TotallyMoney
-worktype: 
-- DesignOps
 intro: Improving the quality of life for team members working on new HTML email projects by centralising email design assets and simplifying the codebase.
 hero: case-study__email__hero.jpg
-thumb: case-study__email__thumb.jpg
 date: 2018-12-31
-tags:
+company: TotallyMoney
+tags: 
+theme: 
+type: Front-end design
+rt: 7 min read
 ---
 
 ## The Problem(s)

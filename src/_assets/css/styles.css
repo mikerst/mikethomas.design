@@ -474,6 +474,28 @@ main li {
   font-family: var(--display-text);
 }
 
+main section.values {
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2rem;
+  max-width:var(--max-width);
+  margin: 6rem auto;
+}
+
+.value {
+  margin:0;
+  h3 {
+    margin-bottom:1rem;
+    font-weight:600;
+    text-transform: uppercase;
+    color:var(--accent-color);
+  }
+  p {
+    margin:0;
+    color:var(--alt-text-color);
+  }
+}
+
 /* ------------------- */
 /* Misc UI             */
 /* ------------------- */

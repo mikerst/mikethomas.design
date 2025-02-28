@@ -1,12 +1,13 @@
 ---
 title: Acquisition Journey for Fluid
-worktype: 
-- UX/UI
 intro: Re-launch of the customer acquisition journey for Fluid, a credit card brand for people with lower credit scores who want to reduce interest payments on existing debt. 
 hero: case-study__fluid__hero.jpg
-thumb: case-study__fluid__thumb.jpg
 date: 2018-10-14
+company: TotallyMoney
+tags: 
 theme: 
+type: Acquisition
+rt: 5 min read
 ---
 
 

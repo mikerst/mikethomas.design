@@ -22,38 +22,8 @@ My design stack currently includes a lot of Figma, Miro, Obsidian for writing, a
 Outside of work, I'm passionate about running, great coffee, and old book smells. I'm currently teaching myself how to play <a href="https://www.chess.com/member/multiplehatguy" target="_blank">chess properly</a>, targeting a half marathon pb, and am informally developing some coaching skills aimed at early-career designers and creatives.
 
 Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: mikerst@gmail.com">email</a> or find me on <a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>. 
-<!--
-## How I like to work
-
-<section class="values">
-    <div class="value">
-        <h3>Start with impact</h3>
-        <p>Whatever the project, large or small, I always start by framing the brief or hypothesis in terms of the impact desired, finely balancing business and end-user needs.</p>
-    </div>
-    <div class="value">
-        <h3>Cover all altitudes</h3>
-        <p>Next, I like to think holistically, approaching projects from high-altitude right down to ground-level details, from strategic business value and micro interactions, to wider systemic impact.</p>
-    </div>
-    <div class="value">
-        <h3>Let empathy guide action</h3>
-        <p>I ground decision-making in end user needs, discovered via a mix qual and quant research methods to ensure the team truly understands the real humans they are designing for..</p>
-    </div>
-    <div class="value">
-        <h3>Bring the team along</h3>
-        <p>Design is a team sport, and so I always put extra effort in to bringing the team along for the ride, ensuring everyone is on the same page and well-oriented at all times.</p>
-    </div>
-    <div class="value">
-        <h3>Hold ideas lightly</h3>
-        <p>I work to create safe environments for the generation and cross-pollination of ideas from everyone on a project to cultivate a sense of shared ownership, responsibility, and diversity of thought.</p>
-    </div>
-    <div class="value">
-        <h3>Bias towards shipping</h3>
-        <p>I balance idealism and pragmatism by helping teams lean towards shipping something of value as early as possible, with one eye on further compounding value down the line.</p>
-    </div>
-</section>
 
 
--->
 ## Nice words from awesome people
 
 <blockquote cite="https://www.linkedin.com/in/mikerst/">

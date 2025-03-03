@@ -136,13 +136,20 @@ mark {
 
 
 h2 {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   font-weight: 500;
 }
 
+
 h3 {
-  font-size: 1rem;
+  font-size: 1.25rem;
   font-weight: 500;
+}
+
+hr {
+  border:0;
+  border-top:1px solid var(--accent-tint);
+  margin:0;
 }
 
 p {
@@ -403,6 +410,10 @@ main > video {
   margin-bottom: 4rem;
   margin-top: 4rem;
 }
+
+main > figure:first-of-type {
+  margin-top:0;
+}
 main li {
   margin-top:calc(var(--spacer)/2);
 }
@@ -476,23 +487,36 @@ main li {
 
 main section.values {
   display:grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  gap: 2rem;
+  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr)); 
+  gap: 4rem;
   max-width:var(--max-width);
   margin: 6rem auto;
 }
 
+
 .value {
   margin:0;
   h3 {
-    margin-bottom:1rem;
+    margin-bottom:1.125rem;
     font-weight:600;
-    text-transform: uppercase;
-    color:var(--accent-color);
+    font-size:1.25rem;
+    
   }
   p {
     margin:0;
-    color:var(--alt-text-color);
+  }
+  .value-number {
+    font-size:3rem;
+    font-weight:400;
+    font-family: var(--emphasis-text);
+    color:var(--accent-color);
+    border:1px solid var(--accent-tint);
+    border-radius:100px;
+    width:5rem;
+    height:5rem;
+    line-height:5rem;
+    display:inline-block;
+    text-align: center;
   }
 }
 

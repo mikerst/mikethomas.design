@@ -18,14 +18,14 @@ const tl = new TimelineMax();
 let observer = new IntersectionObserver(function(entries, self) {
   entries.forEach(entry => {
     if (entry.isIntersecting) {
-      let overlap = '-=0.15';
+      let overlap = '-=0.4';
       
       if (!tl.isActive()) {
         overlap = '+=0';
       }
       
       
-      tl.to(entry.target, 0.60, { autoAlpha: 1, scale: 1, y: 0, rotation: 0 }, overlap);
+      tl.to(entry.target, 0.50, { autoAlpha: 1, scale: 1, y: 0, rotation: 0 }, overlap);
 
       self.unobserve(entry.target);
     }

@@ -106,7 +106,7 @@ h1.salutation {
   margin:6rem 0;
 }
 
-h1.salutation .emphasis-text {
+.emphasis-text {
   color:var(--accent-color);
   font-family: var(--emphasis-text);
   font-style: italic;
@@ -775,7 +775,7 @@ span.metric {
       display:inline;
     }
     h2 {
-      font-size:1.25rem;
+      font-size:1.5rem;
     }
     body {
       padding:1.75rem;

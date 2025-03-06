@@ -67,7 +67,7 @@ layoutClass: home
 
 <hr/>
 
-<h2>Let's make the world<br/> better, <span class="emphasis-text">together</span></h2>
+<h2>Let's make the world better, <span class="emphasis-text">together</span></h2>
 
 Get in touch with me on <a title="Contact me via LinkedIn" href="https://www.linkedin.com/in/mikerst/" target="_blank">LinkedIn</a>, or email me at <a href="mailto:mikerst@gmail.com">mikerst@gmail.com</a>.
 

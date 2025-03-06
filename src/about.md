@@ -5,6 +5,8 @@ layout: default
 layoutClass: about
 ---
 
+
+
 <section class="intro">
     <h1 class="salutation">
         I'm a deeply purpose driven designer who believes that good design should be an inclusive, multi-disciplinary <span class="emphasis-text">team sport</span>.
@@ -130,8 +132,6 @@ Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: m
         <span>'89</span> <span>Wrote some code to make a white blob move across the screen on a Commodore 64 (Dad helped).</span>
     </li>
 </ul>
-
-
 
 
 

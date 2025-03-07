@@ -835,6 +835,15 @@ span.metric {
    .form {
     padding: 2rem;
    }
+
+   main section.values {
+    margin:3rem auto;
+    gap:2rem;
+    .value-icon {
+      width:6rem;
+      height:6rem;
+    }
+   }
 }
 
 @media screen and (min-width: 1280px) {

@@ -337,7 +337,7 @@ main .intro {
 }
 
 main.work > * {
-  max-width:48rem;
+  max-width:40rem;
 }
 
 main.work .intro {
@@ -468,6 +468,24 @@ main li {
   margin:0.5rem 0 0 0;
 }
 
+main .project-tldr {
+  display:grid;
+  max-width:var(--max-width);
+  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr)); 
+  gap: 2rem;
+  div {
+    margin:0;
+    background:#f9f9f9;
+    padding:2rem;
+    border-radius: var(--radius);
+    h3 {
+      text-transform: uppercase;
+      color: var(--accent-color);
+      font-size:1rem;
+    }
+  }
+}
+
 .read-time {
   margin:0;
   color:var(--alt-text-color);
@@ -517,6 +535,10 @@ main section.values {
     line-height:5rem;
     display:inline-block;
     text-align: center;
+  }
+  .value-icon {
+    width:8rem;
+    height:8rem;
   }
 }
 

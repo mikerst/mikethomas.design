@@ -43,7 +43,7 @@ Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: m
     <p>— <cite>Dom Hart, Senior Brand Designer</cite></p>
 </blockquote>
 
-## Organisations I've helped
+## Some organisations I've helped
 
 <div class="clients"> 
     <div>
@@ -78,6 +78,12 @@ Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: m
 ## Career
 
 <ul class="timeline">
+    <li>
+        <span>'26</span> <span>Still with <a title="EA Technology" target="_blank" href="https://eatechnology.com">EA Technology</a>, I'm now acting in a consultancy context on 0-1 initiativs.</span>
+    </li>
+    <li>
+        <span>'25</span> <span>Joined <a title="EA Technology" target="_blank" href="https://eatechnology.com">EA Technology</a> as a Principle Product Designer to help seed and improve UX maturity throughout the organisation.</span>
+    </li>
     <li>
         <span>'24</span> <span>Departed <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> after a very positive 4.5 year stint due to a company re-structure.</span>
     </li>

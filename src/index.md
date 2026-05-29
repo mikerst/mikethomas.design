@@ -30,7 +30,7 @@ layoutClass: home
 
 <hr/>
 
-<h2>How I work</h2>
+<!--<h2>How I work</h2>
 
 <section class="values">
     <div class="value stagger">
@@ -65,7 +65,7 @@ layoutClass: home
     </div>
 </section>
 
-<hr/>
+<hr/>-->
 
 <h2>Let's make the world better, <span class="emphasis-text">together</span></h2>
 

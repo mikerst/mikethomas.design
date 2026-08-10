@@ -79,7 +79,7 @@ Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: m
 
 <ul class="timeline">
     <li>
-        <span>'26</span> <span>Still with <a title="EA Technology" target="_blank" href="https://eatechnology.com">EA Technology</a>, I'm now acting in a consultancy context on 0-1 initiativs.</span>
+        <span>'26</span> <span>Still with <a title="EA Technology" target="_blank" href="https://eatechnology.com">EA Technology</a>, I'm now acting in a consultancy context on 0-1 initiatives.</span>
     </li>
     <li>
         <span>'25</span> <span>Joined <a title="EA Technology" target="_blank" href="https://eatechnology.com">EA Technology</a> as a Principle Product Designer to help seed and improve UX maturity throughout the organisation.</span>

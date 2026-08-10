@@ -23,7 +23,7 @@ layoutClass: home
     text-align: center;
 	"
 >
-	Note for hiring managers: new work examples for 2025-26 incoming soon... ❤️
+	Note for hiring managers: new case studies for 2025-26 incoming soon... ❤️
 </div>
 
 

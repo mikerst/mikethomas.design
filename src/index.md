@@ -13,7 +13,23 @@ layoutClass: home
     </h1>
 </section>
 
+<hr/>
+
+<div
+	style="
+	background:#f8f8f8;
+    padding:1.6rem;
+    border-radius: 0.8rem;
+    text-align: center;
+	"
+>
+	Note for hiring managers: new work examples for 2025-26 incoming soon... ❤️
+</div>
+
+
+
 <section class="projects">
+
   {%- for page in collections.work | reverse  | filterByTag("recent") -%}
       <div class="project stagger">
         <div class="project-thumb">

@@ -46,9 +46,7 @@ module.exports = function(config) {
   return {
     dir: {
       input: "src",
-      output: "public",
-      //includes: "",
-      data: `data/${env}`
+      output: "public"
     },
     templateFormats : ["njk", "md", "11ty.js"],
     htmlTemplateEngine : "njk",

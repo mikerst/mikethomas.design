@@ -48,7 +48,7 @@ img {
 :root {
   --bg-color:         #FFFFFF;
   --text-color:       #1d1d1d;
-  --alt-text-color:   #858585;
+  --alt-text-color:   #6b6b6b; /* 5.3:1 on white, 5:1 on --bg-tint (AA) */
   --accent-color:     #0029FF;
   --bg-tint:          color-mix(in srgb, var(--bg-color) 97%, black);
   --accent-tint:      color-mix(in srgb, var(--accent-color) 15%, white);

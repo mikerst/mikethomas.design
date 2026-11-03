@@ -33,7 +33,7 @@ UK-based energy providers and aggregators.
 The UK's electricity grid is decarbonising as part of efforts to tackle climate change and move towards a more sustainable future. Companies that could provide greener power to the grid have been stymied in their efforts in part due to entrenched complexity, a fragmented ecosystem and low interoperability. This has had the effect of slowing the rate at which decarbonisation can happen.
 
 <figure>
-    <img src="/_assets/img/problem-shot__exchange.jpg" />
+    <img alt="Two-panel comic. Left: a confused solar farm owner faces a tangle of energy market paths, captioned 'Navigating primary and secondary energy markets is complicated, proving to be a high barrier to entry, particularly for up and coming renewable generation businesses.' Right: a happier owner whose solar farm connects to many markets through a single open platform, captioned 'Could an open, interoperable SaaS platform lower barriers to entry, improving grid flexibility and accelerate the UK's ability to decarbonise?'" src="/_assets/img/problem-shot__exchange.jpg" />
     <figcaption>Could the potential for growth be improved as a consequence of cutting through complexity?</figcaption>
 </figure>
 

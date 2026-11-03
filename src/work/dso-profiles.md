@@ -48,7 +48,7 @@ This formed part of a broader wicked problem, and was raising the barrier to ent
 At Piclo, we didn't have the internal resource to take on this problem entirely, but we felt as though we could begin moving the needle.
 
 <figure>
-    <img src="/_assets/img/problem-shot__dso-profiles.jpg" />
+    <img alt="Three-panel comic. 1: in the UK there are multiple energy markets and services that energy providers can take part in. 2: taking part means dealing with many different, siloed sources of information, such as spreadsheets, PDFs, APIs and pricing data, which was becoming a major headache for some customers. 3: we wanted to help ease this pain, shown by a chart where the effort to participate rises with the number of energy markets, and a flatter line marked with a tick." src="/_assets/img/problem-shot__dso-profiles.jpg" />
     <figcaption>The broader wicked problem....brought to you by my little friend, Proxy.</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ The following evidences some of the design artefacts I produced during the proje
 - I did this immediately after starting the project just to start getting a sense for the shape it might take.
 
 <figure>
-    <img src="/_assets/img/case-study__2024__dso-profiles--early.jpg" />
+    <img alt="Early low-fidelity wireframe of an operator profile page, with a header, operator details, operating area map, key files to download, an index of other operators and a call to action. Sticky notes around it raise open questions." src="/_assets/img/case-study__2024__dso-profiles--early.jpg" />
 </figure>
 
 ### Mockup iterations
@@ -91,7 +91,7 @@ The following evidences some of the design artefacts I produced during the proje
 - These leveraged pre-existing design language I had created as part of an earlier project.
 
 <figure>
-    <img src="/_assets/img/case-study__2024__dso-profiles--mock.jpg" />
+    <img alt="Three higher-fidelity mockups of a UK Power Networks profile page on Piclo, each showing a map of the operating area, key stats, a list of documents and a footer." src="/_assets/img/case-study__2024__dso-profiles--mock.jpg" />
 </figure>
 
 ### Simple scenario map
@@ -101,7 +101,7 @@ The following evidences some of the design artefacts I produced during the proje
 - This also helped to identify what we could scope in or out early on. For example, we chose early on not to host files ourselves, but link directly to those files off-platform (something we'd later change).
 
 <figure>
-    <img src="/_assets/img/case-study__2024__dso-profiles--lean-map.jpg" />
+    <img alt="Service map for the scenario 'DSO wants to update some text content', with swimlanes for DSO actions, Piclo actions, materials and tools (a Google Doc template and Webflow) and key questions such as 'How often?' and 'What about files?'" src="/_assets/img/case-study__2024__dso-profiles--lean-map.jpg" />
 </figure>
 
 ### OOUX
@@ -111,7 +111,7 @@ The following evidences some of the design artefacts I produced during the proje
 - I opted to orient the solution around the "Operator" concept as this is typically how end-users saw things: they were offering their services to company X and wanted to find relevant information to that company.
 
 <figure>
-    <img src="/_assets/img/case-study__2024__dso-profiles--ooux.jpg" />
+    <img alt="Object map with three objects: Operator (with name, description, classification, CTA text, URL, tab content, status and dates), Post (title, date, rich content), and Region (name). Arrows link a Post to an Operator and an Operator to a Region." src="/_assets/img/case-study__2024__dso-profiles--ooux.jpg" />
 </figure>
 
 ### Final implemented solution
@@ -122,26 +122,26 @@ The following evidences some of the design artefacts I produced during the proje
 - You can see this live <a title="Operator Profiles on Piclo.energy" href="https://www.piclo.energy/profiles" target="_blank">here</a>.
 
 <figure>
-    <img src="/_assets/img/case-study__2024__dso-profiles--shot001.jpg" />
+    <img alt="Live System Operator Profiles directory page on Piclo, showing a grid of operator logo cards including Citipower, E-Distribuzione, E-REDES, ESB Networks, Electricity North West, Eversource, NESO and National Grid." src="/_assets/img/case-study__2024__dso-profiles--shot001.jpg" />
 </figure>
 
 <figure>
-    <img src="/_assets/img/case-study__2024__dso-profiles--shot002.jpg" />
+    <img alt="Live profile page for National Grid Electricity Distribution, with tabs for status, documentation, timetable, contact details and FAQ, a stats banner showing competitions, capacity sought and market opportunity, and a news notice." src="/_assets/img/case-study__2024__dso-profiles--shot002.jpg" />
 </figure>
 
 <figure>
-    <img src="/_assets/img/case-study__2024__dso-profiles--shot003.jpg" />
+    <img alt="Timetable tab of the National Grid Electricity Distribution profile, showing a week-ahead trade window calendar with bidding windows and decision days across Monday to Sunday." src="/_assets/img/case-study__2024__dso-profiles--shot003.jpg" />
 </figure>
 
 <figure>
-    <img src="/_assets/img/case-study__2024__dso-profiles--shot004.jpg" />
+    <img alt="Live profile page for E-Distribuzione, localised in Italian, showing a consultation notice on its Status tab." src="/_assets/img/case-study__2024__dso-profiles--shot004.jpg" />
 </figure>
 
 ### Onboarding guide
 - Prior to shipping, I wanted to ensure alignement with all key stakeholders, so I put this brief guide together which I was able to use to walk external and internal colleagues through.
 
 <figure>
-    <img src="/_assets/img/case-study__2024__dso-profiles--onboard.jpg" />
+    <img alt="Ten slides from the deck 'DNO/DSO Profiles on Piclo: what they are and how they work', covering what profiles are, why they are useful, annotated screenshots, service expectations and next steps." src="/_assets/img/case-study__2024__dso-profiles--onboard.jpg" />
     <figcaption>Slides produce to help onboard internal and external stakeholders.</figcaption>
 </figure>
 
@@ -150,7 +150,7 @@ The following evidences some of the design artefacts I produced during the proje
 - This wasn't strictly necessary, but helped reduce the need for technical input.
 
 <figure>
-    <img src="/_assets/img/case-study__2024__dso-profiles--guide.jpg" />
+    <img alt="Pages from a document titled 'Marking up content for use on Piclo.energy', explaining how to format text, headings, lists and images for Webflow, with example screenshots." src="/_assets/img/case-study__2024__dso-profiles--guide.jpg" />
 </figure>
 
 

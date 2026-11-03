@@ -15,19 +15,6 @@ layoutClass: home
 
 <hr/>
 
-<div
-	style="
-	background:#f8f8f8;
-    padding:1.6rem;
-    border-radius: 0.8rem;
-    text-align: center;
-	"
->
-	Note for hiring managers: new case studies for 2025-26 incoming soon... ❤️
-</div>
-
-
-
 <section class="projects">
 
   {%- for page in collections.work | reverse  | filterByTag("recent") -%}

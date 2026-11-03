@@ -39,7 +39,7 @@ This hard requirement acted as a catalyst to our desire to find out, see where w
 When considering this work initially, the team hadn't yet been fully formed, and so I chose to start by noting all of the questions I had.
 
 <figure>
-    <img src="/_assets/img/case-study__2024__a11y--questions.jpg" />
+    <img alt="Sticky notes on a Miro board grouped into four clusters: Defining scope, Measuring, Thinking strategically, and Organising. Each is surrounded by questions such as 'What are the WCAG 2.1 guidelines?' and 'How will we prioritise what to do first?'" src="/_assets/img/case-study__2024__a11y--questions.jpg" />
     <figcaption>Initial brain-dump of questions.</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ From the above, I was able to work with incoming colleagues to arrive at the fol
 We'd spend a short period (not to scale below) figuring some things out based up initial questions, then we'd move in to a phase where we'd be both auditing and delivering solutions in parallel.
 
 <figure>
-    <img src="/_assets/img/case-study__2024__a11y--plan.jpg" />
+    <img alt="Timeline split into Discovery and Delivery tracks. Discovery: 1, build initial knowledge and expertise; 2, evaluate tools and testing methods; 3, audit the application and gather evidence. Delivery overlaps the audit: 4, prioritising, sequencing and executing the work." src="/_assets/img/case-study__2024__a11y--plan.jpg" />
     <figcaption>Thinking in dual tracks helped to unlock speed and efficiency.</figcaption>
 </figure>
 
@@ -77,21 +77,21 @@ This also proved to be a great resource to help onboard colleagues who joined th
 The following details some key things I included to help us stay organised.
 
 <figure>
-    <img src="/_assets/img/case-study__2024__a11y--check.jpg" />
+    <img alt="Google Sheet audit checklist listing each page URL with columns for customer type and pass or fail results from Lighthouse, Axe, WAVE, keyboard and screen reader tests. Annotations highlight 'Who is affected?' and 'Link to scoped tickets'." src="/_assets/img/case-study__2024__a11y--check.jpg" />
     <figcaption>Keeping track of what we've tested, how, and cross-referencing with related issues.</figcaption>
 </figure>
 
 This resource evolved over time as our process improved and we added more tooling and built our own knowledge.
 
 <figure>
-    <img src="/_assets/img/case-study__2024__a11y--issues.jpg" />
+    <img alt="Google Sheet issue log listing each accessibility issue by view, with columns for nature of issue, scope and detection method. Annotations highlight 'Succinct issue description', 'Scope/impact of the issue' and 'Do we need more discovery?'" src="/_assets/img/case-study__2024__a11y--issues.jpg" />
     <figcaption>Triaging issues for every digital touchpoint (with a unique URL) and deciding what to do next.</figcaption>
 </figure>
 
 I also included a transcription of important WCAG 2.1 guidelines that were relevant to us, so colleagues could remain within the sheet when referencing things if needed.
 
 <figure>
-    <img src="/_assets/img/case-study__2024__a11y--guide.jpg" />
+    <img alt="Google Sheet tab transcribing WCAG 2.1 AA success criteria, starting with 1.1.1 Non-text Content, next to an empty column annotated 'Space to write up how we intend to test'." src="/_assets/img/case-study__2024__a11y--guide.jpg" />
     <figcaption>This also allowed us to document how we intended to test for each section.</figcaption>
 </figure>
 
@@ -103,7 +103,7 @@ As you can see from the empty cell highlighted above, this last sheet wasn't ent
 We used Miro as a place to gather visual evidence accumulated during our audit. I chose to create repeatable ideation canvases we could 'fill in te blanks' on to smoothly move through each issue consistently.
 
 <figure>
-    <img src="/_assets/img/case-study__2024__a11y--audit1.jpg" />
+    <img alt="Miro audit canvas with four areas: screenshots of a login journey on phone, tablet and desktop; an audit space holding Lighthouse, Axe and WAVE reports; sticky notes of issues discovered; and a prioritisation matrix." src="/_assets/img/case-study__2024__a11y--audit1.jpg" />
     <figcaption>Auditing journeys, identifying issues and prioritising.</figcaption>
 </figure>
 
@@ -114,7 +114,7 @@ Secondly, I created a lower-level version that helped us focus on individual iss
 My aim was to make it as easy as possible for the team to fly through the work as smoothly as possible, with a good baseline of thought and time being afforded to each issue discovered.
 
 <figure>
-    <img src="/_assets/img/case-study__2024__a11y--audit2.jpg" />
+    <img alt="Miro canvas for a single issue, 'No page regions are defined', with sections for evidence from WAVE and Axe, a proposed solution annotated on a login screen wireframe, open questions, and a link to the relevant WCAG criterion." src="/_assets/img/case-study__2024__a11y--audit2.jpg" />
     <figcaption>Drilling down in to specific issues.</figcaption>
 </figure>
 
@@ -125,24 +125,24 @@ Towards the end of the project, we had built high confidence in our domain knowl
 To aid this process, I created a serious of slides that walked teams through everything we had learned. 
 
 <figure>
-    <img src="/_assets/img/case-study__2024__a11y--guide1.jpg" />
+    <img alt="Slides from an A11y Guide deck for Piclo, with the 'What is accessibility / a11y?' slide circled. It explains that accessibility means making services usable by the widest possible audience, and that accessibility is broader than disability." src="/_assets/img/case-study__2024__a11y--guide1.jpg" />
     <figcaption>Assuming no prior knowledge, getting everyone aligned from the outset.</figcaption>
 </figure>
 
 <figure>
-    <img src="/_assets/img/case-study__2024__a11y--guide2.jpg" />
+    <img alt="Slides titled 'Standards we are aiming for' and 'When to think about a11y'. The second maps accessibility questions onto each stage of the Double Diamond: Discover, Define, Develop and Deliver." src="/_assets/img/case-study__2024__a11y--guide2.jpg" />
     <figcaption>Discussing standards and highlighting where and how we might think about accessibility.</figcaption>
 </figure>
 
 <figure>
-    <img src="/_assets/img/case-study__2024__a11y--guide3.jpg" />
+    <img alt="Slide titled 'Holistic AC for a new View' listing accessibility acceptance criteria, including a Lighthouse accessibility score of 100, zero WAVE and Axe errors, full keyboard access, logical tab order, landmark regions and visible focus states." src="/_assets/img/case-study__2024__a11y--guide3.jpg" />
     <figcaption>Setting a clear standard with acceptance criteria for product teams to use when working on new features.</figcaption>
 </figure>
 
 Lastly, I needed to write-up an accessibility statement. I conducted a short analysis of what other businesses were doing in this space to identify good practice and align with our own business needs. The latest version of his can be seen live <a title="Piclo's A11y Statement" href="https://www.piclo.energy/accessibility" target="_blank">here</a>.
 
 <figure>
-    <img src="/_assets/img/case-study__2024__a11y--statement.jpg" />
+    <img alt="Zoomed-out Miro board comparing accessibility statements from several other organisations side by side, with annotated sticky notes and a summary column of takeaways." src="/_assets/img/case-study__2024__a11y--statement.jpg" />
     <figcaption>One-size fits one. Identifying good practice for writing an accessibility statement.</figcaption>
 </figure>
 

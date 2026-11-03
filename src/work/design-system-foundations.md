@@ -64,7 +64,7 @@ I spent time with design, engineering and product colleagues initially, to try a
 It also felt important to consider the commonality of issues more generally — it seemed important to highlight that all teams were suffering to some degree. 
 
 <figure>
-    <img src="/_assets/img/case-study__2024__ds--evidence.jpg" />
+    <img alt="Five typical colleague questions, each tagged with a theme: 'When should I use a navy button?' (UI design), 'How do I implement this modal flow correctly?' (technical best practice), 'What options do I have to best display complex tabular information?' (data visualisation and content), 'Why should I use a branded image for a LinkedIn post?' (brand and marketing), and 'Where should this feature live and how will customers find it?' (IA and navigation)." src="/_assets/img/case-study__2024__ds--evidence.jpg" />
     <figcaption>Typical questions colleagues would have during a given work cycle, with some simple theming.</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ I chose to address this by illustrating two simple, but important ideas:
 2. However, by being selective with what we tackle first, we can reduce this short term pain to a minimum.
 
 <figure>
-    <img src="/_assets/img/case-study__2024__ds--efficiency.jpg" />
+    <img alt="Two charts. Left: productivity over time and scale, where the line with a design system dips at first and then rises above the line without one, with the dip labelled 'How long will this take?'. Right: scope widening from a UI and pattern library with simple documentation now, to brand, UX copy, physical media, full docs and analytics from 2024 onwards." src="/_assets/img/case-study__2024__ds--efficiency.jpg" />
     <figcaption>It takes upfront effort, and a potential productivity drain in the early days, but can pay dividends down the line. This can be alleviated by keeping this focussed initially, targeting quick wins.</figcaption>
 </figure>
 
@@ -100,33 +100,33 @@ You know a whole bunch of useful stuff exists below the surface, so you have to 
 So, with fedora, whip (and spade) at the ready, I began putting together a scalable UI library for our growing design team to use.
 
 <figure>
-    <img src="/_assets/img/case-study__2024__ds--consolidation.jpg" />
+    <img alt="Sketch, Storybook and GitHub logos joined by a wavy line labelled 'Consolidating to Figma' to the Figma logo." src="/_assets/img/case-study__2024__ds--consolidation.jpg" />
     <figcaption>The overall goal at this stage was to consolidate what we had in to Figma.</figcaption>
 </figure>
 
 
 <figure>
-    <img src="/_assets/img/case-study__2024__ds--nav.jpg" />
+    <img alt="Side navigation component broken down into atoms (single nav items in default, selected and hover states), molecules (a stack of icon-and-label items such as Map, Exchange, Manage and Settings) and organisms (the complete dark navy sidebar)." src="/_assets/img/case-study__2024__ds--nav.jpg" />
     <figcaption>Reverse engineering navigation elements from Storybook and Sketch in to Figma.</figcaption>
 </figure>
 
 <figure>
-    <img src="/_assets/img/case-study__2024__ds--table.jpg" />
+    <img alt="Figma page of table components showing cell backgrounds and borders, cell content variants such as text, radio buttons, buttons and status pills, border combinations, and example tables assembled from them." src="/_assets/img/case-study__2024__ds--table.jpg" />
     <figcaption>Constructing flexible table componentry.</figcaption>
 </figure>
 
 <figure>
-    <img src="/_assets/img/case-study__2024__ds--sidenav.jpg" />
+    <img alt="Sidebar panel component shown as separate variants (list items with checkmarks and status tags, and two-line items with secondary copy) alongside the assembled dark navy sidebar." src="/_assets/img/case-study__2024__ds--sidenav.jpg" />
     <figcaption>Re-creating a side-bar component.</figcaption>
 </figure>
 
 <figure>
-    <img src="/_assets/img/case-study__2024__ds--v1.jpg" />
+    <img alt="Zoomed-out Figma page titled 'Piclo UI Components' with frames for typography, navigation, tables, forms, buttons, badges, modals and layouts." src="/_assets/img/case-study__2024__ds--v1.jpg" />
     <figcaption>Zooming out, the first version of the UI library I created.</figcaption>
 </figure>
 
 <figure>
-    <img src="/_assets/img/case-study__2024__ds--uisample.jpg" />
+    <img alt="Mockup labelled 'Assembled in less than a few minutes' of a 'Submit bid' screen for a Capacity Market Agreement, with a dark sidebar of agreement details and a form for associated CMU and bid parameters." src="/_assets/img/case-study__2024__ds--uisample.jpg" />
     <figcaption>The UI library enabled new application views such as this to be assembled and prototyped in minutes.</figcaption>
 </figure>
 
@@ -140,26 +140,26 @@ By thinking of a design system as a product in and of itself, you can apply typi
 To get the ball rolling, I chose to focus initially on _naming_ our design system. I ran a company-wide naming contest as a way to get everyone involved right from the start and to create a sense of co-ownership. 
 
 <figure>
-    <img src="/_assets/img/case-study__2024__ds--naming.jpg" />
+    <img alt="Three Miro boards from the naming contest: Round 1, a voting gallery of name ideas covered in star votes; Round 2, finding a third finalist; and the Finale, comparing Spark, Flux and Fuse with logo concepts and votes." src="/_assets/img/case-study__2024__ds--naming.jpg" />
     <figcaption>Company-wide remote voting on what naming ideas we should take forward, eventually whittled down to three candidates.</figcaption>
 </figure>
 
 Next, I started centralising and publishing knowledge to the wider team, along with cross-pollinating this to other locations. Working with engineering colleagues, I was able to identify the most used components in our codebase so we leverage this data when making decisions about what to document first.
 
 <figure>
-    <img src="/_assets/img/case-study__2024__ds--docs.jpg" />
+    <img alt="Google Doc titled 'Component Guide: Spark, Design System by Piclo', with an intro, key terminology, and a tab outline covering contributing, microcopy and components." src="/_assets/img/case-study__2024__ds--docs.jpg" />
     <figcaption>Component guidance was originally written out in a Google Doc to make collaboration as simple as possible.</figcaption>
 </figure>
 
 <figure>
-    <img src="/_assets/img/case-study__2024__ds--storybook.jpg" />
+    <img alt="Storybook site for the Spark design system showing Data Grid documentation, with 'When to use', 'How to use' and 'Things to consider' sections next to a component tree." src="/_assets/img/case-study__2024__ds--storybook.jpg" />
     <figcaption>Finalised content was then incorporated back in to Storybook with usage examples.</figcaption>
 </figure>
 
 A key artefact I also chose to consider initially was to standardise a process for other product teams to use when _deciding when to create a new pattern_. This was done to reduce the risk of redundant work or accidentally having two teams try to solve the same problem. Ultimately, this was also done to help anyone know how best to contribute something
 
 <figure>
-    <img src="/_assets/img/case-study__2024__ds--contribution.jpg" />
+    <img alt="Flowchart starting at 'New pattern'. It asks whether something similar already exists in the design system, whether it meets all requirements, and whether it can be extended or generalised for other teams, leading to 'Use it', 'Propose changes', 'Override existing pattern', 'Propose new pattern' or 'Build a one-off component'." src="/_assets/img/case-study__2024__ds--contribution.jpg" />
     <figcaption>Graphic detailing a short flow to help teams decided how and when to contribute to the design system.</figcaption>
 </figure>
 
@@ -175,7 +175,7 @@ The output of these conversations were collated in Miro, where I ran a short exe
 After some simple ideation, estimating and prioritising, we landed on improving our data table UI, which I will detail in a separate case study.
 
 <figure>
-    <img src="/_assets/img/case-study__2024__ds--discovery.jpg" />
+    <img alt="Miro board for a remote workshop with areas for scene setting, a problem space and solution space full of sticky notes from simple ideation, a prioritisation matrix, and output and actions." src="/_assets/img/case-study__2024__ds--discovery.jpg" />
     <figcaption>Remote discovery session I ran to establish pain points and consider some immediate low-hanging solutions.</figcaption>
 </figure>
 

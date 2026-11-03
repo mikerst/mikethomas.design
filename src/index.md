@@ -13,7 +13,6 @@ layoutClass: home
     </h1>
 </section>
 
-<hr/>
 
 <section class="projects">
 

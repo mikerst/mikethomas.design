@@ -43,3 +43,6 @@ Netlify builds with Node 24 (`netlify.toml`). On macOS, Node comes from Homebrew
 
 - Accessibility matters here (the portfolio includes an accessibility case study). Every content `<img>` needs meaningful `alt` text; when a figure has a `<figcaption>`, the alt describes the image rather than repeating the caption. Text colours must meet WCAG AA contrast.
 - Work happens on year-named branches (e.g. `2027`); `master` is the main branch. Netlify deploys only pushes to `master`, so pushing a working branch doesn't publish anything or run a Netlify build.
+
+
+

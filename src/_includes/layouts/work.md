@@ -15,7 +15,7 @@ templateEngineOverride: njk, md
 
  {% if hero %}
   <figure>
-    <img alt="{{ heroAlt or '' }}" src="/_assets/img/{{ hero }}" />
+    <img alt="{{ heroAlt or '' }}" src="/_assets/img/{{ hero }}" loading="eager" fetchpriority="high" />
   </figure>
   {% endif %}
 

@@ -135,7 +135,7 @@ Why?
 - This also allowed us to start spinning off some early thinking about product terminology, information architecture and lining that up with patterns from our exiting design system. This also served to help engineering colleagues begin planning a bit ahead of time should we proceed to build an MVP.
 
 <figure>
-    <img alt="An animated gif showing 5 stages of early prototype development at a high-level" src="/_assets/img/case-study__2024__exchange--iterations.gif" />
+    <img eleventy:ignore alt="An animated gif showing 5 stages of early prototype development at a high-level" src="/_assets/img/case-study__2024__exchange--iterations.gif" />
 </figure>
 
 Zooming in a bit, I was able to leverage our existing component library to produce a mix of low to mid fidelity mockups. Within each prototype iteration we could vary the fidelity depending on our objectives (different audiences could provide feedback in different ways).

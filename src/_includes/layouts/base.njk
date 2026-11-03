@@ -2,6 +2,7 @@
 <html {% if theme %}theme="{{ theme }}"{% endif %} lang="en">
 <head>
 	<meta charset="UTF-8">
+	<script>document.documentElement.classList.add('js')</script>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Zero-to-one projects, design systems, accessibility, growing design teams, and solving gnarly problems.">
 	<meta name="theme-color" content="#010101">
@@ -30,8 +31,6 @@
   </main>
   
   {% include "footer.njk" %}
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"></script>
 
   {% set js %}
     {% include "js/core.js" %}

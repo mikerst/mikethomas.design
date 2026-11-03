@@ -19,7 +19,7 @@ layoutClass: home
   {%- for page in collections.work | reverse  | filterByTag("recent") -%}
       <div class="project stagger">
         <div class="project-thumb">
-          <a title="{{ page.data.title }}" href="{{ page.url }}"><img alt="{{ page.data.title }}" src="/_assets/img/{{page.data.hero}}"/></a>
+          <a title="{{ page.data.title }}" href="{{ page.url }}"><img alt="{{ page.data.title }}" src="/_assets/img/{{page.data.hero}}" sizes="(min-width: 641px) 50vw, 100vw" /></a>
         </div>
         <div class="project-details">
           <span class="project-type">{{ page.data.type }}</span>

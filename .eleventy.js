@@ -1,4 +1,22 @@
+const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
+
 module.exports = function(config) {
+
+  // Optimise every <img> in the built HTML: AVIF/WebP at two widths, with the
+  // original format as fallback, plus lazy loading and width/height to avoid
+  // layout shift. Add `eleventy:ignore` to an <img> to skip it (e.g. GIFs).
+  // Attributes set in the template (e.g. sizes, loading) win over these defaults.
+  config.addPlugin(eleventyImageTransformPlugin, {
+    formats: ["avif", "webp", "auto"],
+    widths: [800, 1600],
+    htmlOptions: {
+      imgAttributes: {
+        loading: "lazy",
+        decoding: "async",
+        sizes: "(min-width: 1600px) 1440px, 100vw",
+      },
+    },
+  });
 
   config.setServerOptions({
     liveReload: false,

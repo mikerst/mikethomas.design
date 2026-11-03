@@ -2,7 +2,7 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-Personal portfolio site for Mike Thomas (mikethomas.design), built with Eleventy 2 and deployed on Netlify.
+Personal portfolio site for Mike Thomas (mikethomas.design), built with Eleventy 3 and deployed on Netlify.
 
 ## Commands
 

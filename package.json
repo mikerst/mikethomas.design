@@ -16,15 +16,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^2.0.3",
-    "autoprefixer": "^10.4.19",
-    "axios": "^1.7.2",
-    "cssnano": "^7.0.2",
-    "dotenv": "^8.0.0",
-    "html-minifier": "^4.0.0",
-    "luxon": "^1.16.0",
-    "terser": "^4.3.9",
-    "xml2js": "^0.6.2"
+    "terser": "^4.3.9"
   },
   "devDependencies": {
     "cross-env": "5.2.0"

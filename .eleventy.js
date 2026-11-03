@@ -11,9 +11,6 @@ module.exports = function(config) {
   // Layout aliases can make templates more portable
   config.addLayoutAlias('default', 'layouts/base.njk');
 
-  // Add some utility filters
-  config.addFilter("dateDisplay", require("./src/_assets/utils/date.js") );
-
   // Allows things like tag merging
   config.setDataDeepMerge(true);
 

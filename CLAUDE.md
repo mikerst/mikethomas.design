@@ -29,15 +29,15 @@ Netlify builds with Node 24 (`netlify.toml`). On macOS, Node comes from Homebrew
 
 **Layout chain.** `layouts/base.njk` (aliased as `default`) includes `header.njk`, `meta.njk` (Open Graph tags) and `footer.njk`. `layoutClass` front matter becomes the `<main>` class (`home`, `about`, `work`), and the CSS uses it for per-page widths.
 
-**Global data.** `src/_data/site.js` provides `site.rootUrl`, which the sitemap uses. `environment` (from `ELEVENTY_ENV`) is also global.
+**Global data.** `src/_data/site.js` provides `site.rootUrl`, which the sitemap uses.
 
 **JS.** No bundler. `src/_includes/js/*.js` are included into `base.njk` and inlined through the `jsmin` filter (Terser). `home.js` uses GSAP 2 (TweenMax from cdnjs) to animate any element with the `.stagger` class. The CSS sets `.stagger` to `opacity: 0`, so those elements only become visible once that script runs.
 
-**CSS.** A single file, `src/_assets/css/styles.css`, copied through as-is (no PostCSS or minification) and using native CSS nesting. Design tokens are custom properties on `:root`. Fonts (Manrope, Inter, Libre Baskerville) come from Google Fonts. Dark-mode styles target `body.dark`, but nothing applies that class (templates set a `theme` attribute on `<html>` instead), so dark mode is currently inactive.
+**CSS.** A single file, `src/_assets/css/styles.css`, copied through as-is (no PostCSS or minification) and using native CSS nesting. Design tokens are custom properties on `:root`. Fonts (Manrope, Inter, Libre Baskerville) come from Google Fonts. Dark-mode styles target `body.dark`, but nothing applies that class (templates set a `theme` attribute on `<html>` from `theme:` front matter instead), and the `#theme-toggle` and `.icon--sun`/`.icon--moon` styles have no markup or SVG files. Dark mode is unfinished; the owner has chosen to keep this code for later, so don't remove it as dead code.
 
 **Assets.** `src/_assets/{img,css,mov,files}` are copied through unprocessed (no image pipeline). Images are referenced by absolute path `/_assets/img/<name>`. Naming convention: `case-study__<year>__<project>--<detail>.jpg`. The CV PDF linked in `header.njk` lives in `src/_assets/files/` and is versioned by filename, so update the header link when adding a new CV.
 
-**Dead code.** `password.njk` is no longer included anywhere (password protection was removed). The `protected` tag on some case studies is a leftover with no effect. Treat these as removable rather than as patterns to follow.
+**Archive-only styles.** Some CSS (`.project-tldr`, `video`, `figcaption`) is only used by the unpublished archive pages. Keep it so those pages render correctly if republished.
 
 ## Conventions
 

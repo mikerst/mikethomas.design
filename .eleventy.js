@@ -4,15 +4,8 @@ module.exports = function(config) {
     liveReload: false,
   });
 
-  // A useful way to reference the context we are running eleventy in
-  let env = process.env.ELEVENTY_ENV;
-  config.addGlobalData("environment", env);
-
   // Layout aliases can make templates more portable
   config.addLayoutAlias('default', 'layouts/base.njk');
-
-  // Allows things like tag merging
-  config.setDataDeepMerge(true);
 
   config.setWatchThrottleWaitTime(100);
 
@@ -47,8 +40,7 @@ module.exports = function(config) {
     },
     templateFormats : ["njk", "md", "11ty.js"],
     htmlTemplateEngine : "njk",
-    markdownTemplateEngine : "njk",
-    passthroughFileCopy: true
+    markdownTemplateEngine : "njk"
   };
 
 };

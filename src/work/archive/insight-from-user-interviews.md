@@ -4,7 +4,6 @@ hero: case-study__2024__exchange.jpg
 date: 2024-07-01
 company: Open Utility Ltd
 tags: 
-- protected
 theme: 
 type: User Research
 rt: 4 min read

@@ -5,7 +5,6 @@ hero: case-study__2024__design-systems.jpg
 date: 2024-09-01
 company: Open Utility Ltd
 tags: 
-- protected
 - recent
 theme:
 type: Design Systems

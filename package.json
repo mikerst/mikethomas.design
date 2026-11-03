@@ -6,9 +6,8 @@
   "license": "MIT",
   "scripts": {
     "start": "npm run dev",
-    "dev": "cross-env ELEVENTY_ENV=dev eleventy --serve",
-    "build": "cross-env ELEVENTY_ENV=prod eleventy",
-    "seed": "cross-env ELEVENTY_ENV=seed eleventy"
+    "dev": "eleventy --serve",
+    "build": "eleventy"
   },
   "repository": {
     "type": "git",
@@ -17,8 +16,5 @@
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
     "terser": "^4.3.9"
-  },
-  "devDependencies": {
-    "cross-env": "5.2.0"
   }
 }

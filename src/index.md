@@ -33,43 +33,6 @@ layoutClass: home
 
 <hr/>
 
-<!--<h2>How I work</h2>
-
-<section class="values">
-    <div class="value stagger">
-        <img class="value-icon" src="/_assets/img/icon--impact.svg" />
-        <h3>1: Start with impact</h3>
-        <p>Whatever the initiative, large or small, I start by focussing on identifying and articulating what impact the work needs to have to be considered a success.</p>
-    </div>
-    <div class="value stagger">
-        <img class="value-icon" src="/_assets/img/icon--altitude.svg" />
-        <h3>2: Work the altitudes</h3>
-        <p>I ensure initiatives are understood from high-altitude right down to ground-level details, from strategic business value down to micro interactions, and to wider systemic impact.</p>
-    </div>
-    <div class="value stagger">
-        <img class="value-icon" src="/_assets/img/icon--empathy.svg" />
-        <h3>3: Let empathy inform action</h3>
-        <p>I ground key decision-making moments in a clear understanding of end-user needs, discovered via a mix of qual and quant research methods.</p>
-    </div>
-    <div class="value stagger">
-        <img class="value-icon" src="/_assets/img/icon--team.svg" />
-        <h3>4: Put the team first</h3>
-        <p>Designing great products is a team sport. I ensuring everyone on the team is on the same page at all times, included from the start, and empowered to contribute.</p>
-    </div>
-    <div class="value stagger">
-        <img class="value-icon" src="/_assets/img/icon--adapt.svg" />
-        <h3>5: Remain adaptable</h3>
-        <p>I purposefully maintain a flexible mindset to be able to leverage new ideas, insight, tools or processes as they come to light. </p>
-    </div>
-    <div class="value stagger">
-        <img class="value-icon" src="/_assets/img/icon--release.svg" />
-        <h3>6: Bias towards shipping</h3>
-        <p>I balance idealism and pragmatism by helping teams trend towards shipping something of value as early as possible, with one eye on further compounding value down the line.</p>
-    </div>
-</section>
-
-<hr/>-->
-
 <h2>Let's make the world better, <span class="emphasis-text">together</span></h2>
 
 Get in touch with me on <a title="Contact me via LinkedIn" href="https://www.linkedin.com/in/mikerst/" target="_blank">LinkedIn</a>, or email me at <a href="mailto:mikerst@gmail.com">mikerst@gmail.com</a>.

@@ -13,15 +13,15 @@ rt: 7 min read
 
 ## Summary
 
-Across several project phases, I worked to create a foundational set of resources upon which Piclo could grow a practical and efficient design system, created to empower internal teams to work more efficiently, more consistently, and to a higher degree of quality. 
+Across several project phases, I worked to create a foundational set of resources upon which Piclo could grow a practical and efficient design system, created to help internal teams work more efficiently, more consistently, and to a higher degree of quality. 
 
 ### Business goals
 
 - Improve consistency of end-user experience
 - Improve team productivity
-- Unlock new value-add for end-users
+- Give end-users capabilities they didn't have before
 
-### Key design challenges
+### Design challenges
 
 - Seeking buy-in and communicating the business case.
 - Excavating and cataloguing existing UX resources.
@@ -39,7 +39,7 @@ Across several project phases, I worked to create a foundational set of resource
 
 ## Problem space
 
-Piclo didn't yet have a formal design system. It's flagship app, Piclo Flex, was crafted by a small team working in close collaboration. However the business was expanding, and now had multiple product teams working on adding new features and improving existing ones simultaneously.
+Piclo didn't yet have a formal design system. Its flagship app, Piclo Flex, was crafted by a small team working in close collaboration. However the business was expanding, and now had multiple product teams working on adding new features and improving existing ones simultaneously.
 
 This created several challenges:
 
@@ -51,9 +51,9 @@ It was decided that the moment had arrived to begin addressing the above.
 
 ## Seeking buy-in and communicating the business case
 
-If any business is going to spend time fleshing out a design system, the moment needs to be right. For Piclo, that moment had come, and despite instinctively knowing that maturing our design system would be valuable, I felt it important to consider two key things:
+If any business is going to spend time fleshing out a design system, the moment needs to be right. For Piclo, that moment had come, and despite instinctively knowing that maturing our design system would be valuable, I felt it important to consider two things:
 
-1. **Evidence of need:** we wanted to ground our work in actual end-user needs, in this case, colleagues. Doing so would help identify where common pain points lived and where to prioritise initial actions. It also helped to better understand the _cost of inaction_ if we choose to do nothing.
+1. **Evidence of need:** we wanted to ground our work in actual end-user needs, in this case, colleagues. Doing so would help identify where common pain points lived and where to prioritise initial actions. It also helped to better understand the _cost of inaction_ if we chose to do nothing.
 2. **Understanding the impact:** what might the impact on the team be should we choose to work on our design system now? How might this impact other work?
 
 ### Evidence of need
@@ -71,7 +71,7 @@ It also felt important to consider the commonality of issues more generally — 
 
 With some simple but strong evidence to hand, we had validated that action was needed, but when might we begin to see the benefits? 
 
-Measuring this precisely is useful, but could take longer. I therefore opted to arrive at a  general ballpark that could be communicated more quickly.
+Measuring this precisely is useful, but could take longer. I therefore opted to arrive at a general ballpark that could be communicated more quickly.
 
 I chose to address this by illustrating two simple, but important ideas:
 
@@ -83,16 +83,16 @@ I chose to address this by illustrating two simple, but important ideas:
     <figcaption>It takes upfront effort, and a potential productivity drain in the early days, but can pay dividends down the line. This can be alleviated by keeping this focussed initially, targeting quick wins.</figcaption>
 </figure>
 
-Using these ideas, and leveraging the evidence already gathered, I put together a business case deck to communicate everything with other stakeholders. 
+Using these ideas, and the evidence already gathered, I put together a business case deck to communicate everything with other stakeholders. 
 
-Ultimately decided that we would move forward with some quick wins.
+Ultimately, we decided that we would move forward with some quick wins.
 
 
-## Excavating and cataloging existing UX resources
+## Excavating and cataloguing existing UX resources
 
 At Piclo, we didn't yet have a dedicated UI library in a designer-friendly context i.e. that could be used in mockups, prototypes or product design situations. Early app design work had been done in Sketch, yet the team had subsequently moved to Figma. The source of truth for our UI was best expressed in Storybook, yet was undocumented.
 
-Anecdotally, laying design system foundations is a little bit like archeology. 
+In my experience, laying design system foundations is a little bit like archaeology. 
 
 You know a whole bunch of useful stuff exists below the surface, so you have to carefully excavate and catalogue what is there.
 
@@ -100,13 +100,13 @@ So, with fedora, whip (and spade) at the ready, I began putting together a scala
 
 <figure>
     <img alt="Sketch, Storybook and GitHub logos joined by a wavy line labelled 'Consolidating to Figma' to the Figma logo." src="/_assets/img/case-study__2024__ds--consolidation.jpg" />
-    <figcaption>The overall goal at this stage was to consolidate what we had in to Figma.</figcaption>
+    <figcaption>The overall goal at this stage was to consolidate what we had into Figma.</figcaption>
 </figure>
 
 
 <figure>
     <img alt="Side navigation component broken down into atoms (single nav items in default, selected and hover states), molecules (a stack of icon-and-label items such as Map, Exchange, Manage and Settings) and organisms (the complete dark navy sidebar)." src="/_assets/img/case-study__2024__ds--nav.jpg" />
-    <figcaption>Reverse engineering navigation elements from Storybook and Sketch in to Figma.</figcaption>
+    <figcaption>Reverse engineering navigation elements from Storybook and Sketch into Figma.</figcaption>
 </figure>
 
 <figure>
@@ -143,7 +143,7 @@ To get the ball rolling, I chose to focus initially on _naming_ our design sys
     <figcaption>Company-wide remote voting on what naming ideas we should take forward, eventually whittled down to three candidates.</figcaption>
 </figure>
 
-Next, I started centralising and publishing knowledge to the wider team, along with cross-pollinating this to other locations. Working with engineering colleagues, I was able to identify the most used components in our codebase so we leverage this data when making decisions about what to document first.
+Next, I started centralising and publishing knowledge to the wider team, and sharing it in other places. Working with engineering colleagues, I was able to identify the most used components in our codebase so we could use this data when making decisions about what to document first.
 
 <figure>
     <img alt="Google Doc titled 'Component Guide: Spark, Design System by Piclo', with an intro, key terminology, and a tab outline covering contributing, microcopy and components." src="/_assets/img/case-study__2024__ds--docs.jpg" />
@@ -152,14 +152,14 @@ Next, I started centralising and publishing knowledge to the wider team, along w
 
 <figure>
     <img alt="Storybook site for the Spark design system showing Data Grid documentation, with 'When to use', 'How to use' and 'Things to consider' sections next to a component tree." src="/_assets/img/case-study__2024__ds--storybook.jpg" />
-    <figcaption>Finalised content was then incorporated back in to Storybook with usage examples.</figcaption>
+    <figcaption>Finalised content was then incorporated back into Storybook with usage examples.</figcaption>
 </figure>
 
-A key artefact I also chose to consider initially was to standardise a process for other product teams to use when _deciding when to create a new pattern_. This was done to reduce the risk of redundant work or accidentally having two teams try to solve the same problem. Ultimately, this was also done to help anyone know how best to contribute something
+Early on, I also standardised a process for other product teams to use when _deciding when to create a new pattern_. This was done to reduce the risk of redundant work or accidentally having two teams try to solve the same problem. Ultimately, this was also done to help anyone know how best to contribute something.
 
 <figure>
     <img alt="Flowchart starting at 'New pattern'. It asks whether something similar already exists in the design system, whether it meets all requirements, and whether it can be extended or generalised for other teams, leading to 'Use it', 'Propose changes', 'Override existing pattern', 'Propose new pattern' or 'Build a one-off component'." src="/_assets/img/case-study__2024__ds--contribution.jpg" />
-    <figcaption>Graphic detailing a short flow to help teams decided how and when to contribute to the design system.</figcaption>
+    <figcaption>Graphic detailing a short flow to help teams decide how and when to contribute to the design system.</figcaption>
 </figure>
 
 
@@ -167,15 +167,15 @@ A key artefact I also chose to consider initially was to standardise a process f
 
 With some useful resources catalogued and in-use, I was now able to turn my attention towards the things we didn't find.
 
-I organised additional short interviews with each of our internal product teams. I wanted to understand what challenges they were having crafting the right solutions for end-users. Where did they feel limited by the UI building blocks available? What wasn't working? What were we lacking that we could prioritised as something we could add? Were there any similar pain points being experienced by multiple teams?
+I organised additional short interviews with each of our internal product teams. I wanted to understand what challenges they were having crafting the right solutions for end-users. Where did they feel limited by the UI building blocks available? What wasn't working? What were we lacking that we could prioritise as something we could add? Were there any similar pain points being experienced by multiple teams?
 
-The output of these conversations were collated in Miro, where I ran a short exercise with the team I was working with consider options.
+The output of these conversations was collated in Miro, where I ran a short exercise with the team I was working with to consider options.
 
 After some simple ideation, estimating and prioritising, we landed on improving our data table UI, which I will detail in a separate case study.
 
 <figure>
     <img alt="Miro board for a remote workshop with areas for scene setting, a problem space and solution space full of sticky notes from simple ideation, a prioritisation matrix, and output and actions." src="/_assets/img/case-study__2024__ds--discovery.jpg" />
-    <figcaption>Remote discovery session I ran to establish pain points and consider some immediate low-hanging solutions.</figcaption>
+    <figcaption>Remote discovery session I ran to establish pain points and find some quick wins.</figcaption>
 </figure>
 
 ## Outcome
@@ -183,16 +183,16 @@ After some simple ideation, estimating and prioritising, we landed on improving 
 At this point, I had collaborated across the business to:
 
 - Retroactively produce a UI library in Figma for product teams to use across the design life-cycle.
-- Begun going through key components, writing documentation and drafting usage rules.
-- Sync'd things back to Storybook to act as a source of true between designers, engineers and PMs. 
-- Begun the journey to full productisation of our design system, now named 'Spark'.
+- Begin going through key components, writing documentation and drafting usage rules.
+- Sync things back to Storybook to act as a source of truth between designers, engineers and PMs. 
+- Begin the journey to full productisation of our design system, now named 'Spark'.
 
 ### Candidates for next steps
 
 - Continue to document individual components, end to end. 
 - Consider ways analytics could be used to help provide more data to help make smarter decisions.
-- Understand how newly emerged technologies such as AI, LLMs and natural language interfaces could be leveraged to help make it easier to grow and wield the design system.
-- Continue to invest in upgrades to key components and patterns to improve things for end-users.
+- Understand how newly emerged technologies such as AI, LLMs and natural language interfaces could make it easier to grow and wield the design system.
+- Continue to invest in upgrades to components and patterns to improve things for end-users.
 
 ### Reflections
 
@@ -201,6 +201,6 @@ At this point, I had collaborated across the business to:
 
 ## Notes for hiring managers
 
-- In order to tell a coherent story, I've streamlined the sequencing of some of the work here. Not all of the work was completed in order as appears in this case study. In fact, the design system topic was picked up, then parked, several times over during my time at Piclo as other priorities came and went. Happy to dig in to this further in person.
+- In order to tell a coherent story, I've streamlined the sequencing of some of the work here. Not all of the work was completed in the order it appears in this case study. In fact, the design system topic was picked up, then parked, several times over during my time at Piclo as other priorities came and went. Happy to dig into this further in person.
 
 Thank you 🙏

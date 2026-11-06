@@ -1,6 +1,6 @@
 ---
 title: About Mike
-intro: Multiple-hat-wearing design lead mixing Product Design, Visual Design and front-end disciplines to create impactful experiences.
+intro: Product design lead working across research, UX, visual design and front-end, helping teams build thoughtful solutions to problems that matter.
 layout: default
 layoutClass: about
 ---
@@ -9,7 +9,7 @@ layoutClass: about
 
 <section class="intro">
     <h1 class="salutation">
-        I'm a deeply purpose driven designer who believes that good design should be an inclusive, multi-disciplinary <span class="emphasis-text">team sport</span>.
+        I'm a deeply purpose-driven designer who believes that good design should be an inclusive, multi-disciplinary <span class="emphasis-text">team sport</span>.
     </h1>
 </section>
 
@@ -17,13 +17,13 @@ layoutClass: about
     <img alt="Portrait of Mike, wearing round glasses, a white t-shirt and a brown overshirt, in front of a bold blue brushstroke" src="/_assets/img/mike-marker.jpg" />
 </figure>
 
-For nearly fifteen years, I’ve combined Product, Service and Visual Design disciplines—with a side-order of front-end—to help start-ups, scale-ups and enterprises grow, level-up, and move faster.
+For nearly fifteen years, I’ve combined Product, Service and Visual Design disciplines—with a side-order of front-end—to help start-ups, scale-ups and enterprises grow and move faster.
 
-My design stack currently includes a lot of Figma, Miro, Obsidian for writing, and ChatGPT for moving faster, although I’ll never tire of getting messy with pens and paper.
+My design stack currently includes a lot of Figma, Miro, Obsidian for writing, and ChatGPT for first drafts and research, although I’ll never tire of getting messy with pens and paper.
 
-Outside of work, I'm passionate about running, great coffee, and old book smells. I'm currently teaching myself how to play <a href="https://www.chess.com/member/multiplehatguy" target="_blank">chess properly</a>, targeting a half marathon pb, and am informally developing some coaching skills aimed at early-career designers and creatives.
+Outside of work, I'm passionate about running, great coffee, and old book smells. I'm currently teaching myself how to play <a href="https://www.chess.com/member/multiplehatguy" target="_blank">chess properly</a>, targeting a half marathon PB, and am informally developing some coaching skills aimed at early-career designers and creatives.
 
-Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: mikerst@gmail.com">email</a> or find me on <a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>. 
+Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto:mikerst@gmail.com">email</a> or find me on <a title="My LinkedIn profile" target="_blank" href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>. 
 
 
 ## Nice words from awesome people
@@ -39,7 +39,7 @@ Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: m
 </blockquote>
 
 <blockquote cite="https://www.linkedin.com/in/mikerst/">
-    <p>"Just wanted to re-iterate that I’m <b>incredibly grateful for everything you’ve done</b> for me. I couldn’t have wished for a better line manager. "</p>
+    <p>"Just wanted to re-iterate that I’m <b>incredibly grateful for everything you’ve done</b> for me. I couldn’t have wished for a better line manager."</p>
     <p>— <cite>Dom Hart, Senior Brand Designer</cite></p>
 </blockquote>
 
@@ -79,60 +79,61 @@ Say hi via <a title="Email me mikerst@gmail.com" target="_blank" href="mailto: m
 
 <ul class="timeline">
     <li>
-        <span>'26</span> <span>Still with <a title="EA Technology" target="_blank" href="https://eatechnology.com">EA Technology</a>, I'm now acting in a consultancy context on 0-1 initiatives.</span>
+        <span>'26</span> <span>Still with <a title="EA Technology" target="_blank" href="https://eatechnology.com">EA Technology</a>, I'm now acting in a consultancy context on zero-to-one initiatives.</span>
     </li>
     <li>
         <span>'25</span> <span>Joined <a title="EA Technology" target="_blank" href="https://eatechnology.com">EA Technology</a> as a Principal Product Designer to help seed and improve UX maturity throughout the organisation.</span>
     </li>
     <li>
-        <span>'24</span> <span>Departed <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> after a very positive 4.5 year stint due to a company re-structure.</span>
+        <span>'24</span> <span>Departed <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> after a very positive 4.5-year stint due to a company restructure.</span>
     </li>
     <li>
         <span>'22</span> <span>Promoted to Lead Product Designer at <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> with an expanded remit covering design systems, accessibility, zero-to-one products, line-management and more.</span>
     </li>
     <li>
-        <span>'20</span> <span>Joined <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> as a Product Designer, advocating for and practicing human-centered design in the energy sector.</span>
+        <span>'20</span> <span>Joined <a title="Piclo" target="_blank" href="https://www.piclo.energy">Piclo</a> as a Product Designer, advocating for and practising human-centred design in the energy sector.</span>
     </li>
     <li>
-        <span>'19</span> <span>Embarked on a career break in April to take-stock, re-energise, and figure some things out #askmeanything.</span>
+        <span>'19</span> <span>Embarked on a career break in April to take stock, re-energise, and figure some things out #askmeanything.</span>
     </li>
     <li>
-        <span>'17</span> <span>Segue to Product team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/">TotallyMoney</a>, contributing end-to-end, from user research through to visual design and front-end development.</span>
+        <span>'17</span> <span>Segued to the Product team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/">TotallyMoney</a>, contributing end-to-end, from user research through to visual design and front-end development.</span>
     </li>
     <li>
-        <span>'15</span> <span>Moved to Marketing team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com">TotallyMoney</a>, designing and managing workflows across all channels, from content and email, through to social media and print.</span>
+        <span>'15</span> <span>Moved to the Marketing team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com">TotallyMoney</a>, designing and managing workflows across all channels, from content and email, through to social media and print.</span>
     </li>
     <li>
         <span>'13</span> <span>Joined Brand team at <a title="TotallyMoney" target="_blank" href="https://www.totallymoney.com/">TotallyMoney</a> as a Digital Designer in a generalist role.</span>
     </li>
     <li>
-        <span>'09</span> <span>Cut my teeth working agency-side for <a title="Metaphors" target="_blank" href="https://www.metaphors.co.uk/">Metaphors</a>, a boutique brand agency in leafy Holland park.</span>
+        <span>'09</span> <span>Cut my teeth working agency-side for <a title="Metaphors" target="_blank" href="https://www.metaphors.co.uk/">Metaphors</a>, a boutique brand agency in leafy Holland Park.</span>
     </li>
     <li>
         <span>'08</span> <span>Arrived in London as a self-employed designer. Slept on many couches.</span>
     </li>
     <li>
-        <span>'08</span> <span>Completed MSc Digital Art & Technology from <a title="i-DAT" target="_blank" href="https://www.plymouth.ac.uk/research/i-dat">i-DAT</a>.</span>
+        <span>'08</span> <span>Completed MSc Digital Art & Technology at <a title="i-DAT" target="_blank" href="https://www.plymouth.ac.uk/research/i-dat">i-DAT</a>.</span>
     </li>
     <li>
-        <span>'07</span><span>Adventuring in New Zealand for a time. Made some more friends.</span>
+        <span>'07</span> <span>Adventuring in New Zealand for a time. Made some more friends.</span>
     </li>
     <li>
         <span>'06</span> <span>Got lost in Azeroth for a time. Made some friends.</span>
     </li>
     <li>
-        <span>'05</span> <span>Completed BA (Hons) Graphic Design from <a title="Arts University Bournemouth" target="_blank" href="https://en.wikipedia.org/wiki/Arts_University_Bournemouth">AUB</a>. Created all the animations and graphics for the end-of-year show.</span>
+        <span>'05</span> <span>Completed BA (Hons) Graphic Design at <a title="Arts University Bournemouth" target="_blank" href="https://en.wikipedia.org/wiki/Arts_University_Bournemouth">AUB</a>. Created all the animations and graphics for the end-of-year show.</span>
     </li>
     <li>
-        <span>'03</span> <span>Paid summer internship creating 3D animations for POS display advertising, architectural walkthroughs.</span>
+        <span>'03</span> <span>Paid summer internship creating 3D animations for POS display advertising and architectural walkthroughs.</span>
     </li>
     <li>
-        <span>'02</span> <span>Completed ND Art & Design at <a title="Plymouth College of Art" target="_blank" href="https://www.plymouthart.ac.uk/">PCA</a>. Secured my first paid creative job taking portrait photos of a local author for an upcoming book.
+        <span>'02</span> <span>Completed ND Art & Design at <a title="Plymouth College of Art" target="_blank" href="https://www.plymouthart.ac.uk/">PCA</a>. Secured my first paid creative job taking portrait photos of a local author for an upcoming book.</span>
+    </li>
     <li>
         <span>'00</span> <span>Received cease and desist from <a title="The Bitmap Brothers" target="_blank" href="https://en.wikipedia.org/wiki/The_Bitmap_Brothers">The Bitmap Brothers</a> for Quake 3 mod "Speedball Arena".</span>
     </li>
     <li>
-        <span>'97</span> <span>Spent an entire summer designing levels for the various video games when I should have really been outside.</span>
+        <span>'97</span> <span>Spent an entire summer designing levels for various video games when I should have really been outside.</span>
     </li>
     <li>
         <span>'89</span> <span>Wrote some code to make a white blob move across the screen on a Commodore 64 (Dad helped).</span>

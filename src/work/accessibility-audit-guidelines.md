@@ -18,19 +18,19 @@ Over a 6 month period, I worked both individually, and as part of a small cross-
 
 At Piclo, we hadn't yet formalised our approach to designing accessible digital services, and we didn't know how well we were doing (or not doing) across our ecosystem of customer touchpoints.
 
-In addition, Piclo's SaaS product and business services were being procured by a UK public sector organisation. A key requirement of this process asked that we commit to ensuring our web app adhered to <a title="GOV UK accessibility standard guidance" href="#https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps" target="_blank">key accessibility standards</a>, which we did. 
+In addition, Piclo's SaaS product and business services were being procured by a UK public sector organisation. A key requirement of this process asked that we commit to ensuring our web app adhered to <a title="GOV UK accessibility standard guidance" href="https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps" target="_blank">accessibility standards</a>, which we did. 
 
 This hard requirement acted as a catalyst to our desire to find out, see where we were falling short, and make improvements.
 
 ## Role
 
-- Become the thought-leader at Piclo on the topic of accessibility to help educate the wider team.
+- Lead on accessibility at Piclo and help educate the wider team.
 - Identify best practices, explore tooling options, and define what 'good accessibility' looks like for Piclo.
 - Work with the team to classify, prioritise and triage issues discovered, workshopping potential solutions with the team using Miro and Figma.
 - Write accessibility statement based on GOV.UK guidance.
 - Ensure knowledge was shared and distributed.
 
-## Key contributions
+## My contributions
 
 ### Asking questions and identifying work themes
 
@@ -43,13 +43,13 @@ When considering this work initially, the team hadn't yet been fully formed, and
 
 This proved valuable, as it helped to lay some ground-work ahead of others joining the project by providing loose structure. 
 
-From the above, I was able to work with incoming colleagues to arrive at the following high-altitude project structure.
+From the above, I was able to work with incoming colleagues to arrive at the following rough project structure.
 
-We'd spend a short period (not to scale below) figuring some things out based up initial questions, then we'd move in to a phase where we'd be both auditing and delivering solutions in parallel.
+We'd spend a short period (not to scale below) figuring some things out based on our initial questions, then we'd move into a phase where we'd be both auditing and delivering solutions in parallel.
 
 <figure>
     <img alt="Timeline split into Discovery and Delivery tracks. Discovery: 1, build initial knowledge and expertise; 2, evaluate tools and testing methods; 3, audit the application and gather evidence. Delivery overlaps the audit: 4, prioritising, sequencing and executing the work." src="/_assets/img/case-study__2024__a11y--plan.jpg" />
-    <figcaption>Thinking in dual tracks helped to unlock speed and efficiency.</figcaption>
+    <figcaption>Thinking in dual tracks helped us move faster.</figcaption>
 </figure>
 
 ### Defining some strategic principles
@@ -60,11 +60,11 @@ From those conversations, as well as taking inspiration from several webinars an
 
 | Principle   | Description |
 | -------- | ------- |
-| Everyone is responsible. | We didn't want to fall in to the trap of making accessibility the problem of one specific team, we wanted the whole business to be pulling in the right direction. |
+| Everyone is responsible | We didn't want to fall into the trap of making accessibility the problem of one specific team, we wanted the whole business to be pulling in the right direction. |
 | Embedded | Accessibility isn't just something to test for at the end of the process before shipping, it should be embedded end to end in how we design solutions for users. |
 | Continuous | Accessibility isn't something we stop thinking about when some target is met. Good standards, once achieved, need to be maintained and carried forward as our software and services evolve. |
 | Non-disruptive | Achieving and maintaining standards will require extra effort, but we aim to minimise the impact on other teams who are focussed on other problems. |
-| Imperative | Contractual obligations aside, poor accessibility standards is, in our case, bad for users,  bad for business, and bad for the planet. |
+| Imperative | Contractual obligations aside, poor accessibility standards are, in our case, bad for users, bad for business, and bad for the planet. |
 
 ### Organising the work
 
@@ -72,7 +72,7 @@ I made the choice early in the project to create a simple way to keep track of e
 
 This also proved to be a great resource to help onboard colleagues who joined the team, whether they were engineers or product managers. 
 
-The following details some key things I included to help us stay organised.
+The following details some things I included to help us stay organised.
 
 <figure>
     <img alt="Google Sheet audit checklist listing each page URL with columns for customer type and pass or fail results from Lighthouse, Axe, WAVE, keyboard and screen reader tests. Annotations highlight 'Who is affected?' and 'Link to scoped tickets'." src="/_assets/img/case-study__2024__a11y--check.jpg" />
@@ -98,7 +98,7 @@ As you can see from the empty cell highlighted above, this last sheet wasn't ent
 
 ### Standardising ideation for efficiency
 
-We used Miro as a place to gather visual evidence accumulated during our audit. I chose to create repeatable ideation canvases we could 'fill in te blanks' on to smoothly move through each issue consistently.
+We used Miro as a place to gather visual evidence accumulated during our audit. I chose to create repeatable ideation canvases we could 'fill in the blanks' on to smoothly move through each issue consistently.
 
 <figure>
     <img alt="Miro audit canvas with four areas: screenshots of a login journey on phone, tablet and desktop; an audit space holding Lighthouse, Axe and WAVE reports; sticky notes of issues discovered; and a prioritisation matrix." src="/_assets/img/case-study__2024__a11y--audit1.jpg" />
@@ -113,14 +113,14 @@ My aim was to make it as easy as possible for the team to fly through the work a
 
 <figure>
     <img alt="Miro canvas for a single issue, 'No page regions are defined', with sections for evidence from WAVE and Axe, a proposed solution annotated on a login screen wireframe, open questions, and a link to the relevant WCAG criterion." src="/_assets/img/case-study__2024__a11y--audit2.jpg" />
-    <figcaption>Drilling down in to specific issues.</figcaption>
+    <figcaption>Drilling down into specific issues.</figcaption>
 </figure>
 
 
 ### Codifying what good looks like
-Towards the end of the project, we had built high confidence in our domain knowledge and working practices. Referring back to several of the principles highlighted earlier, I wanted to use part of our remaining time to decentralise that knowledge and onboarding other teams.
+Towards the end of the project, we had built high confidence in our domain knowledge and working practices. Referring back to several of the principles highlighted earlier, I wanted to use part of our remaining time to decentralise that knowledge and onboard other teams.
 
-To aid this process, I created a serious of slides that walked teams through everything we had learned. 
+To aid this process, I created a series of slides that walked teams through everything we had learned. 
 
 <figure>
     <img alt="Slides from an A11y Guide deck for Piclo, with the 'What is accessibility / a11y?' slide circled. It explains that accessibility means making services usable by the widest possible audience, and that accessibility is broader than disability." src="/_assets/img/case-study__2024__a11y--guide1.jpg" />
@@ -137,19 +137,19 @@ To aid this process, I created a serious of slides that walked teams through eve
     <figcaption>Setting a clear standard with acceptance criteria for product teams to use when working on new features.</figcaption>
 </figure>
 
-Lastly, I needed to write-up an accessibility statement. I conducted a short analysis of what other businesses were doing in this space to identify good practice and align with our own business needs. The latest version of his can be seen live <a title="Piclo's A11y Statement" href="https://www.piclo.energy/accessibility" target="_blank">here</a>.
+Lastly, I needed to write up an accessibility statement. I conducted a short analysis of what other businesses were doing in this space to identify good practice and align with our own business needs. The latest version of this can be seen live <a title="Piclo's A11y Statement" href="https://www.piclo.energy/accessibility" target="_blank">here</a>.
 
 <figure>
     <img alt="Zoomed-out Miro board comparing accessibility statements from several other organisations side by side, with annotated sticky notes and a summary column of takeaways." src="/_assets/img/case-study__2024__a11y--statement.jpg" />
-    <figcaption>One-size fits one. Identifying good practice for writing an accessibility statement.</figcaption>
+    <figcaption>One size fits one. Identifying good practice for writing an accessibility statement.</figcaption>
 </figure>
 
 ## Wrap-up
 
 ### What worked
 
-- As a result of our robust and thorough processes, we were able to identify and deploy solutions to dozens of accessibility issues that in some cases took us to AAA compliance. 
-- Our team also had other projects and responsibilities to juggle, and we are able to target deploying a11y improvements alongside other strategically relevant work.
+- We identified and shipped fixes for dozens of accessibility issues, in some cases reaching AAA compliance. 
+- Our team also had other projects and responsibilities to juggle, and we were able to target deploying a11y improvements alongside other strategically relevant work.
 - I was able to help the business arrive at a set of processes that could help the team maintain standards with as little impact on existing workflows as possible.
 - We met our contractual requirements.
 - In some cases, solving accessibility issues led to more general improvements for all audiences.
@@ -157,15 +157,15 @@ Lastly, I needed to write-up an accessibility statement. I conducted a short ana
 ### Questions for the future
 
 - How might we automate some of our testing processes so we become better at catching issues and reducing manual work?
-- Going beyond technical... how might we asses the accessibility of our copywriting, content design, and anything else requiring a more qualitative measure of success?
-- How might we continue to build an inclusive experience that will also, by it's nature, become more information and data rich? 
+- Going beyond technical... how might we assess the accessibility of our copywriting, content design, and anything else requiring a more qualitative measure of success?
+- How might we continue to build an inclusive experience that will also, by its nature, become more information and data rich? 
 
 ### Reflections
 
-- There is no one-size fits all approach to _creating_ accessible and inclusive services. Every organisation, and their respective audiences, will have different needs, depending on how they work, and functions of the service.
-- Modern web applications are always evolving and are therefore a moving target, so any accessibility solutions deployed must account for things changing over time, and provide a means for teams to feed in to the process. 
+- There is no one-size-fits-all approach to _creating_ accessible and inclusive services. Every organisation, and their respective audiences, will have different needs, depending on how they work, and functions of the service.
+- Modern web applications are always evolving and are therefore a moving target, so any accessibility solutions deployed must account for things changing over time, and provide a means for teams to feed into the process. 
 - Working at the component level was a great way to ensure improvements had widespread impact, and had the added benefit of maturing our design system as a result.
-- Everyone wants to build inclusive services, but actually building the deeper levels of expertise needed to deliver on that is challenging and can require quite specialist knowledge. How could this be made easier for teams to digest and leverage in their own work? 
+- Everyone wants to build inclusive services, but actually building the deeper levels of expertise needed to deliver on that is challenging and can require quite specialist knowledge. How could this be made easier for teams to digest and apply in their own work? 
 
 
 ## Notes for hiring managers

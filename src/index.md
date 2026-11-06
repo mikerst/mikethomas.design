@@ -1,6 +1,6 @@
 ---
 title: Mike Thomas
-intro: Multiple-hat-wearing design lead mixing Product Design, Visual Design and front-end disciplines to create impactful experiences.
+intro: Product design lead working across research, UX, visual design and front-end, helping teams build thoughtful solutions to problems that matter.
 layout: default
 layoutClass: home
 ---

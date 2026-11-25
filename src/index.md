@@ -7,37 +7,31 @@ layoutClass: home
 
 <section class="intro">
     <h1 class="salutation">
-        <div>I help teams create </div>
-        <div><span class="emphasis-text">thoughtful</span> digital solutions</div>
-        <div> to problems that matter.</div>
+        <span class="line">I help teams create </span>
+        <span class="line"><span class="emphasis-text">thoughtful</span> digital solutions</span>
+        <span class="line"> to problems that matter.</span>
     </h1>
 </section>
 
 
-<section class="projects">
+<ul class="projects">
 
-  {%- for page in collections.work | reverse  | filterByTag("recent") -%}
-      <div class="project stagger">
+  {%- for page in collections.recent | reverse -%}
+      <li class="project stagger">
         <div class="project-thumb">
-          <a title="{{ page.data.title }}" href="{{ page.url }}"><img alt="{{ page.data.title }}" src="/_assets/img/{{page.data.hero}}" sizes="(min-width: 641px) 50vw, 100vw" /></a>
+          <a href="{{ page.url }}" tabindex="-1" aria-hidden="true"><img alt="" src="/_assets/img/{{page.data.hero}}" sizes="(min-width: 641px) 50vw, 100vw" /></a>
         </div>
         <div class="project-details">
           <span class="project-type">{{ page.data.type }}</span>
-          <h3><a href="{{ page.url }}">{{ page.data.title }}</a></h3>
+          <h2><a href="{{ page.url }}">{{ page.data.title }}</a></h2>
           <span class="read-time">{{page.data.rt}}</span>
         </div>
-      </div>
+      </li>
   {%- endfor -%}
-</section>
+</ul>
 
 <hr/>
 
 <h2>Let's make the world better, <span class="emphasis-text">together</span></h2>
 
-Get in touch with me on <a title="Contact me via LinkedIn" href="https://www.linkedin.com/in/mikerst/" target="_blank">LinkedIn</a>, or email me at <a href="mailto:mikerst@gmail.com">mikerst@gmail.com</a>.
-
-
-
-
-
-
+Get in touch with me on <a href="https://www.linkedin.com/in/mikerst/">LinkedIn</a>, or email me at <a href="mailto:mikerst@gmail.com">mikerst@gmail.com</a>.

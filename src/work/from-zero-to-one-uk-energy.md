@@ -36,7 +36,7 @@ The UK's electricity grid is decarbonising as part of efforts to tackle climate 
     <figcaption>Could the potential for growth be improved as a consequence of cutting through complexity?</figcaption>
 </figure>
 
-In response to this incredibly large challenge, as part of a broader stream of innovation work, Piclo was <a title="Link to Piclo's funding award notice" href="https://www.gov.uk/government/publications/flexibility-exchange-demonstration-competition-flex-winning-projects/flex-competition-winning-projects" target="_blank">awarded funding</a> from UK Government and Innovate UK to develop an open and transparent marketplace enabling the trading of primary and secondary contracts. Our flagship SaaS product, Piclo Flex, was already tackling this head-on by enabling network operators to award primary local flexibility contracts at scale across their networks. But what about secondary trading? How could we build on our market position and expertise to tackle this space too?
+In response to this incredibly large challenge, as part of a broader stream of innovation work, Piclo was <a href="https://www.gov.uk/government/publications/flexibility-exchange-demonstration-competition-flex-winning-projects/flex-competition-winning-projects">awarded funding</a> from UK Government and Innovate UK to develop an open and transparent marketplace enabling the trading of primary and secondary contracts. Our flagship SaaS product, Piclo Flex, was already tackling this head-on by enabling network operators to award primary local flexibility contracts at scale across their networks. But what about secondary trading? How could we build on our market position and expertise to tackle this space too?
 
 ### Ground-level
 

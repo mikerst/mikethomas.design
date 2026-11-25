@@ -1,0 +1,16 @@
+# AI training crawlers are blocked. AI search and answer tools (such as
+# OAI-SearchBot, ChatGPT-User, Claude-SearchBot, Claude-User, PerplexityBot)
+# are still allowed, so the site can be found and cited in AI search results.
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+User-agent: meta-externalagent
+User-agent: Bytespider
+Disallow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://mikethomas.design/sitemap.xml

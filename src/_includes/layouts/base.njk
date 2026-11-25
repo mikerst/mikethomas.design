@@ -1,44 +1,46 @@
 <!doctype html>
-<html {% if theme %}theme="{{ theme }}"{% endif %} lang="en">
+<html {% if theme %}data-theme="{{ theme }}"{% endif %} lang="en-GB">
 <head>
 	<meta charset="UTF-8">
 	<script>document.documentElement.classList.add('js')</script>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Product design lead working across research, UX, visual design and front-end, helping teams build thoughtful solutions to problems that matter.">
-	<meta name="theme-color" content="#010101">
-  
-	<title>{% if title %}{{ title }}{% endif %}</title>
-  
+	<meta name="description" content="{{ intro or site.description }}">
+	<meta name="theme-color" content="{{ site.themeColor }}">
+
+	<title>{% if page.url == "/" %}{{ site.name }} – {{ site.role }}{% else %}{{ title }} – {{ site.name }}{% endif %}</title>
+	{% if page.url and page.url != "/404.html" %}<link rel="canonical" href="{{ site.rootUrl }}{{ page.url }}">{% endif %}
+
   <link rel="apple-touch-icon" sizes="180x180" href="/_assets/img/apple-touch-icon.png?v=2">
   <link rel="icon" type="image/png" sizes="32x32" href="/_assets/img/favicon-32x32.png?v=2">
   <link rel="icon" type="image/png" sizes="16x16" href="/_assets/img/favicon-16x16.png?v=2">
   <link rel="manifest" href="/site.webmanifest">
-  
 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Libre+Baskerville:ital@0;1&family=Manrope:wght@200..800&display=swap">
   <link rel="stylesheet" href="/_assets/css/styles.css" />
   {% include "meta.njk" %}
 </head>
 
 <body>
 
+  <a class="skip-link" href="#main">Skip to content</a>
 
   {% include "header.njk" %}
 
-  <main {% if layoutClass %}class="{{ layoutClass }}"{% endif %}>
+  <main id="main" {% if layoutClass %}class="{{ layoutClass }}"{% endif %}>
 
   {{ content | safe }}
 
   </main>
-  
+
   {% include "footer.njk" %}
 
-  {% set js %}
-    {% include "js/core.js" %}
-    {% include "js/home.js" %}
-  {% endset %}
+  {% if layoutClass == "home" %}
   <script>
-    {{ js | jsmin | safe }}
+    {% include "js/home.js" %}
   </script>
+  {% endif %}
 
 </body>
 

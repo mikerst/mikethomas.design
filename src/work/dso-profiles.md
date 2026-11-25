@@ -118,7 +118,7 @@ The following evidences some of the design artefacts I produced during the proje
 - The shipped solution included a directory page, sorted alphabetically initially, with room to add search or filtering later.
 - Individual pages could be broken down into customisable tabbed sections, with key stats and a post feed per market operator.
 - Each tab could have complex content added, whether via HTML, Markdown, Rich Text or Image.
-- You can see this live <a title="Operator Profiles on Piclo.energy" href="https://www.piclo.energy/profiles" target="_blank">here</a>.
+- You can <a href="https://www.piclo.energy/profiles">see the live operator profiles on Piclo.energy</a>.
 
 <figure>
     <img alt="Live System Operator Profiles directory page on Piclo, showing a grid of operator logo cards including Citipower, E-Distribuzione, E-REDES, ESB Networks, Electricity North West, Eversource, NESO and National Grid." src="/_assets/img/case-study__2024__dso-profiles--shot001.jpg" />

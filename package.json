@@ -1,21 +1,20 @@
 {
-  "name": "MikeThomas",
+  "name": "mikethomas-design",
   "version": "1.0.0",
-  "description": "A project bootstrap for Eleventy sites. With pipelines for PostCSS, JavaScript, and serverless functions",
+  "private": true,
+  "description": "Personal portfolio site for Mike Thomas, built with Eleventy and deployed on Netlify.",
   "author": "Mike Thomas",
   "license": "MIT",
+  "engines": {
+    "node": ">=24"
+  },
   "scripts": {
     "start": "npm run dev",
     "dev": "eleventy --serve",
     "build": "eleventy"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/philhawksworth/eleventyone"
-  },
   "dependencies": {
     "@11ty/eleventy": "^3.1.7",
-    "@11ty/eleventy-img": "^7.1.1",
-    "terser": "^4.3.9"
+    "@11ty/eleventy-img": "^7.1.1"
   }
 }

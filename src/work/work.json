@@ -1,5 +1,4 @@
 {
-  "layout" : "layouts/work.md",
-  "tags" : "work",
-  "templateEngineOverride": "njk,md"
+  "layout": "layouts/work.njk",
+  "tags": "work"
 }

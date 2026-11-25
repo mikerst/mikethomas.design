@@ -12,13 +12,13 @@ rt: 6 min read
 
 ## What
 
-Over a 6 month period, I worked both individually, and as part of a small cross-functional team to audit and improve Piclo's flagship SaaS app, Piclo Flex, with the goal being to achieve 'AA' accessibility standards across the whole app, aligned to <a title="Web Content Accessibility Guidelines (WCAG) 2.1" href="https://www.w3.org/TR/WCAG21/" target="_blank">WCAG 2.1 accessibility guidelines</a>.
+Over a 6 month period, I worked both individually, and as part of a small cross-functional team to audit and improve Piclo's flagship SaaS app, Piclo Flex, with the goal being to achieve 'AA' accessibility standards across the whole app, aligned to <a href="https://www.w3.org/TR/WCAG21/">WCAG 2.1 accessibility guidelines</a>.
 
 ## Why
 
 At Piclo, we hadn't yet formalised our approach to designing accessible digital services, and we didn't know how well we were doing (or not doing) across our ecosystem of customer touchpoints.
 
-In addition, Piclo's SaaS product and business services were being procured by a UK public sector organisation. A key requirement of this process asked that we commit to ensuring our web app adhered to <a title="GOV UK accessibility standard guidance" href="https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps" target="_blank">accessibility standards</a>, which we did. 
+In addition, Piclo's SaaS product and business services were being procured by a UK public sector organisation. A key requirement of this process asked that we commit to ensuring our web app adhered to <a href="https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps">accessibility standards</a>, which we did. 
 
 This hard requirement acted as a catalyst to our desire to find out, see where we were falling short, and make improvements.
 
@@ -137,7 +137,7 @@ To aid this process, I created a series of slides that walked teams through ever
     <figcaption>Setting a clear standard with acceptance criteria for product teams to use when working on new features.</figcaption>
 </figure>
 
-Lastly, I needed to write up an accessibility statement. I conducted a short analysis of what other businesses were doing in this space to identify good practice and align with our own business needs. The latest version of this can be seen live <a title="Piclo's A11y Statement" href="https://www.piclo.energy/accessibility" target="_blank">here</a>.
+Lastly, I needed to write up an accessibility statement. I conducted a short analysis of what other businesses were doing in this space to identify good practice and align with our own business needs. The latest version is live as <a href="https://www.piclo.energy/accessibility">Piclo's accessibility statement</a>.
 
 <figure>
     <img alt="Zoomed-out Miro board comparing accessibility statements from several other organisations side by side, with annotated sticky notes and a summary column of takeaways." src="/_assets/img/case-study__2024__a11y--statement.jpg" />
